@@ -129,8 +129,12 @@ def generate():
 
     messages = [{"role": "system", "content": instruction}]
 
+    summaryPrompt = f"""
+The user is reading the book {name}, {chapter}. You are to generate 10 questions based off of the summary below.
+Summary:
+{content}    
+    """
 
-    #dont error correct just yet
     try:
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
