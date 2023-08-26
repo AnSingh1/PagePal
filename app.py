@@ -109,6 +109,18 @@ def generate():
 
 
     #get the chapter text
+    url = f"https://www.sparknotes.com{chapterlink}"
+    response = requests.get(url)
+    html_content = response.content
+
+    soup = BeautifulSoup(html_content, 'html.parser')
+    summarydiv = soup.find(class_='mainTextContent main-container')
+
+    paragraphs = summarydiv.find_all('p')
+
+    content = ""
+    for paragraph in paragraphs:
+        content += re.sub(r'\s+', ' ', paragraph.content) + '\n'
 
 
     with open('instruction.txt', 'r') as file:
@@ -117,17 +129,18 @@ def generate():
 
     messages = [{"role": "system", "content": instruction}]
 
-    while not questions_data:
-        try:
-            response = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
-                messages=messages
-            )
-            result = response["choices"][0]["message"]["content"]
 
-            questions_data = json.loads(result, strict=False)
-        except Exception as e:
-            print(e)
+    #dont error correct just yet
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=messages
+        )
+        result = response["choices"][0]["message"]["content"]
+
+        questions_data = json.loads(result, strict=False)
+    except Exception as e:
+        print(e)
 
     print(questions_data)
 

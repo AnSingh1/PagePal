@@ -22,5 +22,5 @@ paragraphs = summarydiv.find_all('p')
 
 text = ""
 for paragraph in paragraphs:
-    text += paragraph.text.strip()
+    text += re.sub(r'\s+', ' ', paragraph.text) + '\n'
 print(text)
