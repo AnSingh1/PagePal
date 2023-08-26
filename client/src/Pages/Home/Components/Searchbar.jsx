@@ -3,13 +3,13 @@ import React, { useRef } from "react";
 import { IonIcon } from "@ionic/react";
 import { search } from "ionicons/icons";
 
-export default function Searchbar() {
+export default function Searchbar({ onSubmit }) {
   const searchRef = useRef();
 
-  const onSubmit = (e) => {
+  const submitHandler = (e) => {
     e.preventDefault();
 
-    console.log("submit");
+    onSubmit(searchRef.current.value);
   };
 
   return (
@@ -17,12 +17,12 @@ export default function Searchbar() {
       <IonIcon
         icon={search}
         className="text-text-light/50 cursor-pointer text-2xl"
-        onClick={onSubmit}
+        onClick={submitHandler}
       />
       <input
         type="search"
-        onSubmit={onSubmit}
-        onKeyDown={(e) => (e.key === "Enter" ? onSubmit(e) : null)}
+        onSubmit={submitHandler}
+        onKeyDown={(e) => (e.key === "Enter" ? submitHandler(e) : null)}
         placeholder="Search for a book..."
         ref={searchRef}
         className="text-text-light placeholder:text-text-light/50 w-full font-sans"

@@ -8,9 +8,9 @@ export default {
         brand: "#027DFF",
         text: {
           light: "#5F6366",
-          dark: "404040",
+          dark: "#404040",
         },
-        "gray-border": "212422",
+        "gray-border": "#212422",
       },
       fontFamily: {
         roboto: ["Roboto", "sans-serif"],
