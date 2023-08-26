@@ -7,6 +7,8 @@ import re
 import openai
 import dotenv
 
+dotenv.load_dotenv()
+
 app = Flask(__name__)
 
 @app.route('/', defaults={'path': ''})
@@ -39,23 +41,31 @@ def initialize():
 
     url = f'https://www.sparknotes.com/search?q={search_query}'
 
+    print(f"searching for {search_query}...")
+
     response = requests.get(url)
     html_content = response.content
+
+    print(f'grabbing search results...')
 
     soup = BeautifulSoup(html_content, 'html.parser')
 
     search_results = soup.find(class_="search-result-block top-result lit-search-icon")
 
     if search_results == None:
+        print("no results")
         return jsonify({})
 
     link = search_results.find('a').get('href')
     name = search_results.find('h3').text.strip().rsplit(' ', 2)[0]
 
+    print(f'name found: {name}')
 
     #now needs to get the chapters
 
     url = f'https://www.sparknotes.com{link}'
+
+    print('searching for chapters...')
 
     response = requests.get(url)
     html_content = response.content
@@ -75,6 +85,7 @@ def initialize():
         if re.search(pattern, div.get('href')):
             chapters[div.text.strip()] = div.get('href')
 
+    print('chapters found')
 
     info = {
         "name": name,
@@ -86,7 +97,9 @@ def initialize():
 
 
 #generation part
-openai.api_key = os.environ.get('API_Key')
+print('trying openai key...')
+openai.api_key = os.environ.get('API_KEY')
+print('openai key works')
 
 #input format
 """
@@ -101,17 +114,21 @@ chapterlink: {link of chapter},
 
 @app.route('/generate', methods = ["POST"])
 def generate():
+    print('pulling data...')
     data = request.form
     name = data['name']
     link = data['link']
     chapter = data['chapter']
     chapterlink = data['chapterlink']
-
+    print(f'data received for {name}, {chapter}:)')
 
     #get the chapter text
+    print('getting book content...')
     url = f"https://www.sparknotes.com{chapterlink}"
     response = requests.get(url)
     html_content = response.content
+    print('content received')
+    
 
     soup = BeautifulSoup(html_content, 'html.parser')
     summarydiv = soup.find(class_='mainTextContent main-container')
@@ -120,21 +137,23 @@ def generate():
 
     content = ""
     for paragraph in paragraphs:
-        content += re.sub(r'\s+', ' ', paragraph.content) + '\n'
+        content += re.sub(r'\s+', ' ', paragraph.text) + '\n'
+    print('content formatted')
 
 
     with open('instruction.txt', 'r') as file:
         instruction = file.read()
-
-
-    messages = [{"role": "system", "content": instruction}]
 
     summaryPrompt = f"""
 The user is reading the book {name}, {chapter}. You are to generate 10 questions based off of the summary below.
 Summary:
 {content}    
     """
+    
+    messages = [{"role": "system", "content": instruction}, {"role": "system", "content": summaryPrompt}]
 
+    
+    print("generating questions...")
     try:
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
@@ -145,13 +164,10 @@ Summary:
         questions_data = json.loads(result, strict=False)
     except Exception as e:
         print(e)
-
-    print(questions_data)
-
+    print('responses generated')
 
 
     return jsonify(questions_data)
-    
 
 if __name__ == "__main__":
     app.run(debug=True)
