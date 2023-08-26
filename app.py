@@ -24,10 +24,22 @@ def serveReactApp(path):
         return send_from_directory('templates/', 'index.html')
 
 
-@app.route('/example', methods = ["POST"])
+@app.route('/intiailize', methods = ["POST"])
 def login():
     data = request.form
     name = data['name']
+
+
+
+
+    chapters = []
+
+    info = {
+        "name": name,
+        "chapters": chapters,
+    }
+
+    return jsonify(info)
 
 
 if __name__ == "__main__":
