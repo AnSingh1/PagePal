@@ -29,7 +29,7 @@ def serveReactApp(path):
         return send_from_directory('templates/', 'index.html')
 
 
-@app.route('/intiailize', methods = ["POST"])
+@app.route('/initialize', methods = ["POST"])
 def initialize():
     data = request.form
     input = data['input']
@@ -47,8 +47,8 @@ def initialize():
     search_results = soup.find(class_="search-result-block top-result lit-search-icon")
 
     if search_results == None:
-        print("Broken")
-        return
+        return jsonify({})
+
     link = search_results.find('a').get('href')
     name = search_results.find('h3').text.strip().rsplit(' ', 2)[0]
 

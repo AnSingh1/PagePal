@@ -7,7 +7,8 @@ import Dropdown from "./Components/Dropdown";
 
 export default function Home() {
   const [loading, setLoading] = useState(false);
-  const [section, setSection] = useState(1);
+  const [section, setSection] = useState(0);
+  const [responseData, setResponseData] = useState({});
   const [options, setOptions] = useState([
     "Chapter 1",
     "Chapter 2",
@@ -15,14 +16,30 @@ export default function Home() {
     "Epilogue",
   ]); // TEMP
 
-  const onSearch = (e) => {
-    // setLoading(true);
+  const onSearch = async (e) => {
+    setLoading(true);
+
+    const formData = new FormData();
+    formData.append("input", e);
+
+    const response = await fetch("/initialize", {
+      method: "POST",
+      body: formData,
+    });
+
+    const data = await response.json();
+    setResponseData(data);
+
+    console.log(data);
 
     setSection(1);
+    setLoading(false);
   };
 
   const onSelect = (e) => {
     console.log(e);
+
+    setLoading(true);
   };
 
   const sections = [
