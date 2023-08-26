@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, request, jsonify, send_from_directory
 from bs4 import BeautifulSoup
 import requests
@@ -84,10 +85,56 @@ def initialize():
     return jsonify(info)
 
 
+#generation part
+openai.api_key = os.environ.get('API_Key')
+
+#input format
+"""
+{
+name: {name},
+link: {link},
+chapter: {chapter},
+chapterlink: {link of chapter},
+
+}
+"""
 
 @app.route('/generate', methods = ["POST"])
 def generate():
-    pass
+    data = request.form
+    name = data['name']
+    link = data['link']
+    chapter = data['chapter']
+    chapterlink = data['chapterlink']
+
+
+    #get the chapter text
+
+
+    with open('instruction.txt', 'r') as file:
+        instruction = file.read()
+
+
+    messages = [{"role": "system", "content": instruction}]
+
+    while not questions_data:
+        try:
+            response = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=messages
+            )
+            result = response["choices"][0]["message"]["content"]
+
+            questions_data = json.loads(result, strict=False)
+        except Exception as e:
+            print(e)
+
+    print(questions_data)
+
+
+
+    return jsonify(questions_data)
+    
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -1,10 +1,9 @@
 import React from "react";
 
-export default function Card({ title, children }) {
+export default function Card({ children }) {
   return (
-    <div className="gap-12 rounded-2xl bg-white px-12 py-8 shadow">
-      <h2 className="text-text-dark font-display text-2xl">{title}</h2>
-      <div>{children}</div>
+    <div className="flex flex-col items-center gap-8 rounded-2xl bg-white px-12 py-8 shadow">
+      {children}
     </div>
   );
 }

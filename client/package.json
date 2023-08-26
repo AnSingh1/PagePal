@@ -11,6 +11,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ionic/react": "^7.3.1",
+    "ionicons": "^7.1.2",
     "prettier": "^3.0.2",
     "prettier-plugin-tailwindcss": "^0.5.3",
     "react": "^18.2.0",

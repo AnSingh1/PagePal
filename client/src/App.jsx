@@ -6,7 +6,7 @@ import Home from "./Pages/Home/Home";
 
 export default function App() {
   return (
-    <div className="max-w-screen min-h-screen w-full">
+    <div className="max-w-screen flex min-h-screen w-full flex-col">
       <Router>
         <Header />
         <Routes>

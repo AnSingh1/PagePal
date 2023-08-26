@@ -3,3 +3,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  input {
+    appearance: none;
+  }
+
+  input[type="text"]:focus-visible,
+  input[type="search"]:focus-visible {
+    outline: none;
+  }
+
+  input[type="search"]::-webkit-search-cancel-button {
+    display: none;
+  }
+}

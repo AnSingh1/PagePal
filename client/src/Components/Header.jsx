@@ -1,11 +1,15 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Header() {
   return (
     <nav className="flex w-full gap-6 p-6">
-      <a href="/">
+      <Link to="/">
         <img src="/logo.svg" alt="Logo" className="h-6" />
-      </a>
+      </Link>
+      <Link to="/about" className="text-text-light font-sans">
+        About
+      </Link>
     </nav>
   );
 }
