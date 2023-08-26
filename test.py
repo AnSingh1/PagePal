@@ -36,5 +36,11 @@ chapters_div = soup.find(class_="landing-page__umbrella__section__list")
 
 indiv_chapters = chapters_div.find_all(class_="landing-page__umbrella__link")
 
+
+chapters = {}
 for i in indiv_chapters:
-    print(i.text.strip())
+    chapters[i.text.strip()] = i.get('href')
+
+print(chapters)
+
+#now to get the full book summary
