@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, jsonify, send_from_directory
 from bs4 import BeautifulSoup
+import requests
 import json
 
 app = Flask(__name__)
@@ -33,9 +34,11 @@ def login():
 
 
     chapters = []
+    link = "https://sparknotes.com"
 
     info = {
         "name": name,
+        "link": link,
         "chapters": chapters,
     }
 

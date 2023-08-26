@@ -1,0 +1,3073 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+  <title>Search Results: harry potter 4 | SparkNotes </title>
+
+
+  <meta name="robots" content="noindex">
+
+
+  <meta name="description" content="Search results."> </meta>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <meta property="og:image" content="https://img.sparknotes.com/sparknotes_new-1200x630.jpg" />
+ 
+
+<meta name="theme-color" content="#007ACD">
+
+<meta property="og:title" content="Search Results: harry potter 4 | SparkNotes ">
+<meta property="og:description" content="Search results.">
+<meta property="og:url" content="">
+<meta property="og:site_name" content="SparkNotes"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@SparkNotes" />
+
+<!-- SPAR-3743 : Playwire Pre-connect links -->
+<link rel="preconnect" href="https://config.playwire.com" crossorigin />
+<link rel="preconnect" href="https://cdn.intergi.com" crossorigin />
+<link rel="preconnect" href="https://cdn.intergient.com" crossorigin />
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin />
+<link rel="preconnect" href="https://cdn.playwire.com" crossorigin />
+<link rel="preconnect" href="https://cdn.video.playwire.com" crossorigin />
+<link rel="preconnect" href="https://z.moatads.com" crossorigin />
+
+<!-- SPAR-5164: SEO LCP Element-->
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script async src="https://www.google.com/recaptcha/api.js?render=6LfjgtIgAAAAAK2EUwBWgkCp1_UfyBxG2mL2uTH6"></script>
+<script src="https://btloader.com/tag?o=5150306120761344&upapi=true" async></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+<script src="/vendor/javascripts/status.js" type="text/javascript"></script>
+
+
+<script defer type="text/javascript" src="/vendor/javascripts/owl.carousel.min.js"></script>
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="b0e7e9f1-869f-4620-ba1c-120d38235a0a"></script>
+<script src="https://cdn.cookielaw.org/opt-out/iabCcpaIntegrationScript-noGAM.js" type="text/javascript" charset="UTF-8" ccpa-opt-out-ids="C0004" ccpa-opt-out-geo="us" ccpa-opt-out-lspa="false"></script>
+
+
+<!-- Google Tag Manager -->
+
+
+  <script>
+    dataLayer = [{'disableAds': 'false'}];
+  </script>
+
+
+
+
+  <script>
+  window.dataLayer = (window.dataLayer || []);
+  window.dataLayer.push({'page' : {'lit_guide_level': null}});
+  </script>
+
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+      {'gtm.start': new Date().getTime(),event:'gtm.js'}
+      );var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-PMJQF3J');
+  </script>
+<!-- End Google Tag Manager -->
+
+<!-- OneTrust Cookies Consent Notice start -->
+
+<script type="text/javascript">
+
+    function OptanonWrapper() {
+        if (location.hash === "#cookie-settings") {
+            Optanon.ToggleInfoDisplay();
+        }
+    }
+
+</script>
+
+<!-- OneTrust Cookies Consent Notice end -->
+
+
+
+
+
+    
+
+    <script>
+      const urlSearchParams = new URLSearchParams(window.location.search);
+      const params = Object.fromEntries(urlSearchParams.entries());
+      const adQuery = params && (params.disableAds === "ALL" || params.disableAds === "DS");
+      const pwAdQuery = (params && (params.disableAds === "ALL" || params.disableAds === "PW" || params.dx === "1")) || document.title.startsWith("404 Error");
+    </script>
+
+    
+      <script>
+        let storeNofearOriginalModernText = [];
+        const plusurl  = location.pathname;
+        if(plusurl.includes('/graphic-novel') || plusurl.includes('/infographic') || plusurl.includes('/quizzes') || plusurl.includes('/flashcards') || plusurl.includes('/test-prep') || plusurl.includes('/nofear')) { 
+          let redirectedUrl = null;
+
+          if(isSubscribedUser && !plusurl.includes('/plus')) {
+            redirectedUrl = '/plus' + plusurl;
+            if(location.search){
+              redirectedUrl = redirectedUrl + location.search;
+            }
+            location.href = redirectedUrl;
+          }
+        }
+      </script>
+     
+    
+    <!-- Ramp 2.0 code Start -->
+    
+    <script>
+      var ramp = null;
+    </script>
+    
+      
+        <script>
+          window.ramp = window.ramp || {};
+          window.ramp.que = (window.ramp && window.ramp.que) || [];
+        </script>
+        <script>
+            if (!pwAdQuery) {
+                setTimeout(() => {
+                    loadRampConfigJs();
+                }, 1500);
+                function loadRampConfigJs() {
+                    let script_element = document.createElement('script');
+                    script_element.src = '//cdn.intergient.com/1023142/71092/ramp_config.js';
+                    script_element.id = "ramp";
+                    script_element.async = true;
+                    document.getElementsByTagName('head')[0].append(script_element);
+                }
+            }
+        </script>
+        <!-- <script async id="ramp" src="//cdn.intergient.com/1023142/71092/ramp_config.js"></script> -->
+        <script>
+          window._pwGA4PageviewId = ''.concat(Date.now());
+          window.dataLayer = window.dataLayer || [];
+          window.gtag = window.gtag || function ()
+          
+          { dataLayer.push(arguments); }
+          ;
+          gtag('js', new Date());
+          gtag('config', 'G-WR2B5FSLC2',
+          
+          { 'send_page_view': false }
+          );
+          gtag(
+          'event',
+          'ramp_js',
+          
+          { 'send_to': 'G-WR2B5FSLC2', 'pageview_id': window._pwGA4PageviewId }
+          );
+        </script>
+      
+    
+
+     
+      <script>
+          if (!pwAdQuery) {
+              window.addEventListener('DOMContentLoaded', () => {
+                  setTimeout(load_js, 1500); // Delay 1.5 seconds in loading function
+              });
+              function load_js() {
+                  // Get the head tag
+                  var head_ID = document.getElementsByTagName("footer")[0];
+                  // Create script element
+                  var script_element = document.createElement('script');
+                  // Set the script type to JavaScript
+                  script_element.type = 'text/javascript';
+                  // External JS file
+                  script_element.src = '//cdn.intergient.com/ramp_core.js';
+                  head_ID.appendChild(script_element);
+              }
+          }
+      </script>
+    
+    
+    <!-- Ramp 2.0 code End -->
+    <link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="167x167" href="/images/touch-icon-ipad-retina.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/touch-icon-iphone-retina.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/vendor/stylesheets/owl.carousel.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,600,600i,800,800i,900,900i&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/build/stylesheets/styles.css">
+    <link rel="stylesheet" href="/vendor/stylesheets/audioplyr.css">
+
+
+  </head>
+
+  <!-- fetch ad images from strapi -->
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="Study Guide: Shadow and Bone"></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_ShadowandBone_2x.png"></div>
+        <div hidden class="small-ad-url" data-ad-url="/lit/shadow-and-bone/?inHouse=shadow-and-bone"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="Study Guide: Where the Crawdads Sing"></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_WheretheCrawdadsSing_2x.png"></div>
+        <div hidden class="small-ad-url" data-ad-url="/lit/where-the-crawdads-sing/?inHouse=crawdads"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="SN PLUS 1"></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_FunPLUS-1.jpg"></div>
+        <div hidden class="small-ad-url" data-ad-url="/plus/?inHouse=plus1"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="Study Guide: Court of Thorns and Roses"></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_ACourtofThornsandRoses2x.png"></div>
+        <div hidden class="small-ad-url" data-ad-url="/lit/a-court-of-thorns-and-roses/?inHouse=court-of-thorns"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="Study Guide: Seven Husbands of Evelyn Hugo"></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_7HusbandsofEvelynHugo2x.png"></div>
+        <div hidden class="small-ad-url" data-ad-url="/lit/evelyn-hugo/?inHouse=evelyn-hugo"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="Study Guide: Red, White, and Royal Blue"></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_RedWhiteRoyalBlue2x.png"></div>
+        <div hidden class="small-ad-url" data-ad-url="/lit/red-white-and-royal-blue/?inHouse=red-white-royal-blue"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="SN Plus Graduation Exam Season"></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_Grad.ExamSeason@2x.png"></div>
+        <div hidden class="small-ad-url" data-ad-url="/plus/?inHouse=plusgradexam"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="The Legend of Sleepy Hollow "></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_SleepyHollow@2x.png"></div>
+        <div hidden class="small-ad-url" data-ad-url="/short-stories/the-legend-of-sleepy-hollow/?inHouse=sleepy-hollow"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="The Ones Who Walk Away from Omelas "></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_TheOneWhoWalkAwayfromOmelas@2x.png"></div>
+        <div hidden class="small-ad-url" data-ad-url="/short-stories/the-ones-who-walk-away/?inHouse=the-one-who-walk-away-from-omelas"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="The Curious Case of Benjamin Button"></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_TheCuriousCaseofBenjaminButton@2x.jpg"></div>
+        <div hidden class="small-ad-url" data-ad-url="/short-stories/the-curious-case-of-benjamin-button/?inHouse=the-curious-case-of-benjamin-button"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="Jabberwocky "></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250__Jabberwocky@2X.jpg"></div>
+        <div hidden class="small-ad-url" data-ad-url="/poetry/jabberwocky/?inHouse=jabberwocky"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="SN Plus Summer Reading "></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_SummerReading@2x.jpg"></div>
+        <div hidden class="small-ad-url" data-ad-url="/plus/?inHouse=plussummerreading"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+      
+        <div hidden class="small-ad-status" data-ad-status="true"></div>
+        <div hidden class="small-ad-title" data-ad-title="Study Guide: Do Not Go Gentle into That Good Night "></div>
+        <div hidden class="small-ad-image-fileName" data-ad-img-name="300x250_DoNotGoGentle.jpg"></div>
+        <div hidden class="small-ad-url" data-ad-url="/poetry/do-not-go-gentle"></div>
+        <div hidden class="small-ad-imageServer" data-image-server-url="https://img.sparknotes.com"></div>
+      
+    
+  
+  
+   
+    <body class="" onload="getAuthenticatedStatus()">
+  
+
+   
+    <script src="/vendor/javascripts/afterload.js" type="text/javascript"></script>
+  
+    
+    
+      <div class="partner__pw__header">
+  <div data-pw-desk="leaderboard_atf" id="pwDeskLbAtf">
+    <div class="leaderboard-element">
+    <!-- pre loaded ad images -->
+      
+        <a class="preloaded" href="/lit/a-court-of-thorns-and-roses/?inHouse=court-of-thorns">
+          <img alt="Study Guide: Court of Thorns and Roses" src="https://img.sparknotes.com/house-ad/728x90_ACourtofThornsandRoses2x.png">
+        </a>
+            
+    </div>
+  </div>
+
+  <div data-pw-mobi="leaderboard_atf" id="pwMobiLbAtf">
+    <div class="leaderboard-element-mobile">
+      <!-- pre loaded ad images -->
+      
+        <a class="preloaded-image-mobile" href="/lit/a-court-of-thorns-and-roses/?inHouse=court-of-thorns">
+          <img alt="Study Guide: Court of Thorns and Roses" src="https://img.sparknotes.com/house-ad/728x90_ACourtofThornsandRoses2x.png">
+        </a>
+      
+    </div>
+  </div>
+  
+  <script type="text/javascript">
+    if (window.ramp && window.ramp.que) {
+      if(window.innerWidth < 700) { 
+        window.ramp.que.push(function () {
+          window.ramp.addTag("pwMobiLbAtf"); 
+        });
+      } else {
+        window.ramp.que.push(function () {
+          window.ramp.addTag("pwDeskLbAtf"); 
+        });
+      }
+    }
+  </script>
+</div>
+
+<script>
+  if(isSubscribedUser || pwAdQuery) {
+    document.querySelector('.partner__pw__header').hidden = true;
+
+    // akamai cache releted code for playware ad container
+    // let leaderboardElement =  document.querySelector('leaderboard-element');
+    // let leaderboardElementMobile = document.querySelector('.leaderboard-element-mobile');
+
+    // if (leaderboardElement) {
+    //   leaderboardElement.hidden = true;
+    // }
+
+    // if (leaderboardElementMobile) {
+    //   leaderboardElementMobile.hidden = true;
+    // }
+
+  }
+</script>
+  
+
+    
+    
+    
+      <div aria-modal="true" id="search-overlay" hidden>
+  <button
+    class="close-modal-button js-search-overlay-close"
+    aria-label="Close search"
+  >
+    <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 3a13 13 0 1 1 0 26 13 13 0 0 1 0-26zm5.18 6.93L16 15.12l-5.18-5.19-.89.89L15.12 16l-5.19 5.18.89.89L16 16.88l5.18 5.19.89-.89L16.88 16l5.19-5.18-.89-.89z" fill="#FFF"/>
+</svg>
+
+  </button>  
+  <div class="search-overlay__wrapper">
+    <div
+  class="searchbar__wrapper  ">
+  <div class="searchbar ">
+    <form class="searchbar__form" role="search" id="overlayResults">
+      <label class="searchbar__label" for="overlaySearch">Search all of
+        SparkNotes</label>
+      <input class="searchbar__input" id="overlaySearch" type="text"
+        placeholder="Search all of SparkNotes" required autocomplete="off" aria-describedby="overlayArrow"
+        aria-owns="overlayResults" value=""
+      >
+      <button class="searchbar__button" type="submit">
+        <span class="searchbar__button__text">Search</span>
+        <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14.75 6a8.75 8.75 0 0 1 6.78 14.28l4.18 4.22c.34.34.34.9 0 1.24a.86.86 0 0 1-1.23 0l-4.17-4.23A8.75 8.75 0 1 1 14.75 6zm0 1.74a7.01 7.01 0 1 0 0 14.02 7.01 7.01 0 0 0 0-14.02z" fill="#007ACD"/>
+</svg>
+
+      </button>
+    </form>
+    <div class="searchbar__suggestions" aria-live="polite">
+      <p class="searchbar__suggestions__title" role="presentation">Suggestions</p>
+      <span id="overlayArrow">Use up and down arrows to review and enter to select.</span>
+      <ul class="searchbar__suggestions__list js--searchbar--defaults" role="listbox">
+        
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="A Streetcar Named Desire">
+            A Streetcar Named Desire
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Dr. Jekyll and Mr. Hyde">
+            Dr. Jekyll and Mr. Hyde
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Frankenstein">
+            Frankenstein
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Romeo and Juliet">
+            Romeo and Juliet
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Things Fall Apart">
+            Things Fall Apart
+          </button></li>
+          
+      </ul>
+      <ul class="searchbar__suggestions__list js--searchbar--liveList" role="listbox"
+        data-templateitem='<button class="searchbar__suggestions__item" role="option" tabindex="-1" value="$value$">$value$</button>'
+        hidden>
+
+      </ul>
+
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+
+<!-- Desktop  -->
+<header class="global-header  ">
+  <div class="global-header__container">
+    <button class="mobile-menu-reveal js-mobile-nav-open" aria-expanded="false" aria-haspopup="true">
+      <span class="mobile-menu-reveal__text">Menu</span>
+      <svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+  <path d="M32.04 34.5a10 10 0 1 0 0-20 10 10 0 0 0 0 20zm0-1.74a8.26 8.26 0 1 1 0-16.52 8.26 8.26 0 0 1 0 16.52zm5.82-1.04l4.66 4.72c.34.34.89.34 1.23 0a.88.88 0 0 0 0-1.24l-4.66-4.71a.86.86 0 0 0-1.23 0 .88.88 0 0 0 0 1.23zM12.87 14.5h10.26a.87.87 0 1 1 0 1.75H12.87a.87.87 0 1 1 0-1.75zm0 18.26h9.26a.87.87 0 1 1 0 1.74h-9.26a.87.87 0 1 1 0-1.74zm0-12.17h5.76a.87.87 0 1 1 0 1.74h-5.76a.87.87 0 1 1 0-1.74zm0 6.09h5.76a.87.87 0 1 1 0 1.74h-5.76a.87.87 0 1 1 0-1.74z" fill="#007ACD"/>
+</svg>
+
+    </button>
+      
+    
+      <a class="global-header__logo signout-logo" href="/" title="← Back to the homepage">
+        <svg width="261" height="50" viewBox="0 0 261 50" xmlns="http://www.w3.org/2000/svg" alt="">
+    <path class="logo__asterisk" d="M14.24.51a2.94 2.94 0 0 1 1.13 2.31v.02c0 3.53-1.92 5.72-2.2 10.53 3.91-2.65 4.77-5.46 7.73-7.23l.04-.02c.79-.45 1.7-.47 2.48-.13a3.23 3.23 0 0 1 1.68 3.02c-.1.87-.58 1.69-1.37 2.16l-.01.02c-2.96 1.76-5.75 1.13-9.92 3.3 4.17 2.16 6.96 1.53 9.92 3.3a2.91 2.91 0 0 1 1.39 2.18 3.24 3.24 0 0 1-1.69 3 2.73 2.73 0 0 1-2.52-.14c-2.96-1.77-3.82-4.58-7.72-7.23.27 4.82 2.2 7 2.2 10.53v.04a2.94 2.94 0 0 1-1.14 2.29c-.98.68-2.39.68-3.37 0a2.94 2.94 0 0 1-1.13-2.31v-.02c0-3.53 1.93-5.71 2.2-10.53-3.9 2.65-4.77 5.46-7.73 7.23l-.03.02c-.8.45-1.71.47-2.49.13a3.23 3.23 0 0 1-1.68-3.02c.1-.87.58-1.69 1.37-2.16l.01-.01c2.96-1.77 5.75-1.14 9.92-3.3-4.17-2.17-6.96-1.54-9.92-3.3l-.03-.03A2.91 2.91 0 0 1 .01 9.01a3.24 3.24 0 0 1 1.68-3.02 2.73 2.73 0 0 1 2.52.15c2.96 1.77 3.82 4.58 7.72 7.23-.26-4.82-2.19-7-2.19-10.53V2.8c.01-.94.46-1.77 1.13-2.29a3.02 3.02 0 0 1 3.37 0z" fill="#007ACD"/>
+    <path class="logo__spark" d="M61.89 18.52c5.86 0 10.61 4.9 10.61 10.95v3.68c0 6.05-4.75 10.95-10.61 10.95-2.56 0-4.9-.93-6.74-2.49v7.98c0 .2-.16.36-.35.36h-3.2a.36.36 0 0 1-.35-.36V20.1c0-.2.16-.36.35-.36h3.2c.2 0 .35.16.35.36v.9a10.38 10.38 0 0 1 6.74-2.48zm64.76-4.29c.16 0 .28.13.28.29v16.5l11.33-11.69a.29.29 0 0 1 .24-.12h4.05c.23 0 .37.26.24.45L132.4 30.69l10.39 12.96c.13.2-.01.45-.24.45h-4.05a.29.29 0 0 1-.24-.12l-8.63-10.34-2.7 2.86v7.45c0 .15-.12.28-.27.28h-3.36a.29.29 0 0 1-.3-.28V14.52c0-.16.13-.29.29-.29zm-39.92 4.29c2.55 0 4.89.93 6.72 2.47v-.88c0-.2.16-.36.35-.36H97c.2 0 .35.16.35.36v23.76c0 .2-.15.36-.35.36h-3.2a.36.36 0 0 1-.35-.36v-2.26a10.4 10.4 0 0 1-6.72 2.47c-5.87 0-10.63-4.9-10.63-10.94v-3.68c0-6.04 4.76-10.94 10.63-10.94zm26.02 0c2.9 0 5.53 1.17 7.46 3.07l.1.1c.14.15.14.38 0 .52l-2.28 2.33a.35.35 0 0 1-.5 0l-.03-.03a6.72 6.72 0 0 0-4.75-1.97c-3.75 0-6.8 3.1-6.8 6.92v14.41c0 .2-.16.36-.36.36h-3.24a.36.36 0 0 1-.35-.36l.01-10.28H102V20.11c0-.2.16-.36.36-.36h3.23c.2 0 .36.16.36.36V21a10.6 10.6 0 0 1 6.8-2.47zm-75.4 0c3.68 0 6.37.86 9.28 2.97l.82.59c.17.12.2.37.05.53l-2.38 2.68a.34.34 0 0 1-.46.04l-.64-.5a10.3 10.3 0 0 0-6.74-2.29c-2.79 0-4.89 1.3-4.89 3 0 1.2 0 2.6 6.29 3.76 4.3.8 9.22 2.35 9.22 7.46 0 4.43-3.9 7.47-9.51 7.47-4.16 0-7.5-1.2-10.83-3.87l-.78-.63a.36.36 0 0 1-.03-.53l2.47-2.56c.12-.12.3-.13.43-.04l.64.53c2.66 2.22 4.96 3.08 8.2 3.08 2.97 0 5.11-1.36 5.11-3.23 0-1.16 0-2.52-6.07-3.63-4.67-.85-9.44-2.41-9.44-7.58 0-4.16 3.98-7.25 9.26-7.25zm24.54 4.02a6.84 6.84 0 0 0-6.72 6.93v3.68a6.83 6.83 0 0 0 6.72 6.93c3.7 0 6.71-3.11 6.71-6.93v-3.68a6.83 6.83 0 0 0-6.71-6.93zm24.84 0A6.83 6.83 0 0 0 80 29.46v3.68a6.83 6.83 0 0 0 6.73 6.92c3.7 0 6.72-3.1 6.72-6.92v-3.68a6.83 6.83 0 0 0-6.72-6.92z" fill="#484848"/>
+    <path class="logo__notes" d="M204.5 14.23a.3.3 0 0 1 .29.3v4.58h8c.16 0 .3.13.3.29l-.01 1.01a.3.3 0 0 1-.3.29h-8v15.98c0 2.15.17 2.96.63 3.79.37.67.93 1.22 1.62 1.57.85.45 1.68.6 3.9.6h2.46c.16 0 .3.13.3.3v1a.3.3 0 0 1-.3.3h-2.46c-2.7 0-3.68-.28-4.67-.8a5.5 5.5 0 0 1-2.3-2.22c-.53-.96-.81-1.91-.81-4.54V20.7h-6.17a.3.3 0 0 1-.3-.29V19.4a.3.3 0 0 1 .3-.3h6.17v-4.58a.3.3 0 0 1 .3-.29h1.04zm21.75 4.3c5.56-.12 10.1 4.59 10.1 10.4v2.91c0 .2-.15.36-.34.36h-17.94v1.36c0 4.8 3.54 8.93 8.1 9.08h1.67c2.03 0 4-.67 5.49-1.94.12-.1.29-.1.41-.02l.73.54c.19.14.2.43.03.58-1.93 1.72-4.5 2.43-7.28 2.43h-1.67c-5.17-.47-9.03-5.23-9.03-10.69v-4.26c0-5.73 4.27-10.65 9.73-10.76zm-42.32-.01c5.48 0 9.92 4.66 9.92 10.4v4.9c0 5.76-4.44 10.41-9.92 10.41-5.48 0-9.92-4.65-9.92-10.4v-4.9c0-5.75 4.44-10.41 9.92-10.41zm-25.5 0c5.47 0 9.91 4.66 9.91 10.4v15.02c0 .16-.12.3-.28.3h-.99a.29.29 0 0 1-.28-.3V28.92c0-4.84-3.75-8.78-8.37-8.78-4.61 0-8.36 3.94-8.36 8.78v15.02c0 .16-.13.3-.28.3h-1a.29.29 0 0 1-.27-.3V20.25c0-.17.11-.3.25-.3h.9c.15 0 .26.13.26.3v3.31a9.83 9.83 0 0 1 8.5-5.04zm91.83.2c3.5 0 6.07.72 8.85 2.48l.07.04.36.23c.17.1.22.32.11.49l-.5.78a.37.37 0 0 1-.5.1l-.44-.27a13.75 13.75 0 0 0-7.95-2.2c-4.3 0-7.55 2.1-7.55 4.89 0 2.78 2.27 4.27 7.85 5.16l.42.06c2.76.44 9.25 1.47 9.25 6.78 0 3.72-3.97 6.53-9.22 6.53a15.3 15.3 0 0 1-8.85-2.47l-.43-.27a.35.35 0 0 1-.11-.49l.5-.78c.12-.16.34-.21.5-.1l.33.2.11.07c2.49 1.56 4.8 2.2 7.95 2.2 4.3 0 7.55-2.1 7.55-4.89 0-2.78-2.28-4.28-7.85-5.16l-.42-.07c-2.77-.43-9.25-1.46-9.25-6.77 0-3.73 3.97-6.53 9.22-6.53zm-66.33 1.43c-4.62 0-8.37 3.93-8.37 8.77v4.9c0 4.85 3.75 8.79 8.37 8.79 4.61 0 8.37-3.94 8.37-8.78v-4.9c0-4.85-3.76-8.78-8.37-8.78zm42.5 0c-4.6 0-8.36 3.94-8.36 8.79v1.64h16.73v-1.64c0-4.85-3.75-8.8-8.36-8.8z" fill="#007ACD"/>
+</svg>
+
+      </a>
+      <a class="global-header__logo signedin-logo" href="/" title="← Back to the homepage" hidden>
+        <svg width="213" height="39" viewBox="0 0 213 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#7p9i9f3q9a)" fill-rule="evenodd" clip-rule="evenodd">
+        <path d="M207.831.807c1.222 0 2.114.314 3.08 1.087l.258.206c.141.113.163.32.049.46l-.758.94a.32.32 0 0 1-.219.115.31.31 0 0 1-.229-.072l-.204-.175c-.606-.52-1.222-.753-1.999-.753-.767 0-1.345.367-1.345.852v.037c.002.344.063.727 1.831 1.088 1.327.27 3.093.853 3.093 2.808 0 1.66-1.328 2.82-3.227 2.82-1.378 0-2.482-.436-3.579-1.413l-.246-.219a.325.325 0 0 1-.029-.458l.785-.897a.311.311 0 0 1 .423-.043l.219.2c.801.735 1.492 1.022 2.461 1.022.818 0 1.413-.393 1.413-.933 0-.34 0-.725-1.762-1.078-1.471-.297-3.161-.89-3.161-2.854 0-1.562 1.352-2.74 3.146-2.74zm-10.692 0c.211 0 .383.165.383.367v5.612c0 .962.816 1.746 1.82 1.746 1.003 0 1.819-.784 1.819-1.746V1.174c0-.202.172-.367.382-.367h.996c.211 0 .383.165.383.367v5.612c0 1.893-1.606 3.434-3.58 3.434-1.975 0-3.581-1.54-3.581-3.434V1.174c0-.202.172-.367.382-.367h.996zm-7.731 0c.198 0 .358.154.358.346v7.386h4.171a.35.35 0 0 1 .357.345v.99c0 .19-.159.346-.357.346h-5.638l-.029-.02a.343.343 0 0 1-.218-.204l-.005-.012a.34.34 0 0 1-.012-.048l-.007-.059V1.153c0-.192.16-.346.357-.346h1.023zm-6.71 0c1.973 0 3.578 1.533 3.578 3.418v.37c0 1.885-1.605 3.418-3.578 3.418l-1.824-.004v1.846a.375.375 0 0 1-.382.365h-.996a.374.374 0 0 1-.381-.365V1.172c0-.2.171-.365.382-.365h3.201zm0 1.681h-1.818v3.845h1.818c1.004 0 1.819-.78 1.819-1.738v-.37c0-.958-.815-1.737-1.819-1.737z" fill="#00CC9A"/>
+        <path d="M11.638.402c.558.414.92 1.074.925 1.818v.015c0 2.776-1.574 4.49-1.791 8.273 3.188-2.078 3.894-4.29 6.311-5.679l.028-.015a2.308 2.308 0 0 1 2.032-.104c.868.42 1.443 1.411 1.376 2.37a2.281 2.281 0 0 1-1.12 1.704l-.014.008c-2.419 1.388-4.699.89-8.103 2.594 3.404 1.706 5.684 1.207 8.103 2.594l.028.017a2.288 2.288 0 0 1 1.106 1.697c.067.958-.51 1.949-1.376 2.37a2.31 2.31 0 0 1-2.046-.113c-.005-.002-.009-.006-.014-.009-2.417-1.387-3.123-3.6-6.31-5.678.217 3.784 1.79 5.498 1.79 8.273v.033a2.282 2.282 0 0 1-.925 1.801c-.8.536-1.951.536-2.751 0a2.277 2.277 0 0 1-.926-1.818v-.016c0-2.775 1.574-4.49 1.791-8.272-3.187 2.077-3.893 4.29-6.31 5.677a2.31 2.31 0 0 1-2.06.12c-.868-.42-1.443-1.412-1.377-2.368a2.281 2.281 0 0 1 1.12-1.705l.015-.009c2.417-1.387 4.698-.889 8.103-2.593C5.838 9.682 3.557 10.18 1.14 8.792l-.014-.008-.014-.009A2.283 2.283 0 0 1 .005 7.08C-.06 6.121.514 5.13 1.382 4.71a2.31 2.31 0 0 1 2.06.12c2.417 1.388 3.123 3.6 6.31 5.679-.217-3.784-1.79-5.498-1.79-8.274v-.031A2.28 2.28 0 0 1 8.886.401c.8-.536 1.951-.536 2.75 0z" fill="#007ACD"/>
+        <path d="M51.604 13.512c4.818 0 8.724 3.893 8.724 8.695v2.917c0 4.802-3.906 8.696-8.724 8.696a8.703 8.703 0 0 1-5.535-1.975v6.325c0 .16-.13.288-.29.288h-2.625a.288.288 0 0 1-.29-.288v-23.4c0-.158.13-.287.29-.287h2.627c.159 0 .288.13.288.287l-.002.719a8.703 8.703 0 0 1 5.537-1.977zm52.39-3.637c.126 0 .229.104.229.232V23.54l9.066-9.513a.23.23 0 0 1 .19-.1h3.241c.184 0 .293.208.19.363l-8.313 8.987 8.313 10.554c.103.154-.006.364-.19.364h-3.241a.228.228 0 0 1-.19-.102l-6.911-8.417-2.155 2.33v6.063a.232.232 0 0 1-.221.233h-2.689a.232.232 0 0 1-.238-.233v-23.96c0-.13.103-.233.23-.233h2.689zm-72.443 3.637c3.023 0 5.232.68 7.626 2.34l.669.465a.278.278 0 0 1 .046.42l-1.964 2.11-.004.004a.287.287 0 0 1-.373.034l-.004-.004-.522-.388c-1.672-1.25-3.378-1.806-5.532-1.806-2.292 0-4.02 1.015-4.02 2.363v.171l.002.057c.03.888.411 1.893 5.164 2.735.211.037.425.076.64.119l.214.043c3.296.674 6.726 2.011 6.726 5.714 0 3.491-3.214 5.892-7.816 5.892-3.419 0-6.164-.941-8.9-3.055l-.637-.492a.278.278 0 0 1-.027-.42l2.032-2.017a.28.28 0 0 1 .35-.03l.528.419c2.186 1.742 4.076 2.422 6.742 2.422 2.43 0 4.196-1.068 4.196-2.541v-.083l-.001-.056-.001-.056a3.087 3.087 0 0 0-.005-.113l-.004-.057-.006-.057c-.096-.812-.731-1.701-4.97-2.438-3.838-.673-7.76-1.907-7.76-5.98 0-3.28 3.272-5.715 7.611-5.715zm40.154 0c2.096 0 4.02.713 5.525 1.898v-.674c0-.154.13-.279.29-.279h2.628c.16 0 .289.125.289.279l-.01 6.985c0 .066.01.13.01.197v11.065c0 .154-.13.278-.29.278h-2.629a.284.284 0 0 1-.288-.278l.005-1.74a8.906 8.906 0 0 1-5.53 1.901c-4.822 0-8.731-3.762-8.731-8.404v-2.822c0-4.643 3.909-8.405 8.731-8.405zm21.082 0c2.33 0 4.447.897 6.002 2.356l.085.084a.273.273 0 0 1 0 .393l-1.84 1.79a.292.292 0 0 1-.405 0l-.022-.021-.053-.05a5.541 5.541 0 0 0-3.767-1.465c-3.017 0-5.47 2.386-5.47 5.32v2.82h-.002v8.244a.283.283 0 0 1-.285.278h-2.604a.283.283 0 0 1-.285-.278l.01-7.892h-.01V14.736c0-.154.128-.279.285-.279h2.604c.157 0 .285.125.285.279v.676a8.76 8.76 0 0 1 5.472-1.9zm-41.183 3.194c-3.044 0-5.52 2.468-5.52 5.5v2.918c0 3.034 2.476 5.501 5.52 5.501 3.044 0 5.52-2.467 5.52-5.5v-2.918c0-3.033-2.476-5.501-5.52-5.501zm20.101-.107c-3.047 0-5.525 2.386-5.525 5.32v2.82c0 2.933 2.478 5.318 5.525 5.318s5.525-2.385 5.525-5.317v-2.822c0-2.933-2.478-5.319-5.525-5.319z" fill="#484848"/>
+        <path d="M151.608 13.837c-4.543 0-8.226 3.626-8.226 8.1v3.82c0 4.473 3.683 8.1 8.226 8.1 4.543 0 8.225-3.627 8.225-8.1v-3.82c0-4.474-3.682-8.1-8.225-8.1zm6.94 11.92c0 3.768-3.113 6.833-6.94 6.833-3.827 0-6.94-3.065-6.94-6.833v-3.82c0-3.769 3.113-6.834 6.94-6.834 3.827 0 6.94 3.065 6.94 6.833v3.821zm-19.73-3.82v11.69c0 .127-.105.23-.234.23h-.82a.232.232 0 0 1-.234-.23l.002-11.69c0-3.769-3.113-6.834-6.939-6.834-3.815 0-6.919 3.046-6.938 6.798v4.813h-.001l.001 6.913c0 .127-.105.23-.234.23h-.82a.233.233 0 0 1-.235-.23v-11.69l.002-.02-.002-6.893c0-.127.105-.23.235-.23h.82c.129 0 .234.103.234.23v2.575a8.239 8.239 0 0 1 6.938-3.762c4.542 0 8.225 3.626 8.225 8.1zm46.834-8.099c-4.529.082-8.073 3.908-8.073 8.367v3.31c0 4.239 3.205 7.941 7.493 8.31h1.384c2.298 0 4.438-.552 6.04-1.892a.284.284 0 0 0-.026-.45l-.606-.417a.285.285 0 0 0-.341.014c-1.24.983-2.866 1.506-4.552 1.506h-1.384c-3.786-.115-6.722-3.328-6.722-7.056v-1.055h14.878c.16 0 .289-.127.289-.285v-2.254c0-4.523-3.767-8.18-8.38-8.098zm7.094 9.37h-13.881v-1.272c0-3.768 3.113-6.833 6.94-6.833 3.828 0 6.941 3.065 6.941 6.833v1.273zm20.111 5.412c0 2.967-3.157 5.205-7.342 5.205-2.772 0-4.807-.564-7.005-1.94l-.044-.028-.344-.217a.28.28 0 0 1-.087-.39l.407-.622a.291.291 0 0 1 .397-.086l.259.163.086.055c1.983 1.25 3.818 1.759 6.331 1.759 3.428 0 6.012-1.676 6.012-3.9 0-2.22-1.81-3.413-6.249-4.118l-.333-.052c-2.205-.35-7.367-1.171-7.367-5.407 0-2.967 3.156-5.205 7.342-5.205 2.79 0 4.831.57 7.048 1.966l.055.036.29.183a.278.278 0 0 1 .086.39l-.407.622a.29.29 0 0 1-.397.086l-.345-.218c-1.983-1.25-3.818-1.76-6.33-1.76-3.429 0-6.013 1.677-6.013 3.9 0 2.22 1.81 3.413 6.249 4.119l.333.051c2.205.351 7.368 1.17 7.368 5.408zm-37.833 4.199v.807c0 .127-.104.23-.233.23h-1.925c-2.126 0-2.897-.219-3.673-.627a4.364 4.364 0 0 1-1.803-1.775c-.415-.765-.637-1.524-.637-3.617V15.103h-4.846a.232.232 0 0 1-.234-.23v-.807c0-.127.105-.23.234-.23h4.846V10.18c0-.127.105-.23.233-.23h.82c.13 0 .234.103.234.23v3.655h6.279a.23.23 0 0 1 .234.231l-.002.807a.233.233 0 0 1-.234.23h-6.277v12.733c0 1.717.126 2.358.485 3.02.29.533.733.969 1.274 1.254.672.353 1.323.477 3.067.477h1.925c.129 0 .233.103.233.231z" fill="#007ACD"/>
+    </g>
+    <defs>
+        <clipPath id="7p9i9f3q9a">
+            <path fill="#fff" d="M0 0h213v38.458H0z"/>
+        </clipPath>
+    </defs>
+</svg>
+
+      </a>
+      
+    <script>
+      let navSignedinLogo = document.querySelector(".signedin-logo");
+      let navSignoutLogo = document.querySelector(".signout-logo");
+
+      if(!loggedInCookie || !isSubscribedUser) {
+        if(navSignedinLogo) {
+          navSignedinLogo.hidden = true;
+        }
+        if(navSignoutLogo) {
+          navSignoutLogo.removeAttribute('hidden');
+        }
+      } else if(isSubscribedUser){
+        if(navSignedinLogo) {
+          navSignedinLogo.removeAttribute('hidden');
+        }
+        if(navSignoutLogo) {
+          navSignoutLogo.hidden = true;
+        }
+      }
+    </script>
+    <nav class="nav-main" role="navigation" aria-label="sub nav">
+      <ul id="nav-content">
+        <li class="nav-item menu">
+          <a
+            class="nav-link menu__title-text"
+            tabindex="0"
+            aria-label="Shakespeare Study Guides"
+            href="/shakespeare/"
+            >Shakespeare
+            <span class="arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> dark gray</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="-dark-gray" stroke="#767676" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span></a
+          >
+          <div class="title-nav__subitem menu__items">
+            <ul class="sub-list">
+              <li><a href="/shakespeare/#jumpTo-no-fear">No Fear Shakespeare Translations</a></li>
+              <li><a href="/shakespeare/#jumpTo-studyguides">Shakespeare Study Guides</a></li>
+              <li><a href="/shakespeare/life-and-times/">Shakespeare Life & Times</a></li>
+              <li><a href="/shakespeare/life-and-times/shakespeares-language/a-glossary-of-common-shakespearean-words/">Glossary of Shakespeare Terms</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav-item menu">
+          <a class="nav-link menu__title-text" aria-label="Literature Study Guides" href="/lit/" tabindex="0"
+            >Literature
+            <span class="arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> dark gray</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="-dark-gray" stroke="#767676" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span></a
+          >
+          <div class="title-nav__subitem menu__items">
+            <ul class="sub-list">
+              <li><a href="/lit/#jumpTo-no-fear">No Fear Literature Translations</a></li>
+              <li><a href="/lit/#jumpTo-studyguides">Literature Study Guides</a></li>
+              <li><a href="/writinghelp/glossary-of-literary-terms/">Glossary of Literary Terms</a></li>
+              <li><a href="/writinghelp/how-to-write-literary-analysis/">How to Write Literary Analysis</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav-item menu">
+          <a
+            class="nav-link menu__title-text"
+            tabindex="0"
+            aria-label="Other Subject Study Guides"
+            href="/othersubjects/"
+            >Other Subjects
+            <span class="arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> dark gray</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="-dark-gray" stroke="#767676" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span></a
+          >
+          <div class="title-nav__subitem menu__items">
+            <ul class="sub-list">
+              <li><a href="/biography/">Biography</a></li>
+              <li><a href="/biology/">Biology</a></li>
+              <li><a href="/chemistry/">Chemistry</a></li>
+              <li><a href="/cs/">Computer Science</a></li>
+              
+                <li><a href="/drama/">Drama</a></li>
+              
+              <li><a href="/economics/">Economics</a></li>
+              <li><a href="/film/">Film</a></li>
+              <li><a href="/health/">Health</a></li>
+              <li><a href="/history/">History</a></li>
+            </ul>
+            <ul class="sub-list hiddenborder">
+              <li><a href="/math/">Math</a></li>
+              
+                <li><a href="/philosophy/">Philosophy</a></li>
+              
+              <li><a href="/physics/">Physics</a></li>
+              
+                <li><a href="/poetry/">Poetry</a></li>
+              
+              <li><a href="/psychology/">Psychology</a></li>
+              
+                <li><a href="/short-stories/">Short Stories</a></li>
+              
+              <li><a href="/sociology/">Sociology</a></li>
+              <li><a href="/us-government-and-politics/">US Government and Politics</a></li>
+            </ul>
+          </div>
+        </li>
+        
+          <li class="nav-item menu">
+            <a class="nav-link menu__title-text" aria-label="Test Prep Plus" href="/test-prep/" tabindex="0">
+              <span class="menu__title-text__test-text">Test Prep
+                <span class="menu__title-text__apPlus-text plus-content"> PLUS</span>
+              </span>
+              <span class="arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> dark gray</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="-dark-gray" stroke="#767676" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span>
+            </a>
+            <div class="title-nav__subitem menu__items test-prop">
+              <ul class="sub-list">
+                <li><a class="link-subtitle" href="/test-prep/">Test Prep Lessons</a></li>
+                <li><a class="link-subtitle" href="/test-prep/ap-english-lit/">AP® English Literature</a></li>
+                <li><a class="link-subtitle" href="/test-prep/ap-english-lang/">AP® English Language</a></li>
+              </ul>
+            </div>
+          </li>
+          
+        
+        <li class="nav-item menu">
+          <span
+            class="nav-link menu__title-text"
+            tabindex="0"
+            aria-label="Teacher Study Guides"
+            >Teacher
+            <span class="arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> dark gray</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="-dark-gray" stroke="#767676" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span></span
+          >
+          <div class="title-nav__subitem menu__items">
+            <ul class="sub-list">
+              <li><a href="/teacher/">SparkTeach</a></li>
+              <li><a href="/teachers-handbook/">Teacher's Handbook</a></li>
+            </ul>
+          </div>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/blog/" aria-label="Blog">Blog</a>
+        </li>
+        
+      </ul>
+    </nav>
+     
+    
+      <div class="account-menu-container">
+        <div class="account-menu">
+          <button
+            class="nav-link--button nav-link--icon-and-text js-search-link"
+            aria-label="Open search panel"
+            aria-haspopup="true"
+            aria-expanded="false"
+            >
+            <span class=" nav-link nav-link__icon search-icon account-link">      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" alt="">
+        <path fill="#484848" fill-rule="evenodd" d="M13.5957913,12.4293723 L18.7138088,17.6458132 C19.1005962,18.0400389 19.0945664,18.6731751 18.7003407,19.0599626 C18.306115,19.4467501 17.6729787,19.4407202 17.2861912,19.0464945 L12.1912155,13.8535385 C11.0233461,14.7424286 9.5728275,15.2692308 8,15.2692308 C4.12969832,15.2692308 1,12.0793459 1,8.15384615 C1,4.22834636 4.12969832,1.03846154 8,1.03846154 C11.8703017,1.03846154 15,4.22834636 15,8.15384615 C15,9.75758712 14.4776267,11.2385477 13.5957913,12.4293723 L13.5957913,12.4293723 Z M8,13.2692308 C10.7571153,13.2692308 13,10.9832137 13,8.15384615 C13,5.32447862 10.7571153,3.03846154 8,3.03846154 C5.24288469,3.03846154 3,5.32447862 3,8.15384615 C3,10.9832137 5.24288469,13.2692308 8,13.2692308 Z"/>
+      </svg> </span>
+          </button>
+        </div>
+        <div class="cta-container nav-sign-in">
+          <!-- when user has to sign-in-->
+          <button class="global-header__button account-sign-in-btn js--showSignIn">Log in</button>
+          <!-- when user has to create account-->
+          <div class=" nav-item--secondary">
+            <button
+              class="global-header__button signup-account-btn account-signin-box"
+              type="button"
+              aria-haspopup="dialog">
+              Sign Up for <span>&nbsp;PLUS</span>
+            </button>
+          </div>
+        </div>  
+        <script>
+          if(loggedInCookie) {
+            document.querySelector(".nav-sign-in").hidden = true;
+          } else {
+            document.querySelector(".nav-sign-in").removeAttribute('hidden');
+          }
+        </script>
+        <!-- when user is signed in-->
+        <div class="cta-container nav-sign-out"> 
+          <a href="/plus/dashboard" class="global-header__button dashboard-btn">My<span>&nbsp;PLUS&nbsp;</span>Dashboard</a>
+          <nav class="account-dropdown account-menu">
+            <div tabindex="0" class="drop-btn">
+              <span class="account-icon account-link"><svg width="27" height="26" viewBox="0 0 27 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="13.018" cy="7.799" stroke="#00CC9A" stroke-width="1.25" r="4.68"/>
+    <mask id="gh5uv6p0da" fill="#fff">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.73 20.95c1.318-4.297 5.425-7.43 10.287-7.43 4.862 0 8.969 3.133 10.287 7.43A12.979 12.979 0 0 1 13.017 26c-4.186 0-7.91-1.978-10.288-5.05z"/>
+    </mask>
+    <path d="m2.73 20.95-1.196-.367-.19.62.397.512.988-.765zm20.574 0 .989.764.396-.512-.19-.62-1.195.367zm-19.38.367c1.156-3.766 4.773-6.547 9.093-6.547v-2.5c-5.404 0-10 3.485-11.483 8.313l2.39.734zm9.093-6.547c4.32 0 7.937 2.781 9.092 6.546l2.39-.733c-1.482-4.829-6.078-8.313-11.482-8.313v2.5zm9.299 5.414a11.728 11.728 0 0 1-9.3 4.566v2.5c4.59 0 8.673-2.17 11.277-5.536l-1.977-1.53zm-9.3 4.566a11.729 11.729 0 0 1-9.298-4.565l-1.977 1.53a14.229 14.229 0 0 0 11.276 5.535v-2.5z" fill="#00CC9A" mask="url(#gh5uv6p0da)"/>
+    <path d="M25.393 13c0 6.833-5.54 12.373-12.375 12.373S.643 19.833.643 13C.643 6.165 6.183.625 13.018.625c6.834 0 12.375 5.54 12.375 12.374z" stroke="#00CC9A" stroke-width="1.25"/>
+</svg>
+</span>
+            </div>
+            <div class="account-details-wrapper">
+              <ul  class="account-dropdown-content">
+                <li class=" nav-item--secondary ui-only plus-links plus-links-homepage">
+                  <a class="nav-link account-menu-link account-link nav-link--secondary my-plus-activity"
+                    href="/plus/dashboard"
+                    >My PLUS Activity<span class="plus-arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> dark gray</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="-dark-gray" stroke="#767676" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span>
+                  </a>
+                    <div class="new-feature-link">
+                      <ul class="plus-feature">
+                        <li class="plus-feature__menu">
+                          <a class="plus-feature__menu__list" href="/plus/dashboard/notes">Notes</a>
+                        </li>
+                        <li class="plus-feature__menu">
+                          <a class="plus-feature__menu__list" href="/plus/dashboard/favorite-pages">Bookmarks</a>
+                        </li>
+                        <li class="plus-feature__menu">
+                          <a class="plus-feature__menu__list" href="/plus/dashboard/test-prep">Test Prep PLUS</a>
+                        </li>
+                        <li class="plus-feature__menu">
+                          <a class="plus-feature__menu__list" href="/plus/dashboard/no-fear">No Fear Translations & Audio</a>
+                        </li>
+                        <li class="plus-feature__menu">
+                          <a class="plus-feature__menu__list" href="/plus/dashboard/quizzes">Mastery Quizzes</a>
+                        </li>
+                        <li class="plus-feature__menu">
+                          <a class="plus-feature__menu__list" href="/plus/dashboard/flashcards">Flashcards</a>
+                        </li>
+                        <li class="plus-feature__menu">
+                          <a class="plus-feature__menu__list" href="/plus/dashboard/infographics">Infographics</a>
+                        </li>
+                        <li class="plus-feature__menu">
+                          <a class="plus-feature__menu__list" href="/plus/dashboard/graphic-novels">No Fear Graphic Novels</a>
+                        </li>
+
+                      </ul>
+                    </div>
+                </li>
+                <li class=" nav-item--secondary ui-only">
+                  <a
+                    class="nav-link account-menu-link account-link nav-link--secondary"
+                    href="/plus/my-account"
+                    >Account Details</a>
+                </li>
+                <li class=" nav-item--secondary ui-only subscription-billing-homepage">
+                  <a
+                    class="nav-link account-menu-link account-link nav-link--secondary billing-page"
+                    href="/plus/my-account/#billing-details"
+                    >Subscription & Billing</a>
+                </li>
+                
+                  <li class=" nav-item--secondary ui-only manage-group-discount-homepage">
+                    <a
+                      class="nav-link account-menu-link account-link nav-link--secondary manage-group-page"
+                      href="/plus/my-account/#manage-group"
+                      >Manage Group Discount</a>
+                  </li>
+                
+                <li class=" nav-item--secondary signout-menu">
+                  <button
+                    class="global-header__button js--signOut nav-link account-link account-menu-link nav-link--secondary"
+                    type="button"
+                    >
+                    Sign Out
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+        <script>
+          const plusMenuTabHomepage = document.querySelector(".plus-links-homepage");
+          const subscriptionBillingNavHomepage = document.querySelector(".subscription-billing-homepage");
+          const manageGroupDiscountNavHomepage = document.querySelector(".manage-group-discount-homepage");
+          setTimeout(() => {
+            if (purchaserNotReedemed) {
+              if (plusMenuTabHomepage) {
+                plusMenuTabHomepage.remove();
+              }
+              if (subscriptionBillingNavHomepage) {
+                subscriptionBillingNavHomepage.remove();
+              }
+            } else if ((purchaserNotReedemed === false || purchaserNotReedemed === "false") && (purchaserReedemed === false || purchaserReedemed === "false")) {
+              if (manageGroupDiscountNavHomepage) {
+                manageGroupDiscountNavHomepage.remove();
+              }
+            }
+          }, "1000");
+          if(!loggedInCookie) {
+            document.querySelector(".nav-sign-out").hidden = true;
+          } else {
+            document.querySelector(".nav-sign-out").removeAttribute('hidden');
+          }
+        </script>
+      </div>
+    
+ </div>
+</header>
+
+
+
+
+
+
+
+  <div id="pwTopDockContainer" class="pw_top_dock_container "></div>
+
+
+  <div class="snplusmodal micromodal-slide generic-modal" id="modal-reset" aria-hidden=true>
+  <div class="loader" id="loader-modal-reset" hidden>
+    <p class="loader__description">Please wait while we process your payment</p>
+    <img src="/images/icon-loader.gif">
+  </div>
+  <div class="snplusmodal__overlay" tabindex="-1">
+    <div class="snplusmodal__container" style="--promoContainerColor: #323398" role="dialog" aria-modal="true" aria-label="modal-reset-title">
+      <header class="snplusmodal__header" style="--promoHeaderColor: #5c5eec">
+      <div class="snplusmodal__header__container">
+         
+        <div class="snplusmodal__header__content">
+          
+            <h2 class="snplusmodal__title" id="modal-reset-title-passwordreset">Reset Password</h2>
+          
+        </div> 
+        
+        <span id="model__close" class="snplusmodal__close generic-modal__close" role="button" aria-label="Close modal"
+          data-micromodal-close><span role="button" title="close modal" aria-label="close modal" tabindex="0"><svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 3a13 13 0 1 1 0 26 13 13 0 0 1 0-26zm5.18 6.93L16 15.12l-5.18-5.19-.89.89L15.12 16l-5.19 5.18.89.89L16 16.88l5.18 5.19.89-.89L16.88 16l5.19-5.18-.89-.89z" fill="#FFF"/>
+</svg>
+</span></span>
+          
+        </div>
+      </header>
+      <main class="snplusmodal__content" id="modal-reset-content" data-sentinels="snplusmodal">
+        <div class="snplusmodal__content__sentinel" data-sentinelstart="snplusmodal"></div>
+        <div class="snplusmodal__content__container">
+          
+            <section class="reset-password snplusmodal__content__untabbed">
+  <div class="major-error-message" aria-live="assertive" aria-relevant="additions removals" hidden >
+    <div class="major-error-message__text">
+      <p class="major-error-message__info"></p>
+    </div>
+  </div>
+  <form class="form--reset-password">
+    <div class="fe-field">
+  <label class="fe-label fe-label--wrap-vertical">
+    <span class="fe-label-text">Email</span>
+    <input 
+      type="email"
+      class="fe-input-text "
+       required 
+      
+        name="resetpassword"
+      
+      
+        autocomplete="email"
+      
+      
+      
+      
+      
+      
+      
+    >
+  </label>
+  <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+  <li class="fe-error-list" hidden></li>
+</div>
+
+    <div class="fe-buttons" >
+  <div class="fe-buttons__container fe-buttons__container--stacked ">
+
+    
+      <button
+  class="fe-button  "
+  type="submit"
+  data-trigger="sendemail"
+  data-loadingText="Sending...">
+  Send password reset email
+</button>
+    
+
+  </div>
+</div>
+  </form>
+</section>
+<div class="contextual">
+  <template data-contextualTemplate="resetPasswordRequestSuccess">
+    <div class="inline-message inline-message--success">
+  
+    <span class="inline-message__icon">
+        <img src="/images/icon-success-sparknotes-plus.svg" alt="reset success" class="reset-password-success-icon">
+    </span>
+  
+  <div class="inline-message__text">
+    <h2 class="inline-message__title">Your password reset email should arrive shortly.</h2>
+    <p class="inline-message__info">If you don't see it, please check your spam folder. Sometimes it can end up there.</p>
+  </div>
+</div>
+  </template>
+  <template data-contextualTemplate="resetPasswordRequestFail">
+    <div class="inline-message inline-message--fail">
+  
+  <div class="inline-message__text">
+    <h2 class="inline-message__title">Something went wrong</h2>
+    <p class="inline-message__info">If you don't see it, please check your spam folder. Sometimes it can end up there.</p>
+  </div>
+</div>
+  </template>
+  <div class="contextual__content" role="status"></div>
+</div>
+                   
+        </div>
+        <div class="snplusmodal__content__sentinel" data-sentinelend="snplusmodal"></div>
+      </main>
+    </div>
+  </div>
+</div>
+  <div class="snplusmodal micromodal-slide generic-modal" id="modal-signup" aria-hidden=true>
+  <div class="loader" id="loader-modal-signup" hidden>
+    <p class="loader__description">Please wait while we process your payment</p>
+    <img src="/images/icon-loader.gif">
+  </div>
+  <div class="snplusmodal__overlay" tabindex="-1">
+    <div class="snplusmodal__container" style="--promoContainerColor: #323398" role="dialog" aria-modal="true" aria-label="modal-signup-title">
+      <header class="snplusmodal__header" style="--promoHeaderColor: #5c5eec">
+      <div class="snplusmodal__header__container">
+         
+        <div class="snplusmodal__header__content">
+          
+            
+      <div class="contextual">
+        <template data-contextualTemplate="default">
+          <h2 class="snplusmodal__title" id="modal-reset-title-default"><span><img src="/images/notetaking/spark-notes-plus-secondary-logo-1.svg" alt="snplus-logo"></span></h2>
+        </template>
+        <template data-contextualTemplate="snfreeTrial">
+          <h2 class="snplusmodal__title" id="modal-reset-title-freetrial">Log in or Create account</h2>
+          <span class="snplusmodal__title__sub">to start your free trial of SparkNotes Plus.</span>
+        </template>
+        <template data-contextualTemplate="accountCreated">
+          <h2 class="snplusmodal__title" id="modal-reset-title-accountcreated"><span><img src="/images/icon-sparknotes-plus-logo.svg" alt="snplus-logo"></span></h2>
+        </template>
+        <div class="contextual__content"></div>
+      </div>
+  
+    
+          
+        </div> 
+        
+        <span id="model__close" class="snplusmodal__close generic-modal__close" role="button" aria-label="Close modal"
+          data-micromodal-close><span role="button" title="close modal" aria-label="close modal" tabindex="0"><svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 3a13 13 0 1 1 0 26 13 13 0 0 1 0-26zm5.18 6.93L16 15.12l-5.18-5.19-.89.89L15.12 16l-5.19 5.18.89.89L16 16.88l5.18 5.19.89-.89L16.88 16l5.19-5.18-.89-.89z" fill="#FFF"/>
+</svg>
+</span></span>
+          
+        </div>
+      </header>
+      <main class="snplusmodal__content" id="modal-signup-content" data-sentinels="snplusmodal">
+        <div class="snplusmodal__content__sentinel" data-sentinelstart="snplusmodal"></div>
+        <div class="snplusmodal__content__container">
+          
+            <div class="snplusmodal__tabbed" data-step="createAccount" data-tabset="signin">
+  <nav class="snplusmodal__tabbed__tabs" role="tablist" data-tablist="signin">
+    <a class="snplusmodal__tabbed__tabs__tab" role="tab" id="tab1" href="#tabSection1" aria-selected="true" data-tab="signin">Log in</a>
+    <a class="snplusmodal__tabbed__tabs__tab" role="tab" id="tab2" href="#tabSection2 " tabindex="-1" data-tab="signin">Sign up</a>
+  </nav>
+  <section class="snplusmodal__tabbed__content" role="tabpanel" id="tabSection1" aria-labelledby="tab1" tabindex="-1"  data-tabpanel="signin">
+    <form class="form--sign-in signin-width">
+    <div class="field-error" hidden>
+    <p class="error-title">Sparknotes</p>
+</div>
+
+    <div class="major-error-message" aria-live="assertive" aria-relevant="additions removals" hidden >
+  <!-- <div class="major-error-message__icon">
+    <img src="/images/Sparknotes-form-error-icon.svg" alt="">
+  </div> -->
+  <div class="major-error-message__text">
+    <p class="major-error-message__title"></p>
+    <p class="major-error-message__info"></p>
+  </div>
+</div>
+    <div class="fe-field">
+  <label class="fe-label fe-label--wrap-vertical">
+    <span class="fe-label-text">Email</span>
+    <input 
+      type="email"
+      class="fe-input-text "
+      
+      
+        name="email"
+      
+      
+        autocomplete="email"
+      
+      
+      
+      
+      
+      
+      
+    >
+  </label>
+  <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+  <li class="fe-error-list" hidden></li>
+</div>
+
+    <div class="fe-field">
+  <label for="snplus_password_signin" class="fe-label fe-label--wrap-vertical ">
+    <span class="fe-label-text fe-label-text--password">
+      Password
+      
+      <span class="fe-tooltip">  
+  <span class="signin-tooltip">
+    <button class="fe-tooltip__trigger" type="button" aria-label="Password requirements">
+      <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path d="M8.5 5V4h-1v1h1zm0 7V6h-1v6h1z" fill="#007acd"/>
+</svg>
+    </button>
+    <span role="status"></span>
+    <span class="fe-tooltip__content">
+      <span class="fe-tooltip__bubble fe-tooltip__bubble--password-reqs">
+        <strong>Your password must:</strong>
+            <ul>             
+              <li><span class="dot"></span>&nbsp;&nbsp;Be between 8-15 characters.</li>
+              <li><span class="dot"></span>&nbsp;&nbsp;Contain at least one capital letter.</li>
+              <li><span class="dot"></span>&nbsp;&nbsp;Contain at least one number.</li>
+              <li><span class="dot"></span>&nbsp;&nbsp;Be different from your email address.</li>
+            </ul> 
+      </span>
+    </span>
+  </span>
+</span>  
+      
+    </span>
+    <span class="fe-showPassword-wrap">
+      <input type="password" name="password"
+        class="fe-input-text fe-input-text__password "
+        autocomplete="new-password" id="snplus_password_signin"
+        
+          pattern="^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z]).{8,15}$"
+          title="Must be between 8-15 characters and include 1 or more: Uppercase character, lowercase character, number"
+        
+        >
+      <button class="fe-showPassword" type="button">
+        <svg aria-label="Show password" focusable="false" class="fe-showPassword__icon fe-showPassword__icon--hidden" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewbox="0 0 32 32"><g fill="none" fill-rule="evenodd"><path fill="#787878" fill-rule="nonzero" d="M22.7692 8.143l1.0879 1.0878-1.7975 1.7968c1.4692 1.0058 2.7023 2.3276 3.6132 3.8775l.0508.0873c.3568.6003.3687 1.3472.0262 1.9696l-.2432.4094c-.9954 1.604-2.3432 2.9486-3.9311 3.9217-3.1302 1.9954-7.0333 2.1586-10.2775.4963L9.2308 23.857l-1.0879-1.0879 1.7979-1.7962a12.1313 12.1313 0 01-3.6625-3.9616c-.3702-.623-.3712-1.3981-.0076-2.0098 1.0157-1.7642 2.4463-3.2398 4.1528-4.288 3.125-1.9993 7.0255-2.1669 10.2773-.5028l2.0684-2.0679zm-1.8209 3.995l-1.8505 1.852a3.675 3.675 0 01.5945 2.01c0 2.0392-1.653 3.6923-3.6923 3.6923a3.675 3.675 0 01-2.0098-.5944l-1.5368 1.5372c2.6718 1.1796 5.7769.966 8.3066-.6465 1.5009-.9198 2.75-2.2102 3.6346-3.756l.0136-.0233c.0736-.1338.071-.2996-.0107-.437l-.0527-.0906c-.8834-1.503-2.115-2.7612-3.5904-3.6676l.194.1238zm-1.4013-.7734c-2.6719-1.1806-5.7782-.965-8.3063.6524-1.4993.921-2.7486 2.2097-3.642 3.7614-.0808.1358-.0806.3078.0076.4564a10.6134 10.6134 0 003.6505 3.7583l-.2065-.1322 1.8518-1.8511a3.6718 3.6718 0 01-.5893-1.8137L12.3077 16c0-2.0392 1.653-3.6923 3.6923-3.6923a3.675 3.675 0 012.0098.5944z"/></g></svg>
+        <svg aria-label="Hide password" focusable="false" class="fe-showPassword__icon fe-showPassword__icon--revealed" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><g fill="none" fill-rule="evenodd"><path fill="#484848" fill-rule="nonzero" d="M10.4235 10.7136c3.4094-2.1813 7.742-2.1822 11.148-.003l.3732.2394c1.52 1.015 2.7936 2.365 3.7281 3.955l.0508.0874c.3568.6003.3687 1.3472.0262 1.9696l-.2432.4094c-.9954 1.604-2.3432 2.9486-3.9311 3.9217-3.4116 2.1747-7.7413 2.173-11.1354.0037a12.1255 12.1255 0 01-4.1618-4.2854c-.3702-.623-.3712-1.3981-.0076-2.0098 1.0157-1.7642 2.4463-3.2398 4.1528-4.288zm10.319 1.293c-2.9007-1.8558-6.5858-1.855-9.5018.0104-1.4993.921-2.7486 2.2097-3.642 3.7614-.0808.1358-.0806.3078.0076.4564a10.6134 10.6134 0 003.6505 3.7583c2.9012 1.8542 6.585 1.8556 9.5032-.0045 1.5009-.9198 2.75-2.2102 3.6346-3.756l.0136-.0233c.0736-.1338.071-.2996-.0107-.437l-.0527-.0906c-.8834-1.503-2.115-2.7612-3.5904-3.6676zM16 12.3076c2.0392 0 3.6923 1.6532 3.6923 3.6924S18.0393 19.6923 16 19.6923c-2.0392 0-3.6923-1.653-3.6923-3.6923 0-2.0392 1.653-3.6923 3.6923-3.6923z"></path></g></svg>
+      </button>
+    </span>
+  </label>
+  <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+  <li class="fe-error-list" hidden></li>
+</div>
+    <div class="fe-buttons" >
+  <div class="fe-buttons__container fe-buttons__container--stacked signin-btn">
+
+    
+      
+        <button
+  class="fe-button  "
+  type="submit"
+  data-trigger=""
+  data-loadingText="loading...">
+  Log in
+</button>
+      
+        <button
+  class="fe-button fe-button--minimal "
+  type="button"
+  data-trigger="resetpassword"
+  data-loadingText="loading...">
+  Forgot Password
+</button>
+      
+    
+
+  </div>
+</div>    
+ </form>
+ <div class="signin-agree-container">
+     <div class="signin-agree-container__agree-detail">
+        <p class="signin-agree-container__agree-detail__text">By signing up you agree to our <a class="signin-agree-container__agree-detail__terms" href="/terms-of-use/" target="_blank">terms</a> and <a class="signin-agree-container__agree-detail__terms" target="_blank" href="https://bn.clarip.com/privacycenter/?brand=barnesandnoble" rel="noopener">privacy policy</a>.</p>
+    </div>
+ </div>
+ <div class="signin-subscribe-container">
+    <div class="signin-subscribe-container__subscribe-detail">
+        <p class="signin-subscribe-container__subscribe-detail__text-account">Don’t have an account? 
+            <span class="signin-subscribe-container__subscribe-detail__text-account__text-color signin-subcribe" tabindex="0">Subscribe now</span></p>
+            </div>
+</div>
+  </section>
+  <section class="snplusmodal__tabbed__content" role="tabpanel" id="tabSection2" aria-labelledby="tab2" tabindex="-1"  data-tabpanel="signin" hidden="true">
+    <div class="modal-content-container" data-saved-price="34.89">
+    <script src="https://js.stripe.com/v3/"></script>
+    <div class="create-account-container">
+        <div class="title-container">
+            <p class="title-container__steps"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="11.413" fill="#F5F1F5" stroke="#E5E5E5" stroke-width="1.175"/>
+    <path d="M13.955 14.18v.584H10.77v-.583h1.334v-4.022c-.069.094-.194.2-.376.32-.181.118-.379.222-.592.31a1.61 1.61 0 0 1-.564.122v-.62c.144 0 .301-.042.47-.123.176-.081.338-.175.489-.282.156-.113.288-.216.394-.31.107-.094.166-.153.18-.179h.657v4.784h1.193z" fill="#767676"/>
+</svg>
+</p>
+            <p class="title-container__create-your-account">Create Your Account</p>
+        </div>
+        <div class="free-trial-msg-container">
+            <div class="free-trial-notification">
+                <p class= "free-trial-notification__text">
+                    <span class="free-trial-notification__text__title">Sign up for your FREE 7-day trial</span>
+                </p>
+                <ul id="newt" class="free-trial-notification__option">
+                    <li><a class="free-trial-notification__option__link" target="_blank" href="/plus"><svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="24" cy="24" r="24" fill="#41FFAA"/>
+    <path d="M24 11c7.18 0 13 5.82 13 13s-5.82 13-13 13-13-5.82-13-13 5.82-13 13-13zm8.684 5.376L29.63 19.43a3.627 3.627 0 0 1 2.99 3.379l.005.192v2c0 1.938-1.52 3.52-3.433 3.62l-.173.004-.019.001h-3a.625.625 0 0 1-.618-.533L25.375 28v-4.315l-1.75 1.75V28a.625.625 0 0 1-1.243.092L22.375 28v-1.315l-5.999 5.999a11.51 11.51 0 0 0 7.33 2.868l.294.004c6.382 0 11.556-5.174 11.556-11.556 0-2.921-1.084-5.59-2.872-7.624zM24 12.444c-6.382 0-11.556 5.174-11.556 11.556 0 2.921 1.084 5.59 2.872 7.624l5.498-5.5h-3.189V28a.625.625 0 0 1-1.243.092L16.375 28v-5a3.625 3.625 0 0 1 7.245-.192l.005.192v.314l1.75-1.75V20c0-.314.231-.574.533-.618l.092-.007h1.564l4.06-4.059a11.51 11.51 0 0 0-7.33-2.868L24 12.444zm5 8.18h-.565l-1.81 1.811v4.94H29a2.375 2.375 0 0 0 2.37-2.212l.005-.163v-2a2.375 2.375 0 0 0-2.212-2.37L29 20.626v-.001zm-9 .001a2.375 2.375 0 0 0-2.37 2.212l-.005.163v1.875h4.438l.312-.312V23A2.375 2.375 0 0 0 20 20.625z" fill="#004A3E"/>
+</svg>
+
+                        <span class="free-trial-notification__option__link">Ad-free experience</span></a></li>
+                    <li><a class="free-trial-notification__option__link" target="_blank" href="/plus/#notetaking"><svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="24" cy="24" r="24" fill="#41FFAA"/>
+    <path d="m31.433 14.067 2.245.86c.529.202.789.796.604 1.329l-5.066 14.646a1.053 1.053 0 0 1-.289.437l-1.823 1.648c-.607.549-1.55.195-1.685-.604l-.423-2.507c-.03-.177-.014-.36.044-.529l5.067-14.646.043-.106a1.017 1.017 0 0 1 1.283-.528zm-7.767 17a.625.625 0 0 1 0 1.25h-8.041a.625.625 0 1 1 0-1.25h8.041zm6.72-13.353-4.15 11.999.145.863 1.094.39.576-.52 4.154-12.013-1.819-.719zm-6.712 9.354a.625.625 0 0 1 0 1.25h-8.049a.625.625 0 1 1 0-1.25h8.049zm.955-3.862a.625.625 0 0 1 0 1.25h-9.004a.625.625 0 1 1 0-1.25h9.004zm1.94-4a.625.625 0 0 1 0 1.25H15.625a.625.625 0 1 1 0-1.25h10.944zm1.523-4a.625.625 0 0 1 0 1.25H15.625a.625.625 0 1 1 0-1.25h12.467z" fill="#004A3E"/>
+</svg>
+
+                        <span class="free-trial-notification__option__link study-notes">Study notes</span></a></li>
+                    <li><a class="free-trial-notification__option__link" target="_blank" href="/plus/#flashcards"><svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="24" cy="24" r="24" fill="#41FFAA"/>
+    <path d="M23.625 30.625a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm.5-15.625c3.378 0 6.125 2.653 6.125 5.936 0 3.232-2.662 5.853-5.968 5.934l-.015 1.236a.625.625 0 0 1-1.25-.015l.022-1.851a.625.625 0 0 1 .625-.618h.461c2.697 0 4.875-2.103 4.875-4.686 0-2.583-2.178-4.686-4.875-4.686s-4.875 2.103-4.875 4.686a.625.625 0 1 1-1.25 0C18 17.653 20.747 15 24.125 15z" fill="#004A3E"/>
+</svg>
+
+                        <span class="free-trial-notification__option__link">Flashcards <br/>& Quizzes</span></a></li>
+                    <li><a class="free-trial-notification__option__link  ap-new-icon" target="_blank" href="/plus/#aptestprep"><svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="27" cy="27" r="27" fill="#41FFAA"/>
+    <path d="M26.63 16a.75.75 0 0 1 .75.75l-.001 1.375h9.213c.314 0 .574.231.618.533l.007.092v1.786c.057 2.545.057 4.638 0 6.261v6.953c0 .345-.28.625-.625.625h-9.276l1.344 1.345a.75.75 0 1 1-1.06 1.06l-.97-.969-.97.97a.75.75 0 0 1-.976.072l-.085-.073a.75.75 0 0 1 0-1.06l1.344-1.345h-9.275a.625.625 0 0 1-.618-.533l-.007-.092v-6.93a94.094 94.094 0 0 1-.035-4.208l.014-1.004.02-1.058v-1.8c0-.345.28-.625.626-.625h9.211V16.75l.008-.102A.75.75 0 0 1 26.63 16zm9.337 3.375H17.293v1.189c-.04 1.802-.052 3.373-.035 4.722l.014.782.02.73v6.327h18.675v-6.35c.036-1.016.049-2.212.04-3.59l-.011-1.068-.03-1.567v-1.175z" fill="#004A3E"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M31.4 22.43c.265.22.301.614.08.88l-5 6a.625.625 0 0 1-.922.041l-3-3a.625.625 0 1 1 .884-.884l2.516 2.516 4.562-5.474a.625.625 0 0 1 .88-.08z" fill="#004A3E"/>
+</svg>
+
+                        <span class="free-trial-notification__option__link">AP® English Test Prep</span></a></li>
+                    <li><a class="free-trial-notification__option__link" target="_blank" href="/plus"><svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="24" cy="24" r="23" stroke="#0066C4" stroke-width="2"/>
+    <rect x="23.667" y="17" width="1.667" height="15" rx=".833" fill="#0066C4"/>
+    <rect x="32" y="23.667" width="1.667" height="15" rx=".833" transform="rotate(90 32 23.667)" fill="#0066C4"/>
+</svg>
+
+                        <span class="free-trial-notification__option__link">Plus much more</span></a></li>
+                </ul>
+                <!--commented this code to hide group discount link on step 1 temporarily-->
+                <!--% if (locals.featurePermission && !locals.featurePermission.groupDiscount) {%-->
+                    <!--div class="free-trial-notification__group-discount" hidden><span>Buying in bulk?&nbsp;</span><a href="/group-discounts/" target="_blank">Request a group discount<span>.</span></a></div-->
+                <!--% } % -->
+            </div>
+
+        </div>
+        <div class="form-container">
+            <form class="form--create-account">
+                <div class="major-error-message" aria-live="assertive" aria-relevant="additions removals" hidden >
+  <!-- <div class="major-error-message__icon">
+    <img src="/images/Sparknotes-form-error-icon.svg" alt="">
+  </div> -->
+  <div class="major-error-message__text">
+    <p class="major-error-message__title"></p>
+    <p class="major-error-message__info"></p>
+  </div>
+</div>
+                <div class="fe-field">
+  <label class="fe-label fe-label--wrap-vertical">
+    <span class="fe-label-text">First Name</span>
+    <input 
+      type="text"
+      class="fe-input-text on-focus"
+       required 
+      
+        name="firstname"
+      
+      
+      
+      
+        maxlength="40"
+      
+      
+      
+      
+      
+    >
+  </label>
+  <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+  <li class="fe-error-list" hidden></li>
+</div>
+                <div class="fe-field">
+  <label class="fe-label fe-label--wrap-vertical">
+    <span class="fe-label-text">Last Name</span>
+    <input 
+      type="text"
+      class="fe-input-text on-focus"
+       required 
+      
+        name="lastname"
+      
+      
+      
+      
+        maxlength="40"
+      
+      
+      
+      
+      
+    >
+  </label>
+  <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+  <li class="fe-error-list" hidden></li>
+</div>
+                <div class="fe-field">
+  <label class="fe-label fe-label--wrap-vertical">
+    <span class="fe-label-text">Email</span>
+    <input 
+      type="email"
+      class="fe-input-text on-focus"
+       required 
+      
+        name="email"
+      
+      
+        autocomplete="email"
+      
+      
+      
+        maxlength="40"
+      
+      
+      
+      
+      
+    >
+  </label>
+  <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+  <li class="fe-error-list" hidden></li>
+</div>
+
+                <div class="fe-field">
+  <label for="snplus_password_create" class="fe-label fe-label--wrap-vertical on-focus">
+    <span class="fe-label-text fe-label-text--password">
+      Password
+      
+      <span class="fe-tooltip">  
+  <span class="signin-tooltip">
+    <button class="fe-tooltip__trigger" type="button" aria-label="Password requirements">
+      <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path d="M8.5 5V4h-1v1h1zm0 7V6h-1v6h1z" fill="#007acd"/>
+</svg>
+    </button>
+    <span role="status"></span>
+    <span class="fe-tooltip__content">
+      <span class="fe-tooltip__bubble fe-tooltip__bubble--password-reqs">
+        <strong>Your password must:</strong>
+            <ul>             
+              <li><span class="dot"></span>&nbsp;&nbsp;Be between 8-15 characters.</li>
+              <li><span class="dot"></span>&nbsp;&nbsp;Contain at least one capital letter.</li>
+              <li><span class="dot"></span>&nbsp;&nbsp;Contain at least one number.</li>
+              <li><span class="dot"></span>&nbsp;&nbsp;Be different from your email address.</li>
+            </ul> 
+      </span>
+    </span>
+  </span>
+</span>  
+      
+    </span>
+    <span class="fe-showPassword-wrap">
+      <input type="password" name="password"
+        class="fe-input-text fe-input-text__password on-focus"
+        autocomplete="new-password" id="snplus_password_create"
+        
+          pattern="^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z]).{8,15}$"
+          title="Must be between 8-15 characters and include 1 or more: Uppercase character, lowercase character, number"
+        
+        
+          maxlength="15"
+        >
+      <button class="fe-showPassword" type="button">
+        <svg aria-label="Show password" focusable="false" class="fe-showPassword__icon fe-showPassword__icon--hidden" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewbox="0 0 32 32"><g fill="none" fill-rule="evenodd"><path fill="#787878" fill-rule="nonzero" d="M22.7692 8.143l1.0879 1.0878-1.7975 1.7968c1.4692 1.0058 2.7023 2.3276 3.6132 3.8775l.0508.0873c.3568.6003.3687 1.3472.0262 1.9696l-.2432.4094c-.9954 1.604-2.3432 2.9486-3.9311 3.9217-3.1302 1.9954-7.0333 2.1586-10.2775.4963L9.2308 23.857l-1.0879-1.0879 1.7979-1.7962a12.1313 12.1313 0 01-3.6625-3.9616c-.3702-.623-.3712-1.3981-.0076-2.0098 1.0157-1.7642 2.4463-3.2398 4.1528-4.288 3.125-1.9993 7.0255-2.1669 10.2773-.5028l2.0684-2.0679zm-1.8209 3.995l-1.8505 1.852a3.675 3.675 0 01.5945 2.01c0 2.0392-1.653 3.6923-3.6923 3.6923a3.675 3.675 0 01-2.0098-.5944l-1.5368 1.5372c2.6718 1.1796 5.7769.966 8.3066-.6465 1.5009-.9198 2.75-2.2102 3.6346-3.756l.0136-.0233c.0736-.1338.071-.2996-.0107-.437l-.0527-.0906c-.8834-1.503-2.115-2.7612-3.5904-3.6676l.194.1238zm-1.4013-.7734c-2.6719-1.1806-5.7782-.965-8.3063.6524-1.4993.921-2.7486 2.2097-3.642 3.7614-.0808.1358-.0806.3078.0076.4564a10.6134 10.6134 0 003.6505 3.7583l-.2065-.1322 1.8518-1.8511a3.6718 3.6718 0 01-.5893-1.8137L12.3077 16c0-2.0392 1.653-3.6923 3.6923-3.6923a3.675 3.675 0 012.0098.5944z"/></g></svg>
+        <svg aria-label="Hide password" focusable="false" class="fe-showPassword__icon fe-showPassword__icon--revealed" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><g fill="none" fill-rule="evenodd"><path fill="#484848" fill-rule="nonzero" d="M10.4235 10.7136c3.4094-2.1813 7.742-2.1822 11.148-.003l.3732.2394c1.52 1.015 2.7936 2.365 3.7281 3.955l.0508.0874c.3568.6003.3687 1.3472.0262 1.9696l-.2432.4094c-.9954 1.604-2.3432 2.9486-3.9311 3.9217-3.4116 2.1747-7.7413 2.173-11.1354.0037a12.1255 12.1255 0 01-4.1618-4.2854c-.3702-.623-.3712-1.3981-.0076-2.0098 1.0157-1.7642 2.4463-3.2398 4.1528-4.288zm10.319 1.293c-2.9007-1.8558-6.5858-1.855-9.5018.0104-1.4993.921-2.7486 2.2097-3.642 3.7614-.0808.1358-.0806.3078.0076.4564a10.6134 10.6134 0 003.6505 3.7583c2.9012 1.8542 6.585 1.8556 9.5032-.0045 1.5009-.9198 2.75-2.2102 3.6346-3.756l.0136-.0233c.0736-.1338.071-.2996-.0107-.437l-.0527-.0906c-.8834-1.503-2.115-2.7612-3.5904-3.6676zM16 12.3076c2.0392 0 3.6923 1.6532 3.6923 3.6924S18.0393 19.6923 16 19.6923c-2.0392 0-3.6923-1.653-3.6923-3.6923 0-2.0392 1.653-3.6923 3.6923-3.6923z"></path></g></svg>
+      </button>
+    </span>
+  </label>
+  <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+  <li class="fe-error-list" hidden></li>
+</div>
+                <div class="fe-field">
+  <label class="fe-label fe-label--wrap-checkbox">
+    <input type="checkbox" checked  class="fe-checkbox" name="acceptemails" value="false">
+    <span class="fe-checkbox-text checkbox-focus">Sign up for the free PLUS newsletter</span>
+  </label>
+</div>
+
+
+
+
+                <!--<div class="fe-buttons" >
+  <div class="fe-buttons__container fe-buttons__container--stacked ">
+
+    
+      <button
+  class="fe-button  "
+  type="submit"
+  data-trigger=""
+  data-loadingText="loading...">
+  Choose Your Plan
+</button>
+    
+
+  </div>
+</div>
+                <p class="fe-fineprint">By signing up you agree to our <a href="/terms-of-use/" target="_blank">terms</a> and <a target="_blank" href="https://bn.clarip.com/privacycenter/?brand=barnesandnoble" rel="noopener">privacy policy</a>.</p> -->
+                <div class="fe-buttons">
+                    <button class="choose-plan-btn fe-button" disabled>Choose Your Plan</button>
+                </div>
+            </form>
+            <p class="already-have-account">Already have an account? <span class="free-trial-notification__option__login-link created-account" tabindex="0">Log in</span></p>
+        </div>
+    </div>
+    <div class="create-account-step-done steps-done" hidden>
+        <div class="title-container">
+            <p class="title-container__steps steps-done__dull-msg"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="11.413" fill="#00CC9A" stroke="#41FFAA" stroke-width="1.175"/>
+    <path d="m7.384 12.876 2.343 2.162a.78.78 0 0 0 1.092-.033l5.816-6.056" stroke="#fff" stroke-width="1.175" stroke-linecap="round"/>
+</svg>
+</p>
+            <p class="title-container__create-your-account steps-done__dull-msg">Your Email <span class="user-email user-details"></span>
+            </p>
+        </div>
+        <div class="steps-done__edit-option">
+            <button class="steps-done__edit-option__btn create-account-edit-btn global-header__button" id="firstEditButton">Edit</button>
+        </div>
+    </div>
+    <div class="choose-plan" hidden>
+        <div class="choose-plan__container">
+            <p class="choose-plan__container__steps"><svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12.162" r="11.413" fill="#F5F1F5" stroke="#E5E5E5" stroke-width="1.175"/>
+    <path d="M9.985 15.02c0-.282.034-.567.103-.856.075-.294.223-.576.442-.845.226-.276.564-.53 1.015-.762.181-.094.37-.184.564-.272.194-.094.376-.194.545-.3.169-.114.307-.239.413-.377a.83.83 0 0 0 .16-.507.814.814 0 0 0-.14-.451 1.032 1.032 0 0 0-.414-.367c-.182-.1-.41-.15-.687-.15-.263 0-.498.047-.704.14-.2.095-.37.204-.508.33a4.75 4.75 0 0 0-.3.291l-.405-.442a5.66 5.66 0 0 1 .217-.197c.106-.1.244-.204.413-.31.175-.107.38-.197.61-.273.233-.075.493-.112.78-.112.383 0 .709.068.978.206.276.138.486.32.63.545.144.22.216.46.216.724 0 .257-.056.48-.17.667a1.702 1.702 0 0 1-.422.48c-.17.131-.348.247-.536.347a11.75 11.75 0 0 1-.498.245c-.394.188-.705.375-.93.563a2.073 2.073 0 0 0-.498.545c-.1.182-.17.367-.207.555h3.364v.583H9.985z" fill="#767676"/>
+</svg>
+</p>
+            <p class="choose-plan__container__plan-type">Choose Your Plan</p>
+        </div>
+        
+        <div class="plan-tabs">
+            <div class="plan-tabs__individual active-tab" tabindex="0" role="tab" aria-label="Individual Tab">
+                <p class="plan-tabs__individual__tab">Individual</p>
+            </div>
+            <div class="plan-tabs__group disable-tab" role="tab" aria-label="Group Discount Tab">
+                <p class="plan-tabs__group__tab">Group Discount</p>
+            </div>
+        </div>
+        
+        <div class="choose-your-plan">
+            <div class="radio-section">
+                <div class="card">
+                    <input type="radio" class="account-plan-radio" name="plan" id="monthly" data-value="monthly" value=price_1KiQ9bLpQJjcXDJTUcoT5et0 required>
+                    <label class="radio-card" for="monthly">
+                        <p class="month-price"><span class="year-price" id="monthy-rate">$4.99</span><span class="word-break">/month + tax</span></p>
+                    <p class="plan-request">Monthly</p>
+                    </label>
+                </div>
+                <div class="card">
+                    <span class="best-value">BEST VALUE</span>
+                    <input type="radio" class="account-plan-radio" name="plan" id="annual" data-value="yearly" value=price_1KiQ9bLpQJjcXDJT1ignaI7e required>
+                    <label class="radio-card" for="annual">
+                        <p class="annual-price"><span class="year-price" id="annual-rate">$24.99</span><span class="word-break">/year + tax</span></p>
+                        <p class="plan-request">Annual</p>
+                    </label>
+                </div>
+            </div>
+            <div class="plan-description">
+                <p class="plan-description__annual-save"><span id="save-detail"><strong>Save over 50%</strong> with a SparkNotes PLUS Annual Plan!</span></p>
+                
+                    <div class="fe-buttons new-continue-payment__container">
+                        <button type="button" class="fe-button plan-description__continue-payment new-continue-pay">Continue to Payment</button>
+                        <span class="new-continue-payment__text">Continuing to Payment will take you to a<img class="new-continue-payment__stripe-image" src="/images/stripe-image.svg" alt="stripe-image"/>payment page</span>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="group-discount-tab" hidden>
+            <div class="gdtab-container">
+                <div class="gdtab-container__purchase">
+                    <p class="gdtab-container__purchase__group-text">Purchasing 
+                        <span class="gdtab-container__purchase__group-text__hide-mobile">SparkNotes PLUS</span> 
+                        for a group?</p>
+                    <p class="gdtab-container__purchase__group-plan">Get Annual Plans at a discount when you buy 2 or more!</p>
+                </div>
+                <div class="gdtab-container__quantity">
+                    <div class="gdtab-container__quantity__nos">
+                        <div class="fe-field">
+  <label class="fe-label fe-label--wrap-vertical">
+    <span class="fe-label-text">Quantity</span>
+    <input 
+      type="number"
+      class="fe-input-text gd-on-focus quantity-number"
+       required 
+      
+        name="quantity"
+      
+      
+      
+      
+      
+        id="quantity"
+      
+      
+        value="2"
+      
+      
+        min="0"
+      
+      
+    >
+  </label>
+  <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+  <li class="fe-error-list" hidden></li>
+</div>
+                    </div>
+                    <div class="gdtab-container__quantity__price">
+                        <p class="gdtab-container__quantity__price__text">Price</p>
+                        <p class="gdtab-container__quantity__price__details">
+                            <span class="gdtab-container__quantity__price__details__striked">$24.99</span>
+                            <span class="gdtab-container__quantity__price__details__regular"><span class="gd-price">$18.74</span><span class="space">&nbsp;</span>/</span>subscription + tax
+                        </p>
+                        <p class="gdtab-container__quantity__price__subtotal">Subtotal $37.48 + tax</p>
+                    </div>
+                </div>
+                <div class="gdtab-container__quantity-errormsg fe-error-message" hidden></div>
+                <div class="gdtab-container__discount">
+                    <p class="gdtab-container__discount__save">
+                        <span class="gdtab-container__discount__save__bold">Save 25%</span> 
+                        on 2-49 accounts
+                    </p>
+                    <p class="gdtab-container__discount__save">
+                        <span class="gdtab-container__discount__save__bold">Save 30%</span> 
+                        on 50-99 accounts
+                    </p>
+                    <p class="gdtab-container__discount__more" hidden>
+                        Want 100 or more? 
+                        <a href="/group-discounts/" target="_blank" class="gdtab-container__discount__more__link">Contact us</a> 
+                        for a customized plan.
+                    </p>
+                </div>
+            </div>
+            <div class="plan-description">
+                
+                    <div class="fe-buttons new-continue-payment__container">
+                        <button type="button" class="fe-button plan-description__continue-payment new-gd-continue-pay gd-button-error stripe-checkout">Continue to Payment</button>
+                        <span class="new-continue-payment__text">Continuing to Payment will take you to a<img class="new-continue-payment__stripe-image" src="/images/stripe-image.svg" alt="stripe-image"/>payment page</span>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="choose-plan-step-done steps-done" hidden>
+        <div class="title-container">
+            <p class="title-container__steps steps-done__dull-msg"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="11.413" fill="#00CC9A" stroke="#41FFAA" stroke-width="1.175"/>
+    <path d="m7.384 12.876 2.343 2.162a.78.78 0 0 0 1.092-.033l5.816-6.056" stroke="#fff" stroke-width="1.175" stroke-linecap="round"/>
+</svg>
+</p>
+            <p class="title-container__create-your-account steps-done__dull-msg">Your Plan<span class="user-plan user-details"></span>
+            </p>
+        </div>
+        <div class="steps-done__edit-option">
+            <button class="steps-done__edit-option__btn choose-plan-edit-btn global-header__button" id="secondEditButton">Edit</button>
+        </div>
+    </div>
+    <div class="payment-details-container" hidden>
+        <div class="title-container">
+            <p class="title-container__steps"><svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12.162" r="11.413" fill="#F5F1F5" stroke="#E5E5E5" stroke-width="1.175"/>
+    <path d="M12.851 12.168c.414.069.742.257.987.564.25.307.376.686.376 1.137 0 .376-.091.705-.273.986-.182.289-.435.511-.761.668a2.512 2.512 0 0 1-1.137.244 2.61 2.61 0 0 1-1.25-.291 1.891 1.891 0 0 1-.808-.79l.442-.404c.131.276.332.495.601.658.276.163.614.244 1.015.244.464 0 .83-.115 1.1-.347.275-.226.413-.552.413-.978 0-.426-.144-.764-.432-1.015-.282-.256-.686-.385-1.213-.385h-.235v-.545h.254c.483 0 .852-.11 1.11-.329a1.11 1.11 0 0 0 .384-.874c0-.376-.131-.66-.394-.855-.257-.2-.58-.3-.968-.3a1.83 1.83 0 0 0-.95.244c-.269.156-.472.375-.61.657l-.414-.394c.157-.326.42-.59.79-.79.37-.2.783-.3 1.24-.3.389 0 .73.072 1.024.216.295.138.527.335.696.592.169.25.254.542.254.874 0 .376-.113.708-.339.996-.219.288-.52.46-.902.517z" fill="#767676"/>
+</svg>
+</p>
+            <p class="title-container__create-your-account">Payment Details</p>
+        </div>
+        <div>
+            <form class="form--payment-details">
+                <!-- Stripe element implementation start -->
+                <div class="fe-field">
+                    <label class="fe-label fe-label--wrap-vertical">
+                      <span class="fe-label-text">Card Number</span>
+                    </label>
+                    <div id="card-number-element" data-required="yes">
+                        <!-- A Stripe Element will be inserted here. -->
+                    </div>
+                    <p class="fe-error-message" id="card-errors" role="alert" hidden></p>
+                </div>
+                <div class="wrap-up-content custom-wrap-content">
+                    <div class="fe-field wrap-up-content__first-child custom-stripe-width">
+                        <label class="fe-label fe-label--wrap-vertical">
+                            <span class="fe-label-text">Expiration Date (MM / YY)</span>
+                        </label>
+                        <div id="card-expiry-element" data-required="yes">
+                            <!-- A Stripe Element will be inserted here. -->
+                        </div>
+                        <p class="fe-error-message" id="card-expiry-errors" role="alert" hidden></p>
+                    </div>
+                    <div class="fe-field wrap-up-content-child custom-stripe-width">
+                        <label class="fe-label fe-label--wrap-vertical ">
+                            <span class="fe-label-text">Security Code</span>
+                            <span class="security-tooltip"></span>
+                        </label>
+                        <div id="card-cvc-element" data-required="yes">
+                            <!-- A Stripe Element will be inserted here. -->
+                        </div>
+                        <p class="fe-error-message" id="card-cvc-errors" role="alert" hidden></p>
+                    </div>
+                </div>
+                <!-- Stripe element implementation end -->
+
+                <!-- DNR: For future use -->
+                <!--<input type='text' id="cardType" hidden />
+                <div class="fe-field">
+                    <label class="fe-label fe-label--wrap-vertical">
+                      <span class="fe-label-text">Card Number</span>
+                      <input type="text" class="fe-input-text payment-details-focus required-fields" id= "cardno" required name="cardnumber" maxlength="19">
+                      <span class="cardicon-holder">
+                        <span class="amex-icon cardicon-holder__icon-style" hidden><img alt="american express card icon" src="/images/cards/icon-american-express.svg"/></span>
+                        <span class="dinners-icon cardicon-holder__icon-style" hidden><img alt="diners club card icon" src="/images/cards/icon-diners-club.svg"/></span>
+                        <span class="discover-icon cardicon-holder__icon-style" hidden><img alt="discover card icon" src="/images/cards/icon-discover.svg"/></span>
+                        <span class="jcb-icon cardicon-holder__icon-style" hidden><img alt="jcb card icon" src="/images/cards/icon-jcb.svg"/></span>
+                        <span class="master-icon cardicon-holder__icon-style" hidden><img alt="master card icon" src="/images/cards/icon-master.svg"/></span>
+                        <span class="visa-icon cardicon-holder__icon-style" hidden><img alt="visa card icon" src="/images/cards/icon-visa.svg"/></span>
+                      </span>
+                    </label>
+                    <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                    <li class="fe-error-list" hidden></li>
+                </div>
+                <div class="wrap-up-content">
+                    <div class="fe-field wrap-up-content__first-child ">
+                        <label class="fe-label fe-label--wrap-vertical">
+                            <span class="fe-label-text">Expiration Date (MM / YY)</span>
+                            <input type="text" placeholder="&nbsp; &nbsp;/" class="fe-input-text payment-details-focus required-fields" id="expirationdate" required name="expirationdate" maxlength="5">
+                        </label>
+                        <p class="fe-error-message error-msg-spacing" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                        <li class="fe-error-list" hidden></li>
+                    </div>
+                    <div class="fe-field wrap-up-content-child">
+                        <label class="fe-label fe-label--wrap-vertical ">
+                            <span class="fe-label-text">Security Code</span>
+                            <span class="security-tooltip"></span>
+                            <input type="text" class="fe-input-text payment-details-focus required-fields securitycode" required name="securitycode" pattern="\d*" maxlength="3">
+                        </label>
+                        <p class="fe-error-message error-msg-spacing" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                        <li class="fe-error-list" hidden></li>
+                    </div>
+                </div> -->
+                <div class="fe-field country-container custom-select" data-list = "[{&#34;CountryName&#34;:&#34;United States&#34;,&#34;CountryCode&#34;:&#34;US&#34;,&#34;States&#34;:[&#34;Alabama&#34;,&#34;Alaska&#34;,&#34;Arizona&#34;,&#34;Arkansas&#34;,&#34;California&#34;,&#34;Colorado&#34;,&#34;Connecticut&#34;,&#34;Delaware&#34;,&#34;District of Columbia&#34;,&#34;Florida&#34;,&#34;Georgia&#34;,&#34;Hawaii&#34;,&#34;Idaho&#34;,&#34;Illinois&#34;,&#34;Indiana&#34;,&#34;Iowa&#34;,&#34;Kansas&#34;,&#34;Kentucky&#34;,&#34;Louisiana&#34;,&#34;Maine&#34;,&#34;Maryland&#34;,&#34;Massachusetts&#34;,&#34;Michigan&#34;,&#34;Minnesota&#34;,&#34;Mississippi&#34;,&#34;Missouri&#34;,&#34;Montana&#34;,&#34;Nebraska&#34;,&#34;Nevada&#34;,&#34;New Hampshire&#34;,&#34;New Jersey&#34;,&#34;New Mexico&#34;,&#34;New York&#34;,&#34;North Carolina&#34;,&#34;North Dakota&#34;,&#34;Ohio&#34;,&#34;Oklahoma&#34;,&#34;Oregon&#34;,&#34;Pennsylvania&#34;,&#34;Rhode Island&#34;,&#34;South Carolina&#34;,&#34;South Dakota&#34;,&#34;Tennessee&#34;,&#34;Texas&#34;,&#34;Utah&#34;,&#34;Vermont&#34;,&#34;Virginia&#34;,&#34;Washington&#34;,&#34;West Virginia&#34;,&#34;Wisconsin&#34;,&#34;Wyoming&#34;]},{&#34;CountryName&#34;:&#34;Australia&#34;,&#34;CountryCode&#34;:&#34;AU&#34;,&#34;States&#34;:[&#34;Aust Capital Terr&#34;,&#34;New South Wales&#34;,&#34;Northern Territory&#34;,&#34;Queensland&#34;,&#34;South Australia&#34;,&#34;Tasmania&#34;,&#34;Victoria&#34;,&#34;Western Australia&#34;]},{&#34;CountryName&#34;:&#34;Canada&#34;,&#34;CountryCode&#34;:&#34;CA&#34;,&#34;States&#34;:[&#34;Alberta&#34;,&#34;British Columbia&#34;,&#34;Manitoba&#34;,&#34;New Brunswick&#34;,&#34;Newfoundland and Labrador&#34;,&#34;Northwest Territories&#34;,&#34;Nova Scotia&#34;,&#34;Nunavut&#34;,&#34;Ontario&#34;,&#34;Prince Edward Island&#34;,&#34;Quebec&#34;,&#34;Saskatchewan&#34;,&#34;Yukon Territory&#34;]},{&#34;CountryName&#34;:&#34;Hong Kong&#34;,&#34;CountryCode&#34;:&#34;HK&#34;,&#34;States&#34;:[&#34;Hong Kong Island&#34;,&#34;Kowloon&#34;,&#34;New Territories&#34;]},{&#34;CountryName&#34;:&#34;India&#34;,&#34;CountryCode&#34;:&#34;IN&#34;,&#34;States&#34;:[&#34;Andaman and Nicobar Islands&#34;,&#34;Andhra Pradesh&#34;,&#34;Arunachal Pradesh&#34;,&#34;Assam&#34;,&#34;Bihar&#34;,&#34;Chandigarh&#34;,&#34;Chhattisgarh&#34;,&#34;Dadra and Nagar Haveli&#34;,&#34;Daman and Diu&#34;,&#34;Delhi&#34;,&#34;Goa&#34;,&#34;Gujarat&#34;,&#34;Haryana&#34;,&#34;Himachal Pradesh&#34;,&#34;Jammu and Kashmir&#34;,&#34;Jharkhand&#34;,&#34;Karnataka&#34;,&#34;Kerala&#34;,&#34;Ladakh&#34;,&#34;Lakshadweep&#34;,&#34;Madhya Pradesh&#34;,&#34;Maharashtra&#34;,&#34;Manipur&#34;,&#34;Meghalaya&#34;,&#34;Mizoram&#34;,&#34;Nagaland&#34;,&#34;Odisha&#34;,&#34;Puducherry&#34;,&#34;Punjab&#34;,&#34;Rajasthan&#34;,&#34;Sikkim&#34;,&#34;Tamil Nadu&#34;,&#34;Tripura&#34;,&#34;Telangana&#34;,&#34;Uttar Pradesh&#34;,&#34;Uttarakhand&#34;,&#34;West Bengal&#34;]},{&#34;CountryName&#34;:&#34;South Africa&#34;,&#34;CountryCode&#34;:&#34;ZA&#34;,&#34;States&#34;:[&#34;Eastern Cape&#34;,&#34;Free State&#34;,&#34;Gauteng&#34;,&#34;KwaZulu-Natal&#34;,&#34;Limpopo&#34;,&#34;Mpumalanga&#34;,&#34;Northern Cape&#34;,&#34;North West&#34;,&#34;Western Cape&#34;]},{&#34;CountryName&#34;:&#34;United States&#34;,&#34;CountryCode&#34;:&#34;US&#34;,&#34;States&#34;:[&#34;Alabama&#34;,&#34;Alaska&#34;,&#34;Arizona&#34;,&#34;Arkansas&#34;,&#34;California&#34;,&#34;Colorado&#34;,&#34;Connecticut&#34;,&#34;Delaware&#34;,&#34;District of Columbia&#34;,&#34;Florida&#34;,&#34;Georgia&#34;,&#34;Hawaii&#34;,&#34;Idaho&#34;,&#34;Illinois&#34;,&#34;Indiana&#34;,&#34;Iowa&#34;,&#34;Kansas&#34;,&#34;Kentucky&#34;,&#34;Louisiana&#34;,&#34;Maine&#34;,&#34;Maryland&#34;,&#34;Massachusetts&#34;,&#34;Michigan&#34;,&#34;Minnesota&#34;,&#34;Mississippi&#34;,&#34;Missouri&#34;,&#34;Montana&#34;,&#34;Nebraska&#34;,&#34;Nevada&#34;,&#34;New Hampshire&#34;,&#34;New Jersey&#34;,&#34;New Mexico&#34;,&#34;New York&#34;,&#34;North Carolina&#34;,&#34;North Dakota&#34;,&#34;Ohio&#34;,&#34;Oklahoma&#34;,&#34;Oregon&#34;,&#34;Pennsylvania&#34;,&#34;Rhode Island&#34;,&#34;South Carolina&#34;,&#34;South Dakota&#34;,&#34;Tennessee&#34;,&#34;Texas&#34;,&#34;Utah&#34;,&#34;Vermont&#34;,&#34;Virginia&#34;,&#34;Washington&#34;,&#34;West Virginia&#34;,&#34;Wisconsin&#34;,&#34;Wyoming&#34;]},{&#34;CountryName&#34;:&#34;My country is not listed&#34;,&#34;CountryCode&#34;:&#34;not-listed&#34;}]">
+                    <label class="fe-label fe-label--wrap-vertical">
+                        <span class="fe-label-text">Country</span>
+                        <select name="country" id="country" class="fe-input-text required-fields">
+                            
+                                <option value="US">United States</option>
+                            
+                                <option value="AU">Australia</option>
+                            
+                                <option value="CA">Canada</option>
+                            
+                                <option value="HK">Hong Kong</option>
+                            
+                                <option value="IN">India</option>
+                            
+                                <option value="ZA">South Africa</option>
+                            
+                                <option value="US">United States</option>
+                            
+                                <option value="not-listed">My country is not listed</option>
+                            
+                        </select>
+                    </label>
+                    <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                    <li class="fe-error-list" hidden></li>
+                </div>
+                <div class="country-not-available-msg fe-field" hidden>
+                    <span>We're sorry, SparkNotes Plus isn't available in your country.</span>
+                </div>
+                <div class="fe-field">
+                    <label class="fe-label fe-label--wrap-vertical">
+                      <span class="fe-label-text">Name on Card</span>
+                      <input type="text" class="fe-input-text payment-details-focus required-fields" required name="nameoncard" maxlength="60" id="nameoncard">
+                    </label>
+                    <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                    <li class="fe-error-list" hidden></li>
+                </div>
+                <div class="fe-field">
+                    <label class="fe-label fe-label--wrap-vertical">
+                        <span class="fe-label-text">Billing Address</span>
+                        <input type="text" maxlength="35" class="fe-input-text payment-details-focus required-fields error-selected" required name="billingaddress">
+                    </label>
+                    <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                    <li class="fe-error-list" hidden></li>
+                </div>
+                <div class="wrap-up-content">
+                    <div class="fe-field wrap-up-content__first-child ">
+                        <label class="fe-label fe-label--wrap-vertical">
+                            <span class="fe-label-text">City</span>
+                            <input type="text" class="fe-input-text payment-details-focus required-fields error-selected" required name="city" maxlength="60">
+                        </label>
+                        <p class="fe-error-message error-msg-spacing" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                        <li class="fe-error-list" hidden></li>
+                    </div>
+                    <div class="fe-field wrap-up-content-child">
+                        <label class="fe-label fe-label--wrap-vertical wrap-up-content-child">
+                            <span class="fe-label-text">Zip/Postal Code</span>
+                            <input type="text" maxlength="10" class="fe-input-text payment-details-focus required-fields postalcode error-selected" required name="postalcode">
+                        </label>
+                        <p class="fe-error-message error-msg-spacing" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                        <li class="fe-error-list" hidden></li>
+                    </div>
+                </div>
+                <div class="fe-field custom-select-state">
+                    <label class="fe-label fe-label--wrap-vertical">
+                    <span class="fe-label-text">State/Region</span>
+                    <select name="state" id="state" class="fe-input-text required-fields">
+                    </select>
+                    </label>
+                    <p class="fe-error-message" aria-live="assertive" aria-relevant="additions removals" hidden></p>
+                    <li class="fe-error-list" hidden></li>
+                </div>
+                <div class="fe-buttons">
+                    <button class="save-card-btn fe-button" id="saveCardAndContinueBtn" disabled>Save Card and Continue</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="payment-details-step-done steps-done" hidden>
+        <div class="title-container">
+            <p class="title-container__steps steps-done__dull-msg"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="11.413" fill="#00CC9A" stroke="#41FFAA" stroke-width="1.175"/>
+    <path d="m7.384 12.876 2.343 2.162a.78.78 0 0 0 1.092-.033l5.816-6.056" stroke="#fff" stroke-width="1.175" stroke-linecap="round"/>
+</svg>
+</p>
+            <div class="title-container__create-your-account steps-done__dull-msg">Payment Details 
+                <div class="user-card user-details">
+                    <div class="card-brand-holder">
+                        <img class="user-card-brand" alt="" src="">
+                    </div>
+                    <span class="user-card-lastdigits"></span>
+                </div>
+            </div>
+        </div>
+        <div class="steps-done__edit-option">
+            <button class="steps-done__edit-option__btn payment-deatils-edit-btn global-header__button" id="thirdEditButton">Edit</button>
+        </div>
+    </div>
+    <!-- payment summary -->
+    <div class="payment-summary-container" hidden>
+        <div class="major-error-message" aria-live="assertive" aria-relevant="additions removals" hidden >
+  <!-- <div class="major-error-message__icon">
+    <img src="/images/Sparknotes-form-error-icon.svg" alt="">
+  </div> -->
+  <div class="major-error-message__text">
+    <p class="major-error-message__title"></p>
+    <p class="major-error-message__info"></p>
+  </div>
+</div>
+        <div class="choose-plan__container" id="payment-summary-step">
+            <p class="choose-plan__container__steps"><svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12.162" r="11.413" fill="#F5F1F5" stroke="#E5E5E5" stroke-width="1.175"/>
+    <path d="M12.527 15.532V13.86h-3.13v-.563l3.337-4.323h.432v4.304h.827v.582h-.827v1.673h-.639zm-2.453-2.255h2.519V9.978l-2.519 3.299z" fill="#767676"/>
+</svg>
+</p>
+            <p class="choose-plan__container__plan-type">Payment Summary</p>
+        </div>
+        <div class="payment-summary">
+            <div class="payment-summary__summary-details">
+                <div class="payment-summary__summary-details__sparknotes">
+                    <p class="payment-summary__summary-details__sparknotes__plan-type">SparkNotes Plus <span class="payment-summary__summary-details__change-plan__trail-end__bold" id="sparknotes-plan"></span></p>
+                    <!--<p class="payment-summary__summary-details__change-plan__change-plan-text change-plan-payment" tabindex="0">&nbsp;Change</p>-->
+                    <!-- Annual + tax SparkNotes Plus - Annual-->
+                    <!--<p class="payment-summary__summary-details__sparknotes__price" >US <span class="payment-summary__summary-details__change-plan__trail-end__bold" id="sparknotes-price"></span> + tax</p>-->
+                </div>
+                <div class="payment-summary__summary-details__change-plan">
+                    <p class="payment-summary__summary-details__change-plan__trail-end">You'll be billed <span class="payment-summary__summary-details__change-plan__trail-end__bold">after</span> your free trial ends.</p>
+                </div>
+                <div class="payment-summary__summary-details__price-details">
+                    <div class="payment-summary__summary-details__price-details__statements">
+                        <p class="payment-summary__summary-details__price-details__statements__trial-day">7-Day Free Trial</p>
+                        <p class="payment-summary__summary-details__price-details__statements__group-trial group-trial" hidden>Not Applicable</p>
+                    </div>
+                    <div class="payment-summary__summary-details__price-details__statements">
+                        <p class="payment-summary__summary-details__price-details__statements__renew-date">
+                            Renews <span class="trial-date">September 2, 2023</span>
+                            <span class="current-date" hidden>August 26, 2023</span>
+                        </p>
+                        <p class="payment-summary__summary-details__price-details__statements__trial-price" id="due-date"></p>
+                    </div>
+                    <div class="payment-summary__summary-details__price-details__statements discount-container" hidden>
+                        <p class="payment-summary__summary-details__price-details__statements__discount discount-text">Discounts (applied to next billing)</p>
+                        <p class="payment-summary__summary-details__price-details__statements__discount-amount" id="discount-amount"></p>
+                    </div>
+                    <div class="payment-summary__summary-details__price-details__statements">
+                        <p class="payment-summary__summary-details__price-details__statements__due">DUE NOW</p>
+                        <p class="payment-summary__summary-details__price-details__statements__due-rate due-rate">US $0.00</p>
+                    </div>
+                    <!-- <div class="payment-summary__summary-details__price-details__last-statement">
+                        <p class="payment-summary__summary-details__price-details__last-statement__total">TOTAL</p>
+                        <p class="payment-summary__summary-details__price-details__last-statement__total-rate" id="total-price"></p>
+                    </div> -->
+                </div>
+                <div class="payment-summary__summary-details__promo">
+                    <div class="payment-summary__summary-details__coupon-item" hidden >
+                        <p class="payment-summary__summary-details__coupon-item__text">
+                            <span class="payment-summary__summary-details__coupon-item__text__item coupon-value">SNPLUSROCKS20</span>
+                            <span class="payment-summary__summary-details__coupon-item__text__item">&nbsp;|&nbsp;</span>
+                            <span class='payment-summary__summary-details__coupon-item__text__discount'>20%</span>
+                            <span>Discount</span>
+                        </p>
+                        <button  class="payment-summary__summary-details__coupon-item__btn">Remove</button>
+                    </div>
+                    <p class="payment-summary__summary-details__promo promo-error" hidden>This is not a valid promo code.</p>
+                    <p class="payment-summary__summary-details__promo__promo-code promo-header">
+                        <span class="payment-summary__summary-details__promo__promo-code__image"><svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m18.934 6.056.412 7.012a.75.75 0 0 1-.218.575l-9.07 9.07a.75.75 0 0 1-1.06 0l-7.425-7.425a.75.75 0 0 1 0-1.06l9.07-9.07a.75.75 0 0 1 .574-.219l7.012.413a.75.75 0 0 1 .705.704zm.724 8.117a1.5 1.5 0 0 0 .437-1.149l-.413-7.012a1.5 1.5 0 0 0-1.409-1.41l-7.012-.412a1.5 1.5 0 0 0-1.149.437l-9.07 9.07a1.5 1.5 0 0 0 0 2.121l7.425 7.425a1.5 1.5 0 0 0 2.121 0l9.07-9.07zm-6.418-3.128a1.875 1.875 0 1 0 2.652-2.651 1.875 1.875 0 0 0-2.652 2.651z" fill="#004A3E"/>
+</svg>
+</span>
+                        <span class="payment-summary__summary-details__promo__promo-code__text">Discount Code</span>
+                        <span class="payment-summary__summary-details__promo__promo-code__text-mini">(one code per order)</span>
+                    </p>
+                    <div class="payment-summary__summary-details__promo__code-container">
+                        <div class="payment-summary__summary-details__promo__code-container__promo-field">
+                            <input type="text" class="payment-summary__summary-details__promo__code-container__promo-field__code-field promo-code-data" id="pcode" name="promocode" placeholder="Enter Code" required disabled>
+                        </div>
+                        <div class="payment-summary__summary-details__promo__code-container__apply-button">
+                            <button class="fe-button payment-summary__summary-details__promo__code-container__apply-button__apply-code enabled-promo-button" disabled>Apply</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="payment-summary__container">
+                <div class="payment-summary__container__details">
+                    <p class="payment-summary__container__details__plan">SparkNotes PLUS 
+                        <span class="payment-summary__container__details__plan__discount">Annual Plan - Group Discount</span>
+                    </p>
+                    <p class="payment-summary__container__details__qty">Qty: <span class="total-quantity">00</span>
+                    </p>
+                </div>
+                <div class="payment-summary__container__sub-Container">
+                    <span class="payment-summary__container__sub-Container__subtotal">Subtotal</span>
+                    <span class="payment-summary__container__sub-Container__price">US $<span class="subtotal-amount">0,000.00</span>
+                    </span>
+                </div>
+                <div class="payment-summary__container__discount-Container">
+                    <span class="payment-summary__container__discount-Container__discount">Discount (<span class = "discount-percent">00</span>% off)
+                    </span>
+                    <span class="payment-summary__container__discount-Container__price">-US $<span class="discounted-amount">000.00</span>
+                    </span>
+                </div>
+                <div class="payment-summary__container__tax-Container">
+                    <span class="payment-summary__container__tax-Container__tax">Tax</span>
+                    <span class="payment-summary__container__tax-Container__price">US $XX.XX</span>
+                </div>
+                <div class="payment-summary__container__due-Container">
+                    <span class="payment-summary__container__due-Container__due">DUE NOW</span>
+                    <span class="payment-summary__container__due-Container__price">US $1,049.58</span>
+                </div>
+            </div>
+            
+            <div class="payment-summary__payment-description">
+                <p class="payment-summary__payment-description__trial-blah">SparkNotes Plus subscription is <span>$4.99/month</span> or <span>$24.99/year</span> as selected above. The free trial period is the first 7 days of your subscription. <strong>TO CANCEL YOUR SUBSCRIPTION AND AVOID BEING CHARGED, YOU MUST CANCEL BEFORE THE END OF THE FREE TRIAL PERIOD.</strong> You may cancel your subscription on your Subscription and Billing page or contact Customer Support at <a class="payment-summary__payment-description__trial-blah__anchor-text" href="mailto:custserv@bn.com">custserv@bn.com</a>. Your subscription will continue automatically once the free trial period is over. Free trial is available to new customers only.</p>
+            </div>
+            <div class="payment-summary__checkbox-container">
+                <input type="checkbox" class="input-checkbox-term" id="terms" name="terms" value="terms" tabindex="0">
+                <label for="terms" class="checkbox-term">
+                    <div class="payment-summary__checkbox-container__checkbox-description">
+                        <p class="payment-summary__checkbox-container__checkbox-description__description-text">By signing up you agree to our <a class="payment-summary__checkbox-container__checkbox-description__description-text__anchor-text" href="/terms-of-use/" target="_blank">terms</a> and <a class="payment-summary__checkbox-container__checkbox-description__description-text__anchor-text" target="_blank" href="https://bn.clarip.com/privacycenter/?brand=barnesandnoble" rel="noopener">privacy policy</a>.</p>
+                    </div>
+                </label>
+            </div>
+            
+            <div class="payment-summary__gd-checkbox-container">
+                <input type="checkbox" class="input-checkbox-term" id="gdterms" name="gdterms" value="gdterms" tabindex="0">
+                <label for="gdterms" class="checkbox-term">
+                    <div class="payment-summary__gd-checkbox-container__checkbox-description">
+                        <p class="payment-summary__gd-checkbox-container__checkbox-description__description-text">By signing up you agree to our <a class="payment-summary__checkbox-container__checkbox-description__description-text__anchor-text" href="/terms-of-use/" target="_blank">terms</a> and <a class="payment-summary__checkbox-container__checkbox-description__description-text__anchor-text" target="_blank" href="https://bn.clarip.com/privacycenter/?brand=barnesandnoble" rel="noopener">privacy policy</a>.</p>
+                    </div>
+                </label>
+            </div>
+            
+            <div class="fe-buttons individual-tab">
+                <button type="button" class="fe-button payment-summary__payment-description__start-free__trail-button final-payment-button" disabled>
+                    <!-- <img src="/images/icon-white-lock-trail.svg"/> -->
+                    <span class="payment-summary__payment-description__start-free__trail-button__text">Start 7-Day Free Trial</span>
+                </button>
+            </div>
+            
+            <div class="fe-buttons groupdiscount-tab">
+                <button type="button" class="fe-button payment-summary__payment-description__start-free__trail-button gd-final-payment-button" disabled>
+                    <!-- <img src="/images/icon-white-lock-trail.svg"/> -->
+                    <span class="payment-summary__payment-description__start-free__trail-button__text">Complete Purchase</span>
+                </button>
+            </div>
+            
+        </div>
+    </div>
+    <!--placeholders for modals that to be done-->
+    <div class="placeholders-container">
+        <div class="choose-plan-placeholder">
+            <p class="title-container__steps steps-done__dull-msg"><svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12.162" r="11.413" fill="#F5F1F5" stroke="#E5E5E5" stroke-width="1.175"/>
+    <path d="M9.985 15.02c0-.282.034-.567.103-.856.075-.294.223-.576.442-.845.226-.276.564-.53 1.015-.762.181-.094.37-.184.564-.272.194-.094.376-.194.545-.3.169-.114.307-.239.413-.377a.83.83 0 0 0 .16-.507.814.814 0 0 0-.14-.451 1.032 1.032 0 0 0-.414-.367c-.182-.1-.41-.15-.687-.15-.263 0-.498.047-.704.14-.2.095-.37.204-.508.33a4.75 4.75 0 0 0-.3.291l-.405-.442a5.66 5.66 0 0 1 .217-.197c.106-.1.244-.204.413-.31.175-.107.38-.197.61-.273.233-.075.493-.112.78-.112.383 0 .709.068.978.206.276.138.486.32.63.545.144.22.216.46.216.724 0 .257-.056.48-.17.667a1.702 1.702 0 0 1-.422.48c-.17.131-.348.247-.536.347a11.75 11.75 0 0 1-.498.245c-.394.188-.705.375-.93.563a2.073 2.073 0 0 0-.498.545c-.1.182-.17.367-.207.555h3.364v.583H9.985z" fill="#767676"/>
+</svg>
+</p>
+            <p class="title-container__create-your-account steps-done__dull-msg">Choose Your Plan</p>
+        </div>
+        
+    </div>
+    <script src = "https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+</div>
+  </section>
+</div>
+<div id ="success-modal" class="snplusmodal__content__poppedIcon" data-step="accountCreated" hidden>
+  <div class="snplusmodal__content__poppedIcon__header">
+    <span class="snplusmodal__content__poppedIcon__header__icon">
+      <img src="/images/icon-success-sparknotes-plus.svg">
+    </span>
+  </div>
+  <div class="snplusmodal__content__poppedIcon__content smaller-device-structure">
+    <div class="contextual">
+      <template data-contextualTemplate="default">
+        <div class="start-free-trail">
+          <div class="success-msg-free-trial">Your Free Trial Starts Now!</div>
+          <p>For the next 7 days, you'll have access to awesome PLUS stuff like AP English test prep, No Fear Shakespeare translations and audio, a note-taking tool, personalized dashboard, & much more!</p>
+          <div class="fe-buttons" >
+  <div class="fe-buttons__container fe-buttons__container--stacked ">
+
+    
+      
+        <button
+  class="fe-button  go-to-dashboard"
+  type="button"
+  data-trigger="myplusdashboard"
+  data-loadingText="loading...">
+  Go to My PLUS Dashboard
+</button>
+      
+        <button
+  class="fe-button fe-button--minimal back-to-sparknotes"
+  type="button"
+  data-trigger="closeModal"
+  data-loadingText="loading...">
+  Launch SparkNotes PLUS
+</button>
+      
+    
+
+  </div>
+</div>
+        </div>
+        <div class="group-discounts-success">
+          <div class="start-free-trail">
+            <div class="success-msg-free-trial signin-group-discount">Thank You!</div>
+            <p class="gd-activation-link">You’ve successfully purchased a group discount. Your group members can use the joining link below to redeem their group membership. You'll also receive an email with the link.</p>
+            <div class="gd-link">
+              <!-- <div> -->
+                <div class="gd-link__url">No URL</div>
+              <!-- </div> -->
+              <div class="gd-link__copy-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M5 2a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h1a1 1 0 1 0 0-2H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1v1a1 1 0 1 0 2 0V5a3 3 0 0 0-3-3H5zm6 6a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3v-8a3 3 0 0 0-3-3h-8zm-1 3a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-8a1 1 0 0 1-1-1v-8z" fill="#008262"/>
+</svg>
+
+              </div>
+              <span class="copy">Copy</span>
+            </div>
+            <p class="gd-members">Members will be prompted to log in or create an account to redeem their group membership.</p>
+            <div class="fe-buttons" >
+  <div class="fe-buttons__container fe-buttons__container--stacked ">
+
+    
+      
+        <button
+  class="fe-button  redeem-code"
+  type="button"
+  data-trigger="redeemcode"
+  data-loadingText="loading...">
+  Redeem a Code Now
+</button>
+      
+        <button
+  class="fe-button fe-button--minimal manage-your-purchase"
+  type="button"
+  data-trigger="manageYourPurchase"
+  data-loadingText="loading...">
+  Manage Your Purchase
+</button>
+      
+    
+
+  </div>
+</div>
+        </div>
+      </template>
+      <template data-contextualTemplate="snfreeTrial">
+        <p>Thanks for creating a SparkNotes account! Continue to start your free trial.</p>
+        <div class="fe-buttons" >
+  <div class="fe-buttons__container fe-buttons__container--stacked ">
+
+    
+      <button
+  class="fe-button  "
+  type="button"
+  data-trigger=""
+  data-loadingText="loading...">
+  Start free trial of SparkNotes Plus
+</button>
+    
+
+  </div>
+</div>
+      </template>
+      <div class="contextual__content"></div>
+    </div>
+    </div>
+</div>
+                   
+        </div>
+        <div class="snplusmodal__content__sentinel" data-sentinelend="snplusmodal"></div>
+      </main>
+    </div>
+  </div>
+</div>
+    
+
+
+
+<!-- Mobile  -->
+<div class="global-nav-mobile-panel js-global-nav-mobile-panel" hidden>
+  <button
+    class="close-modal-button js-mobile-nav-close cross-close-btn"
+    aria-label="Close mobile menu"
+  >
+    <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 3a13 13 0 1 1 0 26 13 13 0 0 1 0-26zm5.18 6.93L16 15.12l-5.18-5.19-.89.89L15.12 16l-5.19 5.18.89.89L16 16.88l5.18 5.19.89-.89L16.88 16l5.19-5.18-.89-.89z" fill="#FFF"/>
+</svg>
+
+  </button>
+
+  <nav class="global-nav-mobile" role="navigation">
+    <div class="global-nav-mobile__search">
+      <div
+  class="searchbar__wrapper  ">
+  <div class="searchbar ">
+    <form class="searchbar__form" role="search" id="mobileResults">
+      <label class="searchbar__label" for="mobileSearch">Search all of
+        SparkNotes</label>
+      <input class="searchbar__input" id="mobileSearch" type="text"
+        placeholder="Search all of SparkNotes" required autocomplete="off" aria-describedby="mobileArrow"
+        aria-owns="mobileResults" value=""
+      >
+      <button class="searchbar__button" type="submit">
+        <span class="searchbar__button__text">Search</span>
+        <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14.75 6a8.75 8.75 0 0 1 6.78 14.28l4.18 4.22c.34.34.34.9 0 1.24a.86.86 0 0 1-1.23 0l-4.17-4.23A8.75 8.75 0 1 1 14.75 6zm0 1.74a7.01 7.01 0 1 0 0 14.02 7.01 7.01 0 0 0 0-14.02z" fill="#007ACD"/>
+</svg>
+
+      </button>
+    </form>
+    <div class="searchbar__suggestions" aria-live="polite">
+      <p class="searchbar__suggestions__title" role="presentation">Suggestions</p>
+      <span id="mobileArrow">Use up and down arrows to review and enter to select.</span>
+      <ul class="searchbar__suggestions__list js--searchbar--defaults" role="listbox">
+        
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="A Streetcar Named Desire">
+            A Streetcar Named Desire
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Dr. Jekyll and Mr. Hyde">
+            Dr. Jekyll and Mr. Hyde
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Frankenstein">
+            Frankenstein
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Romeo and Juliet">
+            Romeo and Juliet
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Things Fall Apart">
+            Things Fall Apart
+          </button></li>
+          
+      </ul>
+      <ul class="searchbar__suggestions__list js--searchbar--liveList" role="listbox"
+        data-templateitem='<button class="searchbar__suggestions__item" role="option" tabindex="-1" value="$value$">$value$</button>'
+        hidden>
+
+      </ul>
+
+    </div>
+  </div>
+</div>
+    </div>
+    <ul class="global-nav-mobile__list">
+      
+        <li class=" nav-item--secondary nav-mobile-sign-in">
+          <button tabindex="0" class="global-header__button user-login-mobile js--showSignIn">
+            Log in
+          </button>  
+          <button
+            class="global-header__button account-menu account-signin account-signin__mobile signup-account-btn signup-account-btn-mobile"
+            type="button"
+            aria-haspopup="dialog">
+            Sign Up for <span>&nbsp;PLUS</span>
+          </button>
+        </li>
+        <script>
+          if(loggedInCookie) {
+            document.querySelector(".nav-mobile-sign-in").hidden = true;
+          } else {
+            document.querySelector(".nav-mobile-sign-in").removeAttribute('hidden');
+          }
+        </script>
+        <li class="nav-mobile-sign-out">    
+          <div class="global-nav-mobile__list__item mobile-dropdown">
+            <div tabindex="0" class="drop-btn-mobile">
+              <span class="account-mobile-icon unexpanded-account-icon"><svg width="28" height="27" viewBox="0 0 28 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="14" cy="8.1" rx="4.727" ry="4.86" stroke="#fff" stroke-width="1.167"/>
+    <mask id="y6xq4r6cea" fill="#fff">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.61 21.756A10.839 10.839 0 0 1 14 14.04c4.91 0 9.057 3.254 10.39 7.716C21.988 24.946 18.227 27 14 27c-4.228 0-7.99-2.055-10.39-5.245z"/>
+    </mask>
+    <path d="m3.61 21.756-1.12-.334-.168.565.355.47.932-.701zm20.78 0 .932.701.355-.47-.17-.565-1.117.334zm-19.663.334A9.671 9.671 0 0 1 14 15.208v-2.335a12.006 12.006 0 0 0-11.508 8.549l2.236.668zM14 15.208a9.671 9.671 0 0 1 9.272 6.882l2.237-.668a12.006 12.006 0 0 0-11.509-8.549v2.335zm9.458 5.846c-2.195 2.916-5.62 4.78-9.458 4.78v2.334c4.618 0 8.715-2.246 11.323-5.71l-1.865-1.404zm-9.458 4.78c-3.838 0-7.262-1.864-9.457-4.78l-1.865 1.404c2.607 3.464 6.705 5.71 11.322 5.71v-2.335z" fill="#fff" mask="url(#y6xq4r6cea)"/>
+    <path d="M26.605 13.5c0 7.18-5.657 12.975-12.605 12.975S1.395 20.68 1.395 13.5 7.052.525 14 .525 26.605 6.32 26.605 13.5z" stroke="#fff" stroke-width="1.05"/>
+</svg>
+</span>
+              <span class="account-mobile-icon expanded-account-icon"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>My Account Icon</title>
+    <g id="My-Account---Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="360_Subscriber_Nav-Open-Account" transform="translate(-16.000000, -172.000000)">
+            <g id="My-Account---Open" transform="translate(0.000000, 154.000000)">
+                <g id="My-Account-Icon" transform="translate(16.000000, 18.000000)">
+                    <circle id="Oval" fill="#007ACD" cx="12.99375" cy="7.79625" r="4.67775"></circle>
+                    <path d="M12.9937899,14.03325 C15.0557317,14.03325 16.9752312,14.6246794 18.5808357,15.6429124 C20.1668145,16.6486994 21.4467036,18.070716 22.2534192,19.7496688 C21.446874,21.4291107 20.1672597,22.8514518 18.5815013,23.8574734 C16.9758057,24.8761433 15.05604,25.46775 12.9937899,25.46775 C10.9318481,25.46775 9.01234865,24.8763206 7.40674417,23.8580876 C5.82076536,22.8523006 4.54087626,21.430284 3.73416068,19.7513312 C4.54070579,18.0718893 5.82032012,16.6495482 7.40607851,15.6435266 C9.01177417,14.6248567 10.9315399,14.03325 12.9937899,14.03325 Z" id="Combined-Shape" stroke="#007ACD" stroke-width="1.0395" fill="#007ACD"></path>
+                    <circle id="Oval" stroke="#007ACD" stroke-width="1.0395" cx="12.99375" cy="12.99375" r="12.474"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></span> 
+              <span class="">My Account </span>
+              <span class="account-mobile-arrow-icon unexpanded-arrow-icon"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>white</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="white" stroke="#FFFFFF" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span>
+              <span class="account-mobile-arrow-icon expanded-arrow-icon"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#pp18c7dzxa)">
+        <path d="m16.367 15.197-3.88-3.88-3.88 3.88a.996.996 0 1 1-1.41-1.41l4.59-4.59a.996.996 0 0 1 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41-.39.38-1.03.39-1.42 0z" fill="#004371"/>
+    </g>
+    <defs>
+        <clipPath id="pp18c7dzxa">
+            <path fill="#fff" transform="matrix(1 0 0 -1 .487 24.487)" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+</svg>
+</span> 
+            </div>
+            <div class="account-details-wrapper-mobile">
+              <ul class="account-dropdown-content-mobile">
+                <li class=" nav-item--secondary ui-only plus-menu">
+                  <div class="plus-activity">
+                  <a
+                    class="nav-link account-menu-link-mobile account-link nav-link--secondary plus-activity__my-plus"
+                    href="/plus/dashboard"
+                    >My PLUS Activity</a>
+                    <div tabindex="0" class="plus-activity__active">
+                      <span id="unexpand-arrow" class="plus-activity__active__arrow"><svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="m8.517 10.494 3.773 3.984 3.984-3.773a.996.996 0 1 1 1.371 1.448l-4.713 4.463a.996.996 0 0 1-1.41-.038L7.06 11.865a.996.996 0 0 1 .038-1.41c.4-.369 1.04-.361 1.42.04z" fill="#00A970"/>
+</svg>
+</span>
+                      <span id="expand-arrow" class="plus-activity__active__arrow expand-arrow"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#pp18c7dzxa)">
+        <path d="m16.367 15.197-3.88-3.88-3.88 3.88a.996.996 0 1 1-1.41-1.41l4.59-4.59a.996.996 0 0 1 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41-.39.38-1.03.39-1.42 0z" fill="#004371"/>
+    </g>
+    <defs>
+        <clipPath id="pp18c7dzxa">
+            <path fill="#fff" transform="matrix(1 0 0 -1 .487 24.487)" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+</svg>
+</span>
+                    </div>
+                    <!-- <span tabindex="0" class="plus-activity__active-arrow"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#pp18c7dzxa)">
+        <path d="m16.367 15.197-3.88-3.88-3.88 3.88a.996.996 0 1 1-1.41-1.41l4.59-4.59a.996.996 0 0 1 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41-.39.38-1.03.39-1.42 0z" fill="#004371"/>
+    </g>
+    <defs>
+        <clipPath id="pp18c7dzxa">
+            <path fill="#fff" transform="matrix(1 0 0 -1 .487 24.487)" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+</svg>
+</span> -->
+                  </div>
+                    <div class="plus-activity__menu">
+                      <ul class="plus-activity__menu__container">
+                        <li class="plus-activity__menu__container__list">
+                          <a class="plus-activity__menu__container__list__links" href="/plus/dashboard/notes">Notes</a>
+                        </li>
+                        <li class="plus-activity__menu__container__list">
+                          <a class="plus-activity__menu__container__list__links" href="/plus/dashboard/favorite-pages">Bookmarks</a>
+                        </li>
+                        <li class="plus-activity__menu__container__list">
+                          <a class="plus-activity__menu__container__list__links" href="/plus/dashboard/test-prep">Test Prep PLUS</a>
+                        </li>
+                        <li class="plus-activity__menu__container__list">
+                          <a class="plus-activity__menu__container__list__links" href="/plus/dashboard/no-fear">No Fear Translations</a>
+                        </li>
+                        <li class="plus-activity__menu__container__list">
+                          <a class="plus-activity__menu__container__list__links" href="/plus/dashboard/quizzes">Mastery Quizzes</a>
+                        </li>
+                        <li class="plus-activity__menu__container__list">
+                          <a class="plus-activity__menu__container__list__links" href="/plus/dashboard/flashcards">Flashcards</a>
+                        </li>
+                        <li class="plus-activity__menu__container__list">
+                          <a class="plus-activity__menu__container__list__links" href="/plus/dashboard/infographics">Infographics</a>
+                        </li>
+                        <li class="plus-activity__menu__container__list">
+                          <a class="plus-activity__menu__container__list__links" href="/plus/dashboard/graphic-novels">No Fear Graphic Novels</a>
+                        </li>
+                      </ul>
+                    </div>
+                </li>
+                <li class=" nav-item--secondary ui-only account-details-nav">
+                  <a
+                    class="nav-link account-menu-link-mobile account-link nav-link--secondary"
+                    href="/plus/my-account"
+                    >Account Details</a>
+                </li>
+                <li class=" nav-item--secondary ui-only subscription-billing-nav">
+                  <a
+                    class="nav-link account-menu-link-mobile account-link nav-link--secondary"
+                    href="/plus/my-account/#billing-details"
+                    >Subscription & Billing</a>
+                </li>
+                
+                  <li class=" nav-item--secondary ui-only manage-group-discount-nav hidden">
+                    <a
+                      class="nav-link account-menu-link-mobile account-link nav-link--secondary"
+                      href="/plus/my-account/#manage-group"
+                      >Manage Group Discount</a>
+                  </li>
+                
+                <li class=" nav-item--secondary">
+                  <button
+                    class="global-header__button js--signOut nav-link account-link account-menu-link-mobile nav-link--secondary account-signout-color"
+                    type="button"
+                    >
+                    Sign Out
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <a href="/plus/dashboard" class="global-header__button dashboard-btn dashboard-btn-mobile">My<span>&nbsp;PLUS&nbsp;</span>Dashboard</a>
+        </li>
+        <script>
+          const plusMenuTab = document.querySelector(".nav-item--secondary.ui-only.plus-menu");
+          const subscriptionBillingNav = document.querySelector(".subscription-billing-nav");
+          const manageGroupDiscountNav = document.querySelector(".manage-group-discount-nav");
+          setTimeout(() => {
+            if (purchaserNotReedemed) {
+              if (plusMenuTab) {
+                plusMenuTab.remove();
+              }
+              if (subscriptionBillingNav) {
+                subscriptionBillingNav.remove();
+              }
+            } else if ((purchaserNotReedemed === false || purchaserNotReedemed === "false") && (purchaserReedemed === false || purchaserReedemed === "false")) {
+              if( manageGroupDiscountNav) {
+                manageGroupDiscountNav.remove();
+              }
+            }
+          }, "1000");
+          if(!loggedInCookie) {
+            document.querySelector(".nav-mobile-sign-out").hidden = true;
+          } else {
+            document.querySelector(".nav-mobile-sign-out").removeAttribute('hidden');
+          }
+        </script>
+      
+      <li class="global-nav-mobile__list__item shakespearelist">
+        <span class="global-nav-mobile__link global-nav-mobile__notlink" tabindex="0" id="shakespeare">Shakespeare
+          <span class="mobile-arrow shak-arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>white</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="white" stroke="#FFFFFF" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span>
+        </span>
+        <div class="menu-container shakespeare-menu">
+          <ul>
+            <li><a class="global-nav-mobile__link no-fear-shakespeare" href="/shakespeare/#jumpTo-no-fear">No Fear Shakespeare Translations</a></li>
+            <li><a class="global-nav-mobile__link study-guide-shakespeare" href="/shakespeare/#jumpTo-studyguides">Shakespeare Study Guides</a></li>
+            <li><a class="global-nav-mobile__link" href="/shakespeare/life-and-times/">Shakespeare Life & Times</a></li>
+            <li><a class="global-nav-mobile__link" href="/shakespeare/life-and-times/shakespeares-language/a-glossary-of-common-shakespearean-words/">Glossary of Shakespeare Terms</a></li>
+          </ul>
+        </div>
+      </li>
+      <li class="global-nav-mobile__list__item literaturelist">
+        <span class="global-nav-mobile__link global-nav-mobile__notlink" tabindex="0" id="literature">Literature
+          <span class="mobile-arrow lit-arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>white</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="white" stroke="#FFFFFF" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span>
+        </span>
+        <div class="menu-container literature-menu">
+          <ul>
+            <li><a class="global-nav-mobile__link no-fear-lit" href="/lit/#jumpTo-no-fear">No Fear Literature Translations</a></li>
+            <li><a class="global-nav-mobile__link study-guide-lit" href="/lit/#jumpTo-studyguides">Literature Study Guides</a></li>
+            <li><a class="global-nav-mobile__link" href="/writinghelp/glossary-of-literary-terms/">Glossary of Literary Terms</a></li>
+            <li><a class="global-nav-mobile__link" href="/writinghelp/how-to-write-literary-analysis/">How to Write Literary Analysis</a></li>
+          </ul>
+        </div>
+      </li>
+      <li class="global-nav-mobile__list__item otherslist">
+        <span class="global-nav-mobile__link global-nav-mobile__notlink" tabindex="0" id="other-subjects">Other Subjects
+          <span class="mobile-arrow other-arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>white</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="white" stroke="#FFFFFF" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span>
+        </span>
+        <div class="menu-container others-menu">
+          <ul>
+            <li><a class="global-nav-mobile__link" href="/biography/">Biography</a></li>
+            <li><a class="global-nav-mobile__link" href="/biology/">Biology</a></li>
+            <li><a class="global-nav-mobile__link" href="/chemistry/">Chemistry</a></li>
+            <li><a class="global-nav-mobile__link" href="/cs/">Computer Science</a></li>
+            
+              <li><a class="global-nav-mobile__link" href="/drama/">Drama</a></li>
+            
+            <li><a class="global-nav-mobile__link" href="/economics/">Economics</a></li>
+            <li><a class="global-nav-mobile__link" href="/film/">Film</a></li>
+            <li><a class="global-nav-mobile__link" href="/health/">Health</a></li>
+            <li><a class="global-nav-mobile__link" href="/history/">History</a></li>
+            <li><a class="global-nav-mobile__link" href="/math/">Math</a></li>
+            
+              <li><a class="global-nav-mobile__link" href="/philosophy/">Philosophy</a></li>
+            
+            <li><a class="global-nav-mobile__link" href="/physics/">Physics</a></li>
+            
+              <li><a class="global-nav-mobile__link" href="/poetry/">Poetry</a></li>
+            
+            <li><a class="global-nav-mobile__link" href="/psychology/">Psychology</a></li>
+            
+              <li><a class="global-nav-mobile__link" href="/short-stories/">Short Stories</a></li>
+            
+            <li><a class="global-nav-mobile__link" href="/sociology/">Sociology</a></li>
+            <li><a class="global-nav-mobile__link" href="/us-government-and-politics/">US Government and Politics</a></li>
+          </ul>
+        </div>
+      </li> 
+      
+        <li class="global-nav-mobile__list__item testpreplist">
+          <span class="global-nav-mobile__link global-nav-mobile__notlink" tabindex="0" id="test-prep">Test Prep <span class="plus-content">PLUS</span>
+            <span class="mobile-arrow test-prep-arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>white</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="white" stroke="#FFFFFF" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span>
+          </span>
+          <div class="menu-container testprep-menu">
+            <ul>
+              <li><a class="global-nav-mobile__link"  href="/test-prep/">Test Prep Lessons</a></li>
+              <li><a class="global-nav-mobile__link" href="/test-prep/ap-english-lit/">AP® English Literature</a></li>
+              <li><a class="global-nav-mobile__link" href="/test-prep/ap-english-lang/">AP® English Language</a></li>
+            </ul>
+          </div>
+        </li>
+      
+      
+      <li class="global-nav-mobile__list__item teacherlist">
+        <span class="global-nav-mobile__link global-nav-mobile__notlink" tabindex="0" id="teacher">Teacher
+          <span class="mobile-arrow teacher-arrow"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>white</title>
+    <g id="Cart-Membership-Upsell-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="white" stroke="#FFFFFF" stroke-width="1.5" points="1.01818182 0.9 5.92978933 5.9 11.0181818 0.9"></polyline>
+    </g>
+</svg></span>
+        </span>
+        <div class="menu-container teacher-menu">
+          <ul>
+            <li><a class="global-nav-mobile__link" href="/teacher/">SparkTeach</a></li>
+            <li><a class="global-nav-mobile__link" href="/teachers-handbook/">Teacher's Handbook</a></li>
+          </ul>
+        </div>
+      </li>
+      
+      <li class="global-nav-mobile__list__item"><a class="global-nav-mobile__link" href="/blog/">Blog</a></li>
+      <li class="global-nav-mobile__list__item"><a class="global-nav-mobile__link" href="/help">Help</a></li>
+    </ul>
+  </nav>
+</div>
+<button class="dummy-expired-button" hidden>click me</button>
+<button class="dummy-onboarding-button" hidden></button>
+
+<script>
+  let plusActivityLink = document.querySelector('.plus-links');
+  let newFeatureLinks = document.querySelector(".new-feature-link");
+  let mobileAccountDropDown = document.querySelector('.account-dropdown-content-mobile');
+  
+  if ((loggedInCookie && !isSubscribedUser)) {
+    if (plusActivityLink) {
+      plusActivityLink.classList.add("expired-plus-links");      
+    }
+
+    if (newFeatureLinks) {
+      newFeatureLinks.setAttribute("hidden", true);
+    }
+
+    if (mobileAccountDropDown) {
+      mobileAccountDropDown.classList.add("mobile-expired-plus-links");
+    }   
+  }
+  if (isSubscribedUser) {
+    if (plusActivityLink) {
+      plusActivityLink.classList.remove("expired-plus-links");
+      
+    }
+    if(newFeatureLinks) {
+      newFeatureLinks.removeAttribute("hidden");
+    }
+    if (mobileAccountDropDown) {
+      mobileAccountDropDown.classList.remove("mobile-expired-plus-links");
+    }   
+  }
+</script>
+<div class="expired-user dashboard-expired snplusmodal micromodal-slide generic-modal" id="modal-expiredUser" aria-hidden=true>
+  <div class="loader" id="loader-modal-expiredUser" hidden>
+    <p class="loader__description">Please wait while we process your payment</p>
+    <img src="/images/icon-loader.gif">
+  </div>
+  <div class="expired-user dashboard-expired snplusmodal__overlay" tabindex="-1">
+    <div class="expired-user dashboard-expired snplusmodal__container" style="--promoContainerColor: #323398" role="dialog" aria-modal="true" aria-label="modal-expiredUser-title">
+      <header class="expired-user dashboard-expired snplusmodal__header" style="--promoHeaderColor: #5c5eec">
+      <div class="expired-user dashboard-expired snplusmodal__header__container">
+         
+        <div class="expired-user dashboard-expired snplusmodal__header__content">
+          
+            <h2 class="snplusmodal__title dashboard-logo" id="modal-reset-title-renewsub"><span><img src="/images/expired-logo.svg" alt="expired-logo"></span></h2>
+          
+        </div> 
+        
+        <span id="model__close" class="expired-user dashboard-expired snplusmodal__close generic-modal__close" role="button" aria-label="Close modal"
+          data-micromodal-close><span role="button" title="close modal" aria-label="close modal" tabindex="0"><svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 3a13 13 0 1 1 0 26 13 13 0 0 1 0-26zm5.18 6.93L16 15.12l-5.18-5.19-.89.89L15.12 16l-5.19 5.18.89.89L16 16.88l5.18 5.19.89-.89L16.88 16l5.19-5.18-.89-.89z" fill="#FFF"/>
+</svg>
+</span></span>
+          
+        </div>
+      </header>
+      <main class="expired-user dashboard-expired snplusmodal__content" id="modal-expiredUser-content" data-sentinels="expired-user dashboard-expired snplusmodal">
+        <div class="expired-user dashboard-expired snplusmodal__content__sentinel" data-sentinelstart="expired-user dashboard-expired snplusmodal"></div>
+        <div class="expired-user dashboard-expired snplusmodal__content__container">
+          
+            <div class="dashboard-expired__container">
+    <div class="dashboard-expired__title">
+        <p class="dashboard-expired__title__text">Your PLUS subscription has expired</p>
+    </div>
+    <div class="dashboard-expired__content">
+        <ul>
+            <li>We’d love to have you back! Renew your subscription to regain access to all of our exclusive, ad-free study tools.</li>
+        </ul>
+    </div>
+    <div class="cancel-sub__btncontainer dashboard-renew-btn-cont">
+        <a href="/plus/my-account/#billing-details" class="fe-button dashboard-renew-sub-btn">Renew your subscription</a>
+    </div>
+</div>
+                   
+        </div>
+        <div class="expired-user dashboard-expired snplusmodal__content__sentinel" data-sentinelend="expired-user dashboard-expired snplusmodal"></div>
+      </main>
+    </div>
+  </div>
+</div>
+<div class="sn-promo-modal expired-user dashboard-expired snplusmodal micromodal-slide generic-modal" id="modal-snpromo" aria-hidden=true>
+  <div class="loader" id="loader-modal-snpromo" hidden>
+    <p class="loader__description">Please wait while we process your payment</p>
+    <img src="/images/icon-loader.gif">
+  </div>
+  <div class="sn-promo-modal expired-user dashboard-expired snplusmodal__overlay" tabindex="-1">
+    <div class="sn-promo-modal expired-user dashboard-expired snplusmodal__container" style="--promoContainerColor: #323398" role="dialog" aria-modal="true" aria-label="modal-snpromo-title">
+      <header class="sn-promo-modal expired-user dashboard-expired snplusmodal__header" style="--promoHeaderColor: #5c5eec">
+      <div class="sn-promo-modal expired-user dashboard-expired snplusmodal__header__container">
+         
+        <div class="sn-promo-modal expired-user dashboard-expired snplusmodal__header__content">
+          
+            <h2 class="snplusmodal__title dashboard-logo" id="modal-reset-title-snpromo"><span><img src="/images/icon-header-snpromo.svg" alt="expired-logo"></span></h2>
+          
+        </div> 
+        
+        <span id="model__close" class="sn-promo-modal expired-user dashboard-expired snplusmodal__close generic-modal__close" role="button" aria-label="Close modal"
+          data-micromodal-close><span role="button" title="close modal" aria-label="close modal" tabindex="0"><svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 3a13 13 0 1 1 0 26 13 13 0 0 1 0-26zm5.18 6.93L16 15.12l-5.18-5.19-.89.89L15.12 16l-5.19 5.18.89.89L16 16.88l5.18 5.19.89-.89L16.88 16l5.19-5.18-.89-.89z" fill="#FFF"/>
+</svg>
+</span></span>
+          
+        </div>
+      </header>
+      <main class="sn-promo-modal expired-user dashboard-expired snplusmodal__content" id="modal-snpromo-content" data-sentinels="sn-promo-modal expired-user dashboard-expired snplusmodal">
+        <div class="sn-promo-modal expired-user dashboard-expired snplusmodal__content__sentinel" data-sentinelstart="sn-promo-modal expired-user dashboard-expired snplusmodal"></div>
+        <div class="sn-promo-modal expired-user dashboard-expired snplusmodal__content__container">
+          
+            <div data-value="SparkPLUS20" class="snpromo-couponcode sn-promo-modal">
+    <div class="sn-promo-modal__main-cont" style ="background-color: #323398 ">
+        <div class="sn-promo-modal__logo-cont">
+            <img src="/images/icon-snpromo.svg" alt="snpromo-logo">
+        </div>
+        <div class="sn-promo-modal__content">
+            <ul>
+                <li>Going back to school just got easier!
+
+Get *20% off PLUS when you sign up NOW
+</li>
+                <!-- <li class="promo_text_desktop">Start the school year strong with<div><span>SparkNotes PLUS!</span></div></li>
+                <li class="promo_text_mobile">Start the school year strong with<span> PLUS!</span></li> -->
+            </ul>
+        </div>
+        <div class="sn-promo-modal__btn-cont">
+            <button class="global-header__button sn-promo-modal__signup-btn " style ="background-color: #41ffaa ">SparkPLUS20
+</button>
+            <span class="sn-promo-modal__legal-text"><p>*See <a href="/terms-of-use/plus-discounts/" target="_blank">discount terms and&nbsp;conditions.</a></p>
+</span>
+        </div>
+    </div>    
+</div>
+                   
+        </div>
+        <div class="sn-promo-modal expired-user dashboard-expired snplusmodal__content__sentinel" data-sentinelend="sn-promo-modal expired-user dashboard-expired snplusmodal"></div>
+      </main>
+    </div>
+  </div>
+</div>
+
+    
+    
+    
+    <div class="content">
+    <div class="content-container search-results">
+        <h1>Your Search Term</h1>
+        <div
+  class="searchbar__wrapper  searchbar__wrapper--searchResults">
+  <div class="searchbar ">
+    <form class="searchbar__form" role="search" id="commonResults">
+      <label class="searchbar__label" for="resultsSearch">Search all of
+        SparkNotes</label>
+      <input class="searchbar__input" id="resultsSearch" type="text"
+        placeholder="Search all of SparkNotes" required autocomplete="off" aria-describedby="resultArrow"
+        aria-owns="commonResults" value="harry potter 4"
+      >
+      <button class="searchbar__button" type="submit">
+        <span class="searchbar__button__text">Search</span>
+        <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14.75 6a8.75 8.75 0 0 1 6.78 14.28l4.18 4.22c.34.34.34.9 0 1.24a.86.86 0 0 1-1.23 0l-4.17-4.23A8.75 8.75 0 1 1 14.75 6zm0 1.74a7.01 7.01 0 1 0 0 14.02 7.01 7.01 0 0 0 0-14.02z" fill="#007ACD"/>
+</svg>
+
+      </button>
+    </form>
+    <div class="searchbar__suggestions" aria-live="polite">
+      <p class="searchbar__suggestions__title" role="presentation">Suggestions</p>
+      <span id="resultArrow">Use up and down arrows to review and enter to select.</span>
+      <ul class="searchbar__suggestions__list js--searchbar--defaults" role="listbox">
+        
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="A Streetcar Named Desire">
+            A Streetcar Named Desire
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Dr. Jekyll and Mr. Hyde">
+            Dr. Jekyll and Mr. Hyde
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Frankenstein">
+            Frankenstein
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Romeo and Juliet">
+            Romeo and Juliet
+          </button></li>
+          
+          <li><button class="searchbar__suggestions__item" role="button" tabindex="-1" value="Things Fall Apart">
+            Things Fall Apart
+          </button></li>
+          
+      </ul>
+      <ul class="searchbar__suggestions__list js--searchbar--liveList" role="listbox"
+        data-templateitem='<button class="searchbar__suggestions__item" role="option" tabindex="-1" value="$value$">$value$</button>'
+        hidden>
+
+      </ul>
+
+    </div>
+  </div>
+</div>
+        
+        
+         <p class="showing_results_for">Showing results for: <span> Harry Potter and The Order of the Phoenix </span> </p>
+        
+
+      
+      <div class="search-results-section">
+    
+    
+        <h2>TOP SEARCH RESULTS</h2>
+        <hr>
+    
+
+    
+        
+        
+            <div class="search-result-block top-result lit-search-icon ">
+                
+                <a href="/lit/harrypotter5/">
+                    <h3>
+                        
+                                Harry Potter and The Order of the Phoenix Study Guide
+                        
+                    </h3>
+                    <p>
+                        
+                            From a general summary to chapter summaries to explanations of famous quotes, the SparkNotes Harry Potter and The Order of the Phoenix Study Guide has everything you need to ace quizzes, tests, and essays.
+                        
+                        
+                    </p>
+                </a>
+            </div>
+         
+     
+    
+
+    
+                 
+    
+    
+    
+</div>
+
+      
+    <div class="search-results-section other-results">
+        <h2>OTHER SEARCH RESULTS <span class="search-results-amount">(59)</span></h2>
+        <hr>
+        
+        
+             
+                
+                    <div class="search-result-block other-result ">
+                        <a href="/lit/harrypotter5/essay-topics/">
+                            <h3>
+                            
+                                    Harry Potter and The Order of the Phoenix Suggested Essay Topics
+                            
+                            </h3>
+                            <p>
+                                
+                                    Suggestions for essay topics to use when you're writing about Harry Potter and The Order of the Phoenix.
+                                
+                            </p>
+                        </a>
+                    </div>
+                
+        
+             
+                
+                    <div class="search-result-block other-result ">
+                        <a href="/lit/harrypotter5/bibliography/">
+                            <h3>
+                            
+                                    Harry Potter and The Order of the Phoenix Suggestions for Further Reading
+                            
+                            </h3>
+                            <p>
+                                
+                                    A suggested list of literary criticism on J.K. Rowling's Harry Potter and The Order of the Phoenix. The listed critical essays and books will be invaluable for writing essays and papers on Harry Potter and The Order of the Phoenix
+                                
+                            </p>
+                        </a>
+                    </div>
+                
+        
+             
+                
+                    <div class="search-result-block other-result ">
+                        <a href="/lit/harrypotter5/facts/">
+                            <h3>
+                            
+                                    Harry Potter and The Order of the Phoenix Key Facts
+                            
+                            </h3>
+                            <p>
+                                
+                                    A list of important facts about J.K. Rowling's Harry Potter and The Order of the Phoenix, including setting, climax, protagonists, and antagonists.
+                                
+                            </p>
+                        </a>
+                    </div>
+                
+        
+             
+                
+                    <div class="search-result-block other-result ">
+                        <a href="/lit/harrypotter5/section5/page/2/">
+                            <h3>
+                            
+                                    Harry Potter and The Order of the Phoenix Summary, Chapters 12–13, page 2
+                            
+                            </h3>
+                            <p>
+                                
+                                    Harry Potter and The Order of the Phoenix quizzes about important details and events in every section of the book.
+                                
+                            </p>
+                        </a>
+                    </div>
+                
+        
+             
+                
+                    <div class="search-result-block other-result ">
+                        <a href="/lit/harrypotter5/study-questions/">
+                            <h3>
+                            
+                                    Harry Potter and The Order of the Phoenix Study Questions
+                            
+                            </h3>
+                            <p>
+                                
+                                    Detailed questions and answers about significant themes, symbols, characters in Harry Potter and The Order of the Phoenix.
+                                
+                            </p>
+                        </a>
+                    </div>
+                
+        
+             
+                
+                    <div class="search-result-block other-result ">
+                        <a href="/lit/harrypotter5/quotes/page/5/">
+                            <h3>
+                            
+                                    Harry Potter and The Order of the Phoenix Important Quotations Explained, page 5
+                            
+                            </h3>
+                            <p>
+                                
+                                    Explanation of the famous quotes in Harry Potter and The Order of the Phoenix, including all important speeches, comments, quotations, and monologues.
+                                
+                            </p>
+                        </a>
+                    </div>
+                
+        
+             
+                
+                    <div class="search-result-block other-result ">
+                        <a href="/lit/harrypotter5/quotes/">
+                            <h3>
+                            
+                                    Harry Potter and The Order of the Phoenix Important Quotations Explained
+                            
+                            </h3>
+                            <p>
+                                
+                                    Explanation of the famous quotes in Harry Potter and The Order of the Phoenix, including all important speeches, comments, quotations, and monologues.
+                                
+                            </p>
+                        </a>
+                    </div>
+                
+        
+             
+                
+                    <div class="search-result-block other-result ">
+                        <a href="/lit/harrypotter5/section6/page/2/">
+                            <h3>
+                            
+                                    Harry Potter and The Order of the Phoenix Summary, Chapters 14–16, page 2
+                            
+                            </h3>
+                            <p>
+                                
+                                    Harry Potter and The Order of the Phoenix quizzes about important details and events in every section of the book.
+                                
+                            </p>
+                        </a>
+                    </div>
+                
+         
+
+    </div> 
+
+    
+      <nav class="searchResults__pagination" aria-label="pagination">
+
+  
+
+  <ul class="searchResults__pagination__list">
+    
+
+    
+
+    
+      <li class="searchResults__pagination__item">
+        <a class="searchResults__pagination__link searchResults__pagination__link--active tag--pagination-link" 
+          href="/search?q=harry%20potter%204&amp;site=all&amp;page=1"
+          aria-label="Go to Page 1"
+           aria-current="page" 
+        >
+            1
+          </a>
+      </li>
+    
+      <li class="searchResults__pagination__item">
+        <a class="searchResults__pagination__link  tag--pagination-link" 
+          href="/search?q=harry%20potter%204&amp;site=all&amp;page=2"
+          aria-label="Go to Page 2"
+          
+        >
+            2
+          </a>
+      </li>
+    
+      <li class="searchResults__pagination__item">
+        <a class="searchResults__pagination__link  tag--pagination-link" 
+          href="/search?q=harry%20potter%204&amp;site=all&amp;page=3"
+          aria-label="Go to Page 3"
+          
+        >
+            3
+          </a>
+      </li>
+    
+      <li class="searchResults__pagination__item">
+        <a class="searchResults__pagination__link  tag--pagination-link" 
+          href="/search?q=harry%20potter%204&amp;site=all&amp;page=4"
+          aria-label="Go to Page 4"
+          
+        >
+            4
+          </a>
+      </li>
+    
+      <li class="searchResults__pagination__item">
+        <a class="searchResults__pagination__link  tag--pagination-link" 
+          href="/search?q=harry%20potter%204&amp;site=all&amp;page=5"
+          aria-label="Go to Page 5"
+          
+        >
+            5
+          </a>
+      </li>
+    
+
+    
+      <li class="searchResults__pagination__item" aria-hidden="true">
+        <span class="searchResults__pagination__ellipsis">...</span>
+      </li>
+    
+
+    
+      <li class="searchResults__pagination__item">
+        <a class="searchResults__pagination__link  tag--pagination-link" href="/search?q=harry%20potter%204&amp;site=all&amp;page=7">7</a>
+      </li>
+    
+
+  </ul>
+
+  
+    <a class="searchResults__pagination__step searchResults__pagination__step--next tag--pagination-step" href="/search?q=harry%20potter%204&amp;site=all&amp;page=2">
+      <span class="searchResults__pagination__step__a11y-span">Next page</span>
+    </a>
+  
+</nav>
+
+  
+  <div data-pw-mobi="med_rect_btf" id="pwMobiMedRectBtf2"></div>
+  <script type="text/javascript">
+    window.ramp.que.push(function () {
+       window.ramp.addTag("pwMobiMedRectBtf2");
+    });
+  </script>
+  </div>
+  <div class="right_rail">
+    <div id="pwContainerRightRail" class="pw_container_right_rail" style="min-height: 254px;"></div>
+    <div class="rect-container">
+      <div data-pw-desk="med_rect_atf" id="pwDeskMedRectAtf1"></div>
+      <script type="text/javascript">
+        if (window.ramp && window.ramp.que) {
+          window.ramp.que.push(function () {
+            window.ramp.addTag("pwDeskMedRectAtf1"); 
+          });
+        }
+      </script>
+    </div>
+  </div>
+  
+</div>
+<script>
+  let pwRightRail = document.querySelector('.pw--right-rail');
+    if(isSubscribedUser || adQuery) {
+      if(pwRightRail) {
+        pwRightRail.hidden = true;
+      }
+    }
+</script>
+    <!-- <div class="sticky-ad"></div> -->
+    <!-- <script>
+      if(isSubscribedUser && document.querySelector(".sticky-ad")) {
+          document.querySelector(".sticky-ad").hidden = true;
+      }
+    </script> -->
+
+     
+      
+
+<footer class="footer">
+ 
+    <div class="footer__signup">
+      <div class="footer__signup__container">
+        <div class="footer__signup__container__text">
+        <div class="footer__signup__container__text__big" >
+          Sign up for our latest news and updates!
+        </div> 
+        <div class="footer__signup__container__text__small">
+          By entering your email address you agree to receive emails from SparkNotes and verify that you are over the age of 13. You can view our  <a class="footer__signup__container__text__link" href="https://bn.clarip.com/privacycenter/?brand=SPARKNOTES" target="_blank">Privacy Policy here</a>. Unsubscribe from our emails at any time.
+        </div>
+      </div>
+        <form class="js-footer-email__form footer-signup-container" >
+  <input type="hidden" name="_csrftoken" id="footer_secret_token" value="ny1IXRbx-B1M9Ejn9WK5cKwsPvRXIFlVs5O0"/>
+  <input type="hidden" name="_csrftoken_secrete" id="footer_csrf_secret_token" value="aF6dHMZk5n-ZZNn8R8ZOxLv3"/>
+  <div class="signup-add-form"> 
+    <div class="sparkteach-homepage__stay-updated__form__message js-footer-email__message" aria-live="assertive" aria-relevant="additions removals"></div>
+    <div class="sparkteach-homepage__stay-updated__form signup-add-form__fname">
+      <div class="sparkteach-homepage__stay-updated__form__label-container">
+        <label for="signupFname" class="sparkteach-homepage__stay-updated__form__field">
+          <input class="sparkteach-homepage__stay-updated__form__input js-footer-firstname__input js-signup-input" type="text" required name="signupFname" id="signupFname">
+          <span class="sparkteach-homepage__stay-updated__form__label" style="background-color: #023E8d;">First Name</span>
+        </label>
+      </div>
+    </div>
+    <div class="sparkteach-homepage__stay-updated__form signup-add-form__lname">
+      <div class="sparkteach-homepage__stay-updated__form__label-container">
+        <label for="signupLname" class="sparkteach-homepage__stay-updated__form__field">
+          <input class="sparkteach-homepage__stay-updated__form__input js-footer-lastname__input js-signup-input" type="text" required name="signupLname" id="signupLname">
+          <span class="sparkteach-homepage__stay-updated__form__label" style="background-color: #023E8d;">Last Name</span>
+        </label>
+      </div>
+    </div>
+  </div>
+  
+  <div class="signup-email-container"> 
+    <div class="sparkteach-homepage__stay-updated__form custom_field">
+      <div class="sparkteach-homepage__stay-updated__form__label-container">
+        <label for="footer-signup-coming-soon" class="sparkteach-homepage__stay-updated__form__field">
+          <input class="sparkteach-homepage__stay-updated__form__input js-footer-email__input js-signup-input" type="email" required name="footer-signup-coming-soon" id="footer-signup-coming-soon">
+          <span class="sparkteach-homepage__stay-updated__form__label" style="background-color: #023E8d;">Email</span>
+        </label>
+      </div> 
+    </div>
+    <button class="sparkteach-homepage__stay-updated__form__button js-footer-email__button custom_footer_email_button custom-signup-button" aria-label="Add email address to list" disabled>
+      Sign Up
+      <div class="sparkteach-homepage__stay-updated__form__loader"></div>
+    </button>
+  </div>
+</form>
+      </div>
+    </div>
+  
+  <div class="footer-content">
+
+    <div class="footer-image footer-email-image"> <svg width="266" height="260" viewBox="0 0 266 260" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <path d="M127.19 278.69c-28.97 6.08-97.28 29.47-102.6 6.55-.43-15.52.13-67.17-.17-77.51-.78-27 4.2-73.28 49.15-58.95 2.3-.5 2.21-3.87 24.88-2.34 21.91 1.49 22.97 40.4 19.04 70.3-1.31 10 12.69 44.72 9.7 61.95z" fill="#DE678E"/>
+    <path d="M198.18 124.6c-1.47-1.1-2.86.38-3.13 1.32.66-.88 1.23-3.84-.56-4.36-1.3-.37-2.11.54-2.56 1.42a3.27 3.27 0 0 0-.5-2.04c-1-1.39-3.26-.82-3.66 1.48.23-1.34 1.15-4.79 1.74-7.98.67-3.65 1.66-7-.1-7.33-1.48-.28-2.79 3.92-3.68 6.9-.9 3-1.94 6.25-2.27 7.79a18.74 18.74 0 0 1-2.1 5.42c-4.53 1.72-4.7-13.45-9.18-10.9-1.46.84 1.27 5.56 1.83 12.3.23 2.77.01 6.06.52 8.34.3 1.35 1.12 5.22 2.3 7.76.94 1.99.16 5.06.16 5.06l13.4.8c0-5.33 5.07-12.52 6.97-19.14.45-1.53 2-5.95.82-6.84" fill="#F8B791"/>
+    <path d="M193.64 148.09c9.1 46.42-19.1 81.18-58.44 79.33-55.9-2.64-89.56-46.57-74.27-77.05l15.05.22c44.6-7.8 55.29 25.58 68.7 24.37 9.66-.87 25.6-9.33 28.88-28.91.71-4.27 19.35-1.67 20.08 2.04" fill="#DE678E"/>
+    <path d="M88.2 151.02c7.47 17.86 34.14 24.07 29.44-2.3-1.45-8.14 8.31-14.08 9.28-19.87 2.2-13.17-9.47-15.28-12.36-27.28C110.2 83.5 92.63 56.7 56.23 81.42c-14.19 9.64 31.97 69.6 31.97 69.6" fill="#002869"/>
+    <path d="M64.22 118.33l-.08 33.42c1.72 9.61 25.3 11.03 24.05.07l.07-14.35-24.04-19.14" fill="#F27979"/>
+    <path d="M103.67 117.84c.15 2.03.41 3.89.3 5.9-.15 2.6-.72 5.25-1.71 7.73-2.65 6.59-8.16 15.94-15.05 16.1-12.18.28-27.96-13.47-26.01-31.22 1.7-15.5 14.8-39.27 19.55-30.11 7.35 14.2 15.6 8.73 20.86 17.5 1.1 1.85 2.12 4.16 2.04 9.49-.03 1.7-.08 3.2.02 4.6" fill="#F8B791"/>
+    <path d="M78.6 126.58a6.86 6.86 0 1 1-13.72.51 6.86 6.86 0 0 1 13.72-.51m25.37-2.84a25.8 25.8 0 0 1-1.71 7.73 6.87 6.87 0 0 1 .91-13.63h.5c.15 2.03.41 3.89.3 5.9" fill="#F27979"/>
+    <path d="M83.3 117.8s-2.76 4.58-11.23-.61c-1.06-.65 3.63.8 6.53 1.03 3 .24 5.44-1.4 4.7-.42m18.9-2.93c-.67 1.12-6.78 5.83-9.03 1.66-.6-1.1 1.76 1.2 4.5.2 2.82-1.03 4.97-2.59 4.54-1.86" fill="#002869"/>
+    <path d="M87.14 128.83c1.8.08 4.58-.35 5.05-2.48.2-.94-.27-1.74-.7-2.54-1.1-2.05-2.09-3.93-2.01-6.34 0-.32-.49-.39-.5-.07-.06 2.3.73 4.17 1.81 6.17.63 1.17 1.4 2.21.42 3.49-.87 1.15-2.64 1.34-4 1.28-.32-.01-.39.48-.07.5" fill="#F27979"/>
+    <path d="M80.46 133.33c-.54-1.07 8.53 1.54 12.85-1.12 2.58-1.58-4.19 13.55-12.85 1.12m33.88 62.79c-6.3-9.55-40.54-9.56-43.47-5.36-4.8 6.9-11.49 54.16-5.25 61.43 5.94 6.91 36.4 9.39 36.4 9.39s28.66-2.53 42.1-9.05c7.38-3.6 1.94-67.07-6.3-74.45-4-3.6-21.78 7.93-23.48 18.04" fill="#FFF"/>
+    <path d="M115.09 199.07c-6.3-9.55-42.84-11.23-47.29-6.2-2.61 2.94-10.5 55.54-4.25 62.8 5.94 6.92 51.04 6.02 51.04 6.02s21.58-6.3 35.02-12.82c7.4-3.6 3.57-60.51-4.67-67.9-4-3.58-27.4 7.54-29.85 18.1" fill="#FFF"/>
+    <path d="M115.3 200.92c-10.52-10.8-47.17-9-49.45-4.9-3.7 6.63-7.94 50.83-1.7 58.1 5.93 6.92 50.44 5.77 50.44 5.77 11.31-4.92 22.04-5.8 36.47-12.65 7.45-3.52 7.22-55.33-.25-63.13-4.41-4.61-33.67 9.1-35.5 16.81" fill="#FFF"/>
+    <path d="M107.78 200.67s-.18-6.36 6.7-7.06c7.46-.75 9.96 5.86 9.96 5.86-5.86 2.32-11.48 3.13-16.66 1.2" fill="#E8E2E3"/>
+    <path d="M115.6 204.56c-2.9-.5-5.16-2.43-6.72-5.89-.87-3.6-37.03-2.38-44.83.75-5.24 2.1-5.37 55.92-1.9 60.54 2.67 3.57 45 1.27 48.2 3.55 0 0 7.15 1.27 10.25-1.4 3.06-2.64 30.71-11.34 34.25-13.03 5.52-2.65 5.07-56.35.77-64.62-1.78-3.43-33.91 7.73-33.8 12.7.08 3.72-6.21 7.4-6.21 7.4" fill="#016099"/>
+    <path d="M108.78 264.04l.1-65.37c4.35 1.96 10.59 2.62 12.94-1.5l.78 64.67c0 3.25-13.82 4.37-13.82 2.2" fill="#002869"/>
+    <path d="M128.59 206.68c7.37-4.1 15.07-7.4 23.32-9.22 1.17-.26.68-2.06-.5-1.8-8.4 1.87-16.26 5.23-23.76 9.41-1.05.58-.11 2.2.94 1.6m4.23 6.58c4.98-2.37 10.12-5.21 15.52-6.48 1.17-.27.68-2.07-.5-1.8-5.53 1.3-10.86 4.24-15.96 6.67-1.08.52-.14 2.13.94 1.61" fill="#A9D3E0"/>
+    <path d="M98.25 236.5c3.54-1.11 7.83-.64 9.79-1.38 4.38-1.67 6.58-2.5 7.3-1.88 2.95 2.56-8.82 5.82-8.42 8.48.7 1 4.42 1.52 7.05 1.6 3.16.09 12.23-2.1 12.27-.22.03 1.59-6.55 3.37-8.8 3.58 2.34-.2 12.5-2.25 11.9.34-.43 1.9-12.15 3.18-13.72 3.3.76-.02 11.97-1.66 11.4.22-.68 2.18-10.85 2.86-12.4 2.99.95-.03 10.53-1.73 9.7.6-.5 1.43-9.8 3-11.36 3.13-6.89.58-24.17-4.08-26.21-5.04l-1.37-10.7s4.26-1.98 6.37-2.65c2.65-.84 5.17-1.95 6.5-2.37" fill="#F8B791"/>
+    <path d="M87.09 255.84c-11.31 1.47-63.45 28.55-79.17-8.26-21.99-51.47 8.42-103.74 52.05-100.53l-19.91 50.12c8.3 13.35 6.68 14.43 9.88 24.47 2.94 9.24 3.12 14.82 37.78 13.95 4.33-.1 3.11 19.76-.63 20.25" fill="#DE678E"/>
+    <path d="M86.77 74.78s-47.3-20.94-55.13 25.84C28.97 116.5.6 118.52 17.07 148.13c5.2 9.36-26.22 15.9 6.42 39.28 23.17 16.6 57.8 1.04 53.66-14.67-4.58-17.4-20.27-8.13-10-30.29 5.23-11.26-.92-17.97-2.18-21.74l-.75-2.38c-.76-2.68-1.08-5.19 0-7.65 3.22-7.33 25.2-2.88 20.5-20.1-4.43-16.26 2.05-15.8 2.05-15.8" fill="#002869"/>
+    <path d="M56.63 233.63c-13.65-5.13-.65-31.5-6.84-41.36-.35-.56.46-1.2.82-.64 6.27 9.98-5.84 36.44 6.42 41.04.62.23.23 1.2-.4.96M35.66 92.24c-1.4 5-3.5 9.4-6.9 13.33-3.55 4.11-6.92 7.3-8.29 12.79-.16.65-1.16.37-1-.28 1.02-4.07 3-7.16 5.8-10.24 4.44-4.92 7.56-9.34 9.38-15.88.18-.64 1.19-.37 1 .28m81.81 48.35c-1.36 5.06 2.69 10.6 2.8 15.72.12 5.36-3.73 7.65-8.58 8.53-.66.12-.94-.88-.28-1 15.04-2.74 2.7-14.82 5.06-23.53.18-.65 1.18-.37 1 .28" fill="#002869"/>
+    <path d="M206.75 103.86c-.62 1.5-.54 3.28-.64 4.89-.1 1.61-.38 3.28-.06 4.87.17.87 1.23 1.33 1.55.27.46-1.54.35-3.2.4-4.8.04-1.66.26-3.44-.2-5.05-.18-.6-.76-.87-1.05-.18zm25.67-57.93c-14-19.34-59.74-16.66-78.46-1.09-5.18 4.31-8.57 20.04-1.37 32.3.81 1.39-1 8.9-2.88 16.63l-.24.99c-2.03 8.4-4.01 16.77-2.65 17.58.96.58 4.45-5.3 8.17-11.55l.47-.8c4.06-6.82 8.25-13.78 9.64-13.14 25.13 11.52 53.83 9.39 67.32-7.4 9.2-11.45 8.66-21.55 0-33.52zm-54.04 50.25c-.88 1.14-1.3 2.55-1.8 3.88-.56 1.5-1.13 3-1.54 4.54-.16.6-.22 1.6.4 2 .56.38 1.1.06 1.3-.55.51-1.54.9-3.12 1.4-4.67.46-1.45 1.02-2.85 1.22-4.37.08-.56-.41-1.56-.98-.83zm59.59-.23a27.4 27.4 0 0 0 4.5 7.1c1.12 1.2 1.71-.6 1.16-1.54a63.1 63.1 0 0 0-4.6-6.55c-.7-.9-1.4.24-1.06 1zm14.29-34.8c-.32.08-.47.6-.22.83 1.09 1 2.85 1.05 4.5 1.05h.53a14 14 0 0 1 1.5.06c2.13.22 4.35 1.17 6.4.46.6-.2.7-1.24.3-1.64-1.42-1.42-3.85-1.26-5.79-1.3a31.9 31.9 0 0 0-7.22.55zm-116.59-4.02l-.53.03-.79.04c-1.93.03-4.13-.18-5.93.57-.66.28-.59 1.62.04 1.88 1.81.75 4.03.54 5.97.57 1.84.03 3.74.48 5.28-.61.5-.34.44-1.5-.04-1.82-1.18-.82-2.58-.75-4-.66zm9.24-33.45l-.19.09c-.67.32-.57 1.27-.27 1.78 1.76 3.07 3.62 6.27 6.62 8.37.3.21.72.28 1-.03 1.6-1.71-.95-3.12-2-4.23a28.4 28.4 0 0 1-2.37-2.98c-.63-.88-1.2-2.28-2.12-2.89-.2-.13-.43-.22-.67-.11zm100.54.34c-1.99.67-3.72 3.11-5.1 4.6-1.28 1.38-3.1 2.79-3.24 4.75-.01.19.11.34.3.36 1.47.16 2.91-2.5 3.83-3.47 1.53-1.62 3.57-3.04 4.7-4.98.23-.4.27-1.52-.49-1.26zm-68.79-8.39c-.65 1.51-.08 3.21.2 4.76l1.13 6.25c.41 2.26 2.48.83 2.17-.97a162.4 162.4 0 0 0-1.2-6.23c-.27-1.3-.35-3.32-1.59-4.11-.32-.2-.57-.02-.7.3zm33.86-3.27l-.17.05c-.3.09-.5.55-.51.83-.14 1.76-.21 3.53-.3 5.3-.06 1.53-.47 3.27.26 4.67.2.4.62.62.93.16.61-.93.6-2.02.58-3.1l-.01-.5v-.5c.03-1.92.08-3.84.05-5.76 0-.43-.18-.91-.59-1.11-.1-.05-.14-.07-.24-.04z" fill="#00ADEF"/>
+    <path d="M172.22 79.5c0-.3-.25-.67-.8-1.13-.5-.51-.92-.72-1.26-.72-1.26 0-1.94.42-1.94 1.3 0 .38.34.93.93 1.69.59.76 1.1 1.14 1.47 1.14 1.06 0 1.6-.76 1.6-2.28zm4.89-31.38c0-.04-.04-.25-.13-.59-.08-.38-.08-.55-.08-.63a3.6 3.6 0 0 1-1.26-1.3 1.7 1.7 0 0 0-.72-.22c-.63 0-1.01.38-1.18 1.14-.59 3-.92 5.06-1.14 6.1a123.5 123.5 0 0 1-1.76 6.5c-.43 3.11-.72 5.3-1.01 6.6-.05.94-.09 1.6-.09 2.07 0 .55-.17 1.81-.46 3.7 0 2.2.67 3.34 2.06 3.34.21 0 .46-.13.8-.38.34-.21.55-.42.59-.63.04-1.27.09-2.24.09-2.95.42-2.2.75-3.67.84-4.47.42-2.6.59-4.38.71-5.3.3-1.86.6-3.12.72-3.8a217 217 0 0 1 1.18-5.56c.38-1.55.63-2.78.84-3.62zm12.55 31.2c0-.3-.26-.68-.8-1.14-.5-.5-.93-.72-1.27-.72-1.26 0-1.93.43-1.93 1.31 0 .38.33.93.92 1.69.6.75 1.1 1.13 1.48 1.13 1.05 0 1.6-.76 1.6-2.27zm4.88-31.38c0-.05-.04-.26-.13-.6-.08-.37-.08-.54-.08-.63a3.6 3.6 0 0 1-1.26-1.3c-.26-.13-.5-.21-.72-.21-.63 0-1.01.38-1.18 1.14-.59 2.99-.92 5.05-1.14 6.1a123.5 123.5 0 0 1-1.76 6.49c-.42 3.12-.72 5.3-1.01 6.61-.05.93-.09 1.6-.09 2.07 0 .54-.17 1.8-.46 3.7 0 2.2.67 3.33 2.06 3.33.21 0 .47-.12.8-.38.34-.2.55-.42.6-.63.03-1.26.08-2.23.08-2.95.42-2.19.75-3.66.84-4.46.42-2.61.59-4.38.71-5.31.3-1.85.6-3.12.72-3.8.21-1.04.59-2.9 1.18-5.55.38-1.56.63-2.78.84-3.62zm12.35 31.56c0-.3-.26-.67-.8-1.13-.5-.51-.93-.72-1.27-.72-1.26 0-1.93.42-1.93 1.3 0 .38.33.93.92 1.69.6.76 1.1 1.14 1.48 1.14 1.05 0 1.6-.76 1.6-2.28zm4.88-31.38c0-.04-.04-.25-.13-.59-.08-.38-.08-.55-.08-.63a3.6 3.6 0 0 1-1.26-1.3c-.25-.13-.5-.22-.72-.22-.63 0-1 .38-1.18 1.14-.59 3-.92 5.06-1.14 6.1-.5 2.16-1.13 4.35-1.76 6.5-.42 3.11-.72 5.3-1.01 6.6-.05.94-.09 1.6-.09 2.07 0 .55-.17 1.81-.46 3.7 0 2.2.67 3.34 2.06 3.34.21 0 .47-.13.8-.38.34-.21.55-.42.6-.63.03-1.27.08-2.24.08-2.95.42-2.2.75-3.67.84-4.47.42-2.6.59-4.38.71-5.3.3-1.86.6-3.12.72-3.8.21-1.05.59-2.9 1.18-5.56.38-1.55.63-2.78.84-3.62z" fill="#E8E2E3"/>
+    <path d="M0 0h266v260H0z"/>
+  </g>
+</svg>
+</div>
+    <div class='main-link'>
+      <h2>SparkNotes—the stress-free way to a better GPA</h2>
+      <ul class="footer-menu-link popular">
+        <li class='link-head'>Quick Links</li>
+        <li><a href="/shakespeare" target="_top">No Fear Shakespeare</a></li>
+        <li><a href="/lit" target="_top">Literature Guides</a></li>
+        <li><a href="/othersubjects" target="_top">Other Subjects</a></li>
+        <li><a href="/blog" target="_top">Blog</a></li>
+        <li><a href="/teachers-handbook" target="_top">Teacher’s Handbook</a></li>
+      </ul>
+      <ul class="footer-menu-link popular">
+        <li class='link-head'>Premium Study Tools</li>
+        <li><a href="/plus" target="_top">SparkNotes PLUS</a></li>
+        <li><a class="footer-signup">Sign Up</a></li>
+        <li><a class="js--showSignIn footer-signin">Log In</a></li>
+        <li><a href="/help/#sn-plus-about" target="_top">PLUS Help</a></li>
+      </ul>
+      <script>
+        if(loggedInCookie) {
+          document.querySelector(".footer-signup").parentNode.hidden = true;
+          document.querySelector(".footer-signin").parentNode.hidden = true;
+        } else {
+          document.querySelector(".footer-signup").parentNode.removeAttribute('hidden');
+          document.querySelector(".footer-signin").parentNode.removeAttribute('hidden');
+        }
+      </script>
+      <ul class="footer-menu-link help">
+        <li class='link-head'>More</li>
+        <li><a href="/help/" target="_top">Help</a></li>
+        <li><a href="/writinghelp/citing" target="_top">How to Cite SparkNotes</a></li>
+        <li><a href="/writinghelp/how-to-write-literary-analysis/" target="_top">How to Write Literary Analysis</a></li>
+        <li><a href="/about/" target="_top">About</a></li>
+        <li><a href="/contact/" target="_top">Contact Us</a></li>
+      </ul>
+    </div>
+    <div class='legal-link'>
+      <div class="legal-link-menus">
+        <p class="footer-copyright">Copyright © <span id="footer-year"></span> SparkNotes LLC</p>
+        <ul class="footer-menu-link terms-privacy">
+          <li><a href="/terms-of-use/" target="_top">Terms of Use</a></li>
+          <li class='separator'>|</li>
+          <li><a target="_blank" href="https://bn.clarip.com/privacycenter/?brand=SPARKNOTES">Privacy</a></li>
+          <li class='separator'>|</li>
+          <li><a target="_blank" href="https://www.barnesandnoble.com/h/help/cookie-policy">Cookie Policy</a></li>
+          <li class='separator last'>|</li>
+          <li><a target="_blank" href="https://bn.clarip.com/dsr/create?brand=SPARKNOTES&type=3">Do Not Sell My Personal Information</a></li>
+        </ul>
+      </div>
+      <div class='social-link'>
+        <a class='icon twitter' aria-label="Twitter" target="_blank" href="https://twitter.com/sparknotes"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="16" fill="#8A9AA7"/>
+    <path d="M25.846 9.23c-.738.37-1.477.493-2.338.616.861-.492 1.477-1.23 1.723-2.215-.739.492-1.6.738-2.585.985-.738-.739-1.846-1.231-2.954-1.231-2.092 0-3.938 1.846-3.938 4.061 0 .37 0 .616.123.862-3.323-.123-6.4-1.723-8.37-4.185-.368.616-.491 1.231-.491 2.093 0 1.353.738 2.584 1.846 3.323-.616 0-1.231-.246-1.846-.493 0 1.97 1.353 3.57 3.2 3.939-.37.123-.739.123-1.108.123-.246 0-.492 0-.739-.123.493 1.6 1.97 2.83 3.816 2.83-1.354 1.108-3.077 1.724-5.046 1.724h-.985c1.846 1.107 3.938 1.846 6.154 1.846 7.384 0 11.446-6.154 11.446-11.446v-.493c.862-.615 1.6-1.354 2.092-2.215z" fill="#001727"/>
+</svg>
+&nbsp;</a>
+        <a class='icon instagram' aria-label="Instagram" target="_blank" href="https://www.instagram.com/sparknotes_/"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="16" fill="#8A9AA7"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M17.16 5.848h-2.313l-.88.003-1.036.016-1 .038c-1.002.044-1.767.198-2.487.478a5.11 5.11 0 0 0-1.856 1.21 5.148 5.148 0 0 0-1.203 1.85c-.28.723-.433 1.483-.477 2.483l-.032.758-.01.343-.013.665-.006 3.466.008 1.255.017.845.054 1.181c.063.828.212 1.492.457 2.122a5.16 5.16 0 0 0 1.21 1.855c.52.528 1.155.941 1.85 1.203.723.28 1.483.433 2.484.477l1.184.042.85.012 3.196.003 1.255-.007.845-.017 1.181-.055c.828-.062 1.492-.211 2.122-.456a5.345 5.345 0 0 0 3.058-3.057c.28-.727.434-1.486.478-2.487l.032-.815.021-1.28.004-3.37-.005-1.041-.012-.742-.032-.896c-.045-1.002-.199-1.767-.479-2.487a5.11 5.11 0 0 0-1.21-1.855 5.148 5.148 0 0 0-1.85-1.202c-.724-.28-1.483-.433-2.484-.478l-.758-.032-.66-.017-1.502-.011zm-3.055 2.407h3.8l1.148.017.455.016.748.036c.621.046 1.048.145 1.45.302.393.145.741.37 1.022.661.3.295.526.64.668 1.025.18.462.285.959.32 1.734l.036.943.015.87.005 3.285-.016 1.733-.016.514-.04.858c-.046.621-.146 1.048-.303 1.45a2.96 2.96 0 0 1-1.694 1.695c-.458.178-.955.284-1.73.318l-.796.032-1.142.02-2.637.005-1.678-.007-1.099-.026-.857-.04c-.621-.046-1.048-.146-1.45-.302a2.73 2.73 0 0 1-1.022-.662 2.765 2.765 0 0 1-.668-1.024c-.18-.462-.285-.959-.32-1.734l-.031-.796-.02-1.142-.005-2.637.007-1.677.03-1.207.036-.748c.045-.621.145-1.048.302-1.45.145-.394.371-.741.664-1.02a2.765 2.765 0 0 1 1.025-.67c.463-.179.96-.285 1.735-.319l.905-.035 1.153-.018zm8.357 2.515a1.23 1.23 0 1 1-2.462 0 1.23 1.23 0 0 1 2.462 0zm-6.462 0a5.232 5.232 0 0 1 0 10.461 5.232 5.232 0 0 1-5.23-5.23A5.232 5.232 0 0 1 16 10.77zm0 2.344a2.886 2.886 0 0 0-.197 5.765l.195.006.196-.005A2.886 2.886 0 0 0 16 13.115z" fill="#001727"/>
+</svg>
+&nbsp;</a>
+        <a class='icon facebook' aria-label="Facebook" target="_blank" href="http://www.facebook.com/SPARKNOTES"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="16" fill="#8A9AA7"/>
+    <path d="m13.566 25.847-.028-8.616H9.846V13.54h3.692v-2.462c0-3.321 2.057-4.923 5.02-4.923 1.42 0 2.64.106 2.995.154v3.47l-2.055.002c-1.611 0-1.923.766-1.923 1.89v1.869h4.579l-1.23 3.692h-3.349v8.616h-4.01z" fill="#001727"/>
+</svg>
+&nbsp;</a>
+        <a class='icon tiktok' aria-label="Tiktok" target="_blank" href="https://www.tiktok.com/@sparknotes_?lang=en"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="16" fill="#8A9AA7"/>
+    <g clip-path="url(#4whz7c66ka)">
+        <path d="M21.993 10.116a4.712 4.712 0 0 1-2.144-3.962h-3.386v13.569a2.844 2.844 0 0 1-4.167 2.41 2.845 2.845 0 0 1 1.32-5.363c.286 0 .569.045.84.132v-3.457a6.227 6.227 0 0 0-4.412 11.274 6.231 6.231 0 0 0 9.805-5.097v-6.887a8.038 8.038 0 0 0 4.7 1.516v-3.385a4.69 4.69 0 0 1-2.556-.75z" fill="#001727"/>
+    </g>
+    <defs>
+        <clipPath id="4whz7c66ka">
+            <path fill="#fff" transform="translate(7.385 6.154)" d="M0 0h17.173v19.692H0z"/>
+        </clipPath>
+    </defs>
+</svg>
+&nbsp;</a>
+      </div>  
+    </div>
+  </div>
+  
+  <!--  
+    <script>
+      setTimeout(load_js, 1500); // Delay 1.5 seconds in loading function
+      function load_js()
+      {
+          // Get the head tag
+          var head_ID = document.getElementsByTagName("footer")[0]; 
+          // Create script element       
+          var script_element = document.createElement('script');
+          // Set the script type to JavaScript
+          script_element.type = 'text/javascript';
+          // External JS file
+          script_element.src = '//cdn.intergient.com/ramp_core.js';
+          head_ID.appendChild(script_element);
+      }
+    </script>
+   -->
+
+</footer>
+<script type="text/javascript">
+  var year = document.getElementById("footer-year");
+  var date = new Date();
+  year.innerHTML = date.getFullYear();
+</script>
+    
+
+    <!-- In Content Ads logic -->
+    
+    
+    <!-- Playwire --> <!-- BounceX -->
+     
+      
+
+                    
+          <!-- PG: Previously Ramp code logic was here but now it has been moved inside head. 
+             Not sure if it is required now, kept as it is for any future reference. -->
+        
+
+        
+          <script>
+            if (isSubscribedUser) {
+                if(ramp) {
+                  ramp.forcePath ='no-ads';
+                }
+            }
+          </script>
+        
+       
+     
+
+    <!-- End Playwire  BounceX -->
+  <script type="text/javascript"  src="/j-0sLt/Te/wa/SoJe/QoBGcDQOhhhNs/E9EmS2SGmVuY/ACR4OywxBA/V0IpKXd/8LF8"></script></body>
+  <script type="text/javascript" src="/build/javascripts/scripts.min.js?rev=2023-08-17"></script>
+  <script src="/vendor/javascripts/ads.js" type="text/javascript"></script>
+</html>
