@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What is nine plus ten?",
+    "options": ["19", "21", "32", "105"],
+    "correct": 0,
+    "explanation": "Just do the math 4Head"
+  },
+  {
+    "question": "Who is the president?",
+    "options": [
+      "George Washington",
+      "Joseph Biden",
+      "Donald J. Trump",
+      "Barack Obama"
+    ],
+    "correct": 1,
+    "explanation": "I forget"
+  },
+  {
+    "question": "Who is the best programmer to ever live?",
+    "options": [
+      "Your (very attractive) mother",
+      "Mr. Google",
+      "Elon Musk",
+      "Michael Beck"
+    ],
+    "explanation": "No explanation needed"
+  }
+]

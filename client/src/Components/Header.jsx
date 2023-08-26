@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function Header() {
   return (
-    <nav className="flex w-full gap-6 p-6">
+    <nav className="border-b-gray-border/[.08] sticky top-0 z-50 flex w-full gap-6 border-b-[1px] bg-white p-6 md:border-none">
       <Link to="/">
         <img src="/logo.svg" alt="Logo" className="h-6" />
       </Link>
