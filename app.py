@@ -164,6 +164,7 @@ Summary:
         questions_data = json.loads(result, strict=False)
     except Exception as e:
         print(e)
+        print(questions_data)
     print('responses generated')
 
 
