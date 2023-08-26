@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, jsonify, send_from_directory
 from bs4 import BeautifulSoup
 import requests
 import json
+import re
 
 app = Flask(__name__)
 
@@ -26,15 +27,51 @@ def serveReactApp(path):
 
 
 @app.route('/intiailize', methods = ["POST"])
-def login():
+def initialize():
     data = request.form
-    name = data['name']
+    input = data['input']
+
+    #gets the link and book name from the first search result
+    search_query = input
+
+    url = f'https://www.sparknotes.com/search?q={search_query}'
+
+    response = requests.get(url)
+    html_content = response.content
+
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    search_results = soup.find(class_="search-result-block top-result lit-search-icon")
+
+    if search_results == None:
+        print("Broken")
+        return
+    link = search_results.find('a').get('href')
+    name = search_results.find('h3').text.strip().rsplit(' ', 2)[0]
 
 
+    #now needs to get the chapters
+
+    url = f'https://www.sparknotes.com{link}'
+
+    response = requests.get(url)
+    html_content = response.content
+
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    chapters = {}
+    chapters["Entire book"] = link + "summary/"
 
 
-    chapters = []
-    link = "https://sparknotes.com"
+    #getting the links for the chapters
+    indiv_chapters = soup.find_all(class_="landing-page__umbrella__link")
+
+    pattern = r'/section(\d+)/$'
+
+    for div in indiv_chapters:
+        if re.search(pattern, div.get('href')):
+            chapters[div.text.strip()] = div.get('href')
+
 
     info = {
         "name": name,
@@ -43,7 +80,6 @@ def login():
     }
 
     return jsonify(info)
-
 
 if __name__ == "__main__":
     app.run(debug=True)
