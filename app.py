@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import re
+import openai
+import dotenv
 
 app = Flask(__name__)
 
@@ -80,6 +82,12 @@ def initialize():
     }
 
     return jsonify(info)
+
+
+
+@app.route('/generate', methods = ["POST"])
+def generate():
+    pass
 
 if __name__ == "__main__":
     app.run(debug=True)
