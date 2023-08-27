@@ -13,10 +13,10 @@ export default function Searchbar({ onSubmit }) {
   };
 
   return (
-    <div className="border-gray-border/[.08] flex items-center gap-4 rounded-md border-[1px] px-4 py-3">
+    <div className="flex w-full items-center gap-4 rounded-md border-[1px] border-gray-border/[.08] px-4 py-3">
       <IonIcon
         icon={search}
-        className="text-text-light/50 cursor-pointer text-2xl"
+        className="cursor-pointer text-2xl text-text-light/50"
         onClick={submitHandler}
       />
       <input
@@ -25,7 +25,7 @@ export default function Searchbar({ onSubmit }) {
         onKeyDown={(e) => (e.key === "Enter" ? submitHandler(e) : null)}
         placeholder="Search for a book..."
         ref={searchRef}
-        className="text-text-light placeholder:text-text-light/50 w-full font-sans"
+        className="w-full font-sans text-text-light placeholder:text-text-light/50"
       />
     </div>
   );

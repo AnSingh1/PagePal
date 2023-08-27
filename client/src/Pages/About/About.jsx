@@ -1,19 +1,18 @@
-import './About.css'
-import Card from './Components/Aboutcard.jsx'
+import Card from "./Components/Aboutcard.jsx";
 
 export default function About() {
   const container = {
-    display: 'flex'
+    display: "flex",
   };
   return (
     <>
       <h1>About</h1>
       <img
-          src="public/demonstration.jpeg"
-          alt=""
-          width="500px"
-          height="auto">
-      </img>
+        src="public/demonstration.jpeg"
+        alt=""
+        width="500px"
+        height="auto"
+      ></img>
       <div style={container}>
         <div>
           <Card

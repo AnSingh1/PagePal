@@ -640,6 +640,40 @@ input[type="radio"].error {
   --tw-backdrop-sepia:  ;
 }
 
+.container{
+  width: 100%;
+}
+
+@media (min-width: 640px){
+  .container{
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px){
+  .container{
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px){
+  .container{
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px){
+  .container{
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px){
+  .container{
+    max-width: 1536px;
+  }
+}
+
 .absolute{
   position: absolute;
 }
@@ -652,16 +686,16 @@ input[type="radio"].error {
   position: sticky;
 }
 
+.bottom-0{
+  bottom: 0px;
+}
+
 .right-0{
   right: 0px;
 }
 
 .top-0{
   top: 0px;
-}
-
-.bottom-0{
-  bottom: 0px;
 }
 
 .-z-\[1\]{
@@ -733,12 +767,20 @@ input[type="radio"].error {
   width: 100%;
 }
 
+.max-w-sm{
+  max-width: 24rem;
+}
+
 .max-w-xl{
   max-width: 36rem;
 }
 
-.max-w-sm{
-  max-width: 24rem;
+.max-w-lg{
+  max-width: 32rem;
+}
+
+.max-w-md{
+  max-width: 28rem;
 }
 
 .flex-grow{
@@ -865,13 +907,13 @@ input[type="radio"].error {
   background-color: rgb(95 99 102 / 0.1);
 }
 
+.bg-text-light\/25{
+  background-color: rgb(95 99 102 / 0.25);
+}
+
 .bg-white{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-.bg-text-light\/25{
-  background-color: rgb(95 99 102 / 0.25);
 }
 
 .p-6{
