@@ -3,8 +3,9 @@ import { useSearchParams, useNavigate } from "react-router-dom";
 
 import Loading from "../../Components/Loading";
 import Question from "./Components/Question";
+import Finish from "./Components/Finish";
 
-// import tempData from "./tempQuestions.json" assert { type: "json" }; // TEMP UNTIL GENERATION
+import tempData from "./tempQuestions.json" assert { type: "json" }; // TEMP UNTIL GENERATION
 
 export default function Test() {
   const formRef = useRef();
@@ -86,13 +87,16 @@ export default function Test() {
       {!loading && (
         <button
           onClick={onSubmit}
-          className="bg-brand/80 hover:bg-brand my-6 rounded-md px-4 py-2 font-sans text-white transition-colors"
+          className="my-6 rounded-md bg-brand/80 px-4 py-2 font-sans text-white transition-colors hover:bg-brand"
         >
           {!finished ? "Submit" : "Return Home"}
         </button>
       )}
       {error && (
         <span className="font-roboto text-sm text-red-500">{error}</span>
+      )}
+      {numCorrect !== undefined && (
+        <Finish correct={numCorrect} total={questions.length} />
       )}
     </div>
   );
