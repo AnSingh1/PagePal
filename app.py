@@ -140,9 +140,18 @@ def generate():
         content = ""
         for paragraph in paragraphs:
             content += re.sub(r'\s+', ' ', paragraph.text) + '\n'
-        print('content formatted')
+        print('content formatted via 1')
     except: 
-        return jsonify({"error": "no summary found"})
+        try:
+            summarydiv = soup.find(class_="studyGuideText")
+            paragraphs = summarydiv.find_all('p')
+            content = ""
+            for paragraph in paragraphs:
+                content+=re.sub(r'\s+', ' ', paragraph.text) + '\n'
+            print('content formatted via 2')
+
+        except:
+            return jsonify({"error": "no summary found"})
 
     with open('instruction.txt', 'r') as file:
         instruction = file.read()
