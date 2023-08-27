@@ -1,11 +1,13 @@
 import React from "react"
 
 export default function Card({ heading, desc }) {
+  const header = {
+    display: 'flex',
+    justifyContent: 'center'
+  };
   const text = {
     maxWidth: '500px',
-    fontSize: '16px',
-    textAlign: 'justify',
-    margin: '50px'
+    textAlign: 'justify'
   };
   return (
   <>

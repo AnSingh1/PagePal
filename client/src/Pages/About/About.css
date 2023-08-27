@@ -1,0 +1,16 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.imgcontainer {
+  display: flex;
+  justify-content: center;
+}

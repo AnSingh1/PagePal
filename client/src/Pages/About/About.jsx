@@ -1,19 +1,24 @@
+import './About.css'
 import Card from "./Components/Aboutcard.jsx";
 
 export default function About() {
-  const container = {
-    display: "flex",
+  const asdf = {
+    display: 'flex',
+    alignItems: 'flex-end',
+    justifyContent: 'center'
   };
   return (
     <>
       <h1>About</h1>
-      <img
-        src="public/demonstration.jpeg"
-        alt=""
-        width="500px"
-        height="auto"
-      ></img>
-      <div style={container}>
+      <div className="imgcontainer">
+        <img
+          src="/demonstration.jpeg"
+          alt=""
+          width="500px"
+          height="auto"
+        />
+      </div>
+      <div style={asdf}>
         <div>
           <Card
             heading="Our Project"
@@ -28,9 +33,9 @@ export default function About() {
           <Card
             heading="Our Mission"
             desc="We designed PagePal with a goal to fortify student reading comprehension.
-                  English is a difficult subject and because of limited literature resources online,
-                  we created a user-friendly platform that gathers insightful literature questions to help students grasp
-                  key concepts in various English novels."
+                  English has always been a difficult subject and because of limited literature
+                  resources online, we created a user-friendly platform that gathers insightful
+                  literature questions to help students grasp key concepts in various English novels."
           />
         </div>
       </div>
