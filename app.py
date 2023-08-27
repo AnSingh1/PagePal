@@ -166,6 +166,7 @@ Summary:
         return jsonify(questions_data)
     except Exception as e:
         print(e)
+        print(questions_data)
     print('responses generated')
 
 
