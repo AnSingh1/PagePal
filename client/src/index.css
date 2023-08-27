@@ -674,6 +674,10 @@ input[type="radio"].error {
   }
 }
 
+.fixed{
+  position: fixed;
+}
+
 .absolute{
   position: absolute;
 }
@@ -696,6 +700,10 @@ input[type="radio"].error {
 
 .top-0{
   top: 0px;
+}
+
+.left-0{
+  left: 0px;
 }
 
 .-z-\[1\]{

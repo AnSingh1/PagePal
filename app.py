@@ -117,7 +117,6 @@ def generate():
     print('pulling data...')
     data = request.form
     name = data['name']
-    link = data['link']
     chapter = data['chapter']
     chapterlink = data['chapterLink']
     print(f'data received for {name}, {chapter}:)')

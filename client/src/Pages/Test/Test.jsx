@@ -16,7 +16,7 @@ export default function Test() {
   const [finished, setFinished] = useState(false);
   const [numCorrect, setNumCorrect] = useState();
 
-  const [searchParams] = useSearchParams();
+  // const [searchParams] = useSearchParams();
 
   const navigate = useNavigate();
 
@@ -60,19 +60,24 @@ export default function Test() {
       0,
     );
 
-    setLoading(true);
+    // setLoading(true);
 
-    await new Promise((r) => setTimeout(r, 2000));
+    // await new Promise((r) => setTimeout(r, 2000));
 
-    setLoading(false);
+    // setLoading(false);
     setFinished(true);
     setNumCorrect(correct);
   };
 
   useEffect((_) => {
     const formData = new FormData();
-    for (const entry of searchParams.entries())
-      formData.append(entry[0], entry[1]);
+
+    Object.keys(sessionStorage).forEach((k) =>
+      formData.append(k, sessionStorage.getItem(k)),
+    );
+
+    // for (const entry of searchParams.entries())
+    //   formData.append(entry[0], entry[1]);
 
     generateQuestions(formData);
   }, []);

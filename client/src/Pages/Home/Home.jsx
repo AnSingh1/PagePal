@@ -42,13 +42,17 @@ export default function Home() {
   };
 
   const onSelect = async (e) => {
-    const name = responseData.name.replaceAll(" ", "%20");
-    const link = responseData.link;
-    const chapter = e.replaceAll(" ", "%20");
-    const chapterLink = responseData.chapters[e];
+    // const name = responseData.name.replaceAll(" ", "%20");
+    // const link = responseData.link;
+    // const chapter = e.replaceAll(" ", "%20");
+    // const chapterLink = responseData.chapters[e];
+    sessionStorage.setItem("name", responseData.name);
+    sessionStorage.setItem("chapter", e);
+    sessionStorage.setItem("chapterLink", responseData.chapters[e]);
 
     navigate(
-      `/test?name=${name}&link=${link}&chapter=${chapter}&chapterLink=${chapterLink}`,
+      // `/test?name=${name}&link=${link}&chapter=${chapter}&chapterLink=${chapterLink}`,
+      "/test",
     );
   };
 
