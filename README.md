@@ -17,7 +17,7 @@ We, developers of PagePal, share a passion for reading, yet feel as though schoo
 - [Tailwind CSS](https://tailwindcss.com) - CSS Framework
 - [Flask](https://flask.palletsprojects.com/en/2.3.x/) - Backend
 - [OpenAI GPT-3](https://openai.com/blog/openai-api) - AI
-- [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
+- [Beautiful Soup](https://pypi.org/project/beautifulsoup4/) - Web Scraper
 
 <br>
 
