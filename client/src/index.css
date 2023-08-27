@@ -702,10 +702,6 @@ input[type="radio"].error {
   top: 0px;
 }
 
-.left-0{
-  left: 0px;
-}
-
 .-z-\[1\]{
   z-index: -1;
 }
@@ -727,8 +723,12 @@ input[type="radio"].error {
   margin-right: 0.75rem;
 }
 
-.mt-1{
-  margin-top: 0.25rem;
+.mt-6{
+  margin-top: 1.5rem;
+}
+
+.mt-3{
+  margin-top: 0.75rem;
 }
 
 .flex{
@@ -775,20 +775,16 @@ input[type="radio"].error {
   width: 100%;
 }
 
+.max-w-md{
+  max-width: 28rem;
+}
+
 .max-w-sm{
   max-width: 24rem;
 }
 
 .max-w-xl{
   max-width: 36rem;
-}
-
-.max-w-lg{
-  max-width: 32rem;
-}
-
-.max-w-md{
-  max-width: 28rem;
 }
 
 .flex-grow{
@@ -838,6 +834,10 @@ input[type="radio"].error {
   place-items: center;
 }
 
+.items-end{
+  align-items: flex-end;
+}
+
 .items-center{
   align-items: center;
 }
@@ -860,10 +860,6 @@ input[type="radio"].error {
 
 .gap-8{
   gap: 2rem;
-}
-
-.gap-12{
-  gap: 3rem;
 }
 
 .overflow-hidden{
@@ -998,6 +994,11 @@ input[type="radio"].error {
   line-height: 1.75rem;
 }
 
+.text-3xl{
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
 .italic{
   font-style: italic;
 }
@@ -1076,5 +1077,19 @@ input[type="radio"].error {
   .md\:translate-x-1\/2{
     --tw-translate-x: 50%;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  }
+
+  .md\:flex-row{
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 1024px){
+  .lg\:flex-row{
+    flex-direction: row;
+  }
+
+  .lg\:items-end{
+    align-items: flex-end;
   }
 }

@@ -1,18 +1,10 @@
-import React from "react"
+import React from "react";
 
 export default function Card({ heading, desc }) {
-  const header = {
-    display: 'flex',
-    justifyContent: 'center'
-  };
-  const text = {
-    maxWidth: '500px',
-    textAlign: 'justify'
-  };
   return (
-  <>
-    <h2>{heading}</h2>
-    <p style={text}>{desc}</p>
-  </>
+    <>
+      <h2 className="font-display text-xl text-text-dark">{heading}</h2>
+      <p className="mt-3 max-w-md font-sans text-text-light">{desc}</p>
+    </>
   );
 }

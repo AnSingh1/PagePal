@@ -1,24 +1,16 @@
-import './About.css'
+import "./About.css";
 import Card from "./Components/Aboutcard.jsx";
 
 export default function About() {
-  const asdf = {
-    display: 'flex',
-    alignItems: 'flex-end',
-    justifyContent: 'center'
-  };
   return (
-    <>
-      <h1>About</h1>
-      <div className="imgcontainer">
-        <img
-          src="/demonstration.jpeg"
-          alt=""
-          width="500px"
-          height="auto"
-        />
+    <div className="p-6">
+      <h1 className="text-center font-display text-3xl text-text-dark">
+        About
+      </h1>
+      <div className="flex justify-center">
+        <img src="/demonstration.jpeg" alt="" width="500px" height="auto" />
       </div>
-      <div style={asdf}>
+      <div className="flex flex-col items-center justify-center gap-6 lg:flex-row lg:items-end">
         <div>
           <Card
             heading="Our Project"
@@ -39,6 +31,6 @@ export default function About() {
           />
         </div>
       </div>
-    </>
+    </div>
   );
 }
