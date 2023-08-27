@@ -61,7 +61,7 @@ export default function Home() {
   ];
 
   return (
-    <div className="flex h-full w-full flex-grow flex-col items-center justify-center">
+    <div className="flex h-full w-full flex-grow flex-col items-center justify-center gap-6">
       <img
         src="/books.svg"
         alt=""
@@ -69,7 +69,7 @@ export default function Home() {
       />
       <Card>
         {loading && <Loading />}
-        <h2 className="text-text-dark font-display text-2xl">
+        <h2 className="text-center font-display text-2xl text-text-dark">
           {(responseData && responseData.name) || (
             <span>
               Welcome to <span className="text-brand">PagePal</span>!
@@ -78,8 +78,16 @@ export default function Home() {
         </h2>
         {sections[section]}
       </Card>
+      {section === 1 && (
+        <button
+          onClick={(_) => navigate(0)}
+          className="rounded-md bg-brand/80 px-4 py-2 font-sans text-white transition-colors hover:bg-brand"
+        >
+          Back
+        </button>
+      )}
       {error && (
-        <span className="font-roboto mt-1 text-sm text-red-500">{error}</span>
+        <span className="font-roboto text-sm text-red-500">{error}</span>
       )}
     </div>
   );

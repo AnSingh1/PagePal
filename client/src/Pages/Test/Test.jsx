@@ -29,6 +29,7 @@ export default function Test() {
     });
 
     const data = await response.json();
+    if ("error" in data) return setError("Could not find summary.");
     // const data = tempData;
 
     setQuestions(data["questions"]);

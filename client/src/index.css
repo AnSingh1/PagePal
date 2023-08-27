@@ -854,6 +854,10 @@ input[type="radio"].error {
   gap: 2rem;
 }
 
+.gap-12{
+  gap: 3rem;
+}
+
 .overflow-hidden{
   overflow: hidden;
 }
