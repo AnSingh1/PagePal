@@ -164,12 +164,13 @@ Summary:
         )
         result = response["choices"][0]["message"]["content"]
 
+        print(result)
         questions_data = json.loads(result, strict=False)
 
         return jsonify(questions_data)
     except Exception as e:
         print(e)
-        print(questions_data)
+    
     print('responses generated')
 
 
