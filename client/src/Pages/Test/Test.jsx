@@ -13,6 +13,7 @@ export default function Test() {
   const [error, setError] = useState("");
   const [questions, setQuestions] = useState([]);
   const [finished, setFinished] = useState(false);
+  const [numCorrect, setNumCorrect] = useState();
 
   const [searchParams] = useSearchParams();
 
@@ -26,7 +27,8 @@ export default function Test() {
       body: form,
     });
 
-    const data = await response.data();
+    const data = await response.json();
+    // const data = tempData;
 
     setQuestions(data["questions"]);
     setLoading(false);
@@ -35,10 +37,12 @@ export default function Test() {
   const onSubmit = async (_) => {
     if (finished) return navigate("/");
 
+    window.scrollTo({ top: 0 });
+
     setError("");
 
-    const questions = formRef.current.querySelectorAll("#QUESTION");
-    const answers = [...questions].reduce((a, c) => {
+    const questionNodes = formRef.current.querySelectorAll("#QUESTION");
+    const answers = [...questionNodes].reduce((a, c) => {
       const o = c.querySelector("input[type='radio']:checked")?.id;
       if (!o) return a;
 
@@ -48,12 +52,19 @@ export default function Test() {
     if (answers.length !== questions.length)
       return setError("Please answer every question.");
 
+    const correctAnswers = questions.reduce((a, c) => [...a, c.answer], []);
+    const correct = correctAnswers.reduce(
+      (a, c, i) => (c === answers[i] ? ++a : a),
+      0,
+    );
+
     setLoading(true);
 
     await new Promise((r) => setTimeout(r, 2000));
 
     setLoading(false);
     setFinished(true);
+    setNumCorrect(correct);
   };
 
   useEffect((_) => {

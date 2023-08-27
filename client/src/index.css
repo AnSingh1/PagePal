@@ -668,9 +668,18 @@ input[type="radio"].error {
   z-index: 50;
 }
 
+.m-auto{
+  margin: auto;
+}
+
 .my-6{
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
+}
+
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .mr-3{

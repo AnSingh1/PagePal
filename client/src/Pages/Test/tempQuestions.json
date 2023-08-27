@@ -1,45 +1,101 @@
-[
-  {
-    "question": "What is nine plus ten?",
-    "options": ["19", "21", "32", "105"],
-    "answer": 0,
-    "explanations": [
-      "You're funny",
-      "Just do the math 4Head",
-      "Literally how",
-      "You need help"
-    ]
-  },
-  {
-    "question": "Who is the president?",
-    "options": [
-      "George Washington",
-      "Joseph Biden",
-      "Donald J. Trump",
-      "Barack Obama"
-    ],
-    "answer": 1,
-    "explanations": [
-      "He was first",
-      "Wow you checked the news",
-      "No longer",
-      "Hasta luego"
-    ]
-  },
-  {
-    "question": "Who is the best programmer to ever live?",
-    "options": [
-      "Your (very attractive) mother",
-      "Mr. Google",
-      "Elon Musk",
-      "Michael Beck"
-    ],
-    "answer": 3,
-    "explanations": [
-      "I wish",
-      "What's his name again",
-      "Can he even code",
-      "No explanation needed"
-    ]
-  }
-]
+{
+  "questions": [
+    {
+      "question": "Who is Harry staying with for the summer?",
+      "options": [
+        "The Weasleys",
+        "The Grangers",
+        "The Potters",
+        "The Dursleys"
+      ],
+      "explanations": [
+        "Wrong answer. The Weasleys are Harry's friends.",
+        "Wrong answer. The Grangers are Hermione's parents.",
+        "Wrong answer. The Potters are Harry's parents, but they are deceased.",
+        "Correct answer. The Dursleys are Harry's only remaining family and the ones he stays with for the summer."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who is funding Fred and George's joke shop?",
+      "options": ["Harry", "Sirius", "Mrs. Weasley", "Tonks"],
+      "explanations": [
+        "Correct answer. Fred and George are using the gold that Harry won in the Triwizard Tournament to fund their joke shop.",
+        "Wrong answer. Sirius is not funding the joke shop.",
+        "Wrong answer. Mrs. Weasley is not funding the joke shop.",
+        "Wrong answer. Tonks is not funding the joke shop."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is related to both Sirius and Lucius Malfoy?",
+      "options": ["Mrs. Weasley", "Tonks", "Hermione", "Kreacher"],
+      "explanations": [
+        "Wrong answer. Mrs. Weasley is not related to Sirius or Lucius Malfoy.",
+        "Wrong answer. Tonks is not related to Sirius or Lucius Malfoy.",
+        "Wrong answer. Hermione is not related to Sirius or Lucius Malfoy.",
+        "Correct answer. Kreacher is the House Elf at number twelve and is related to both Sirius and Lucius Malfoy."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does Harry see when he enters the courtroom for his hearing?",
+      "options": [
+        "The Black family tapestry",
+        "The Lestrange family",
+        "The Wizengamot",
+        "The Black House Elf"
+      ],
+      "explanations": [
+        "Wrong answer. Harry sees the Black family tapestry at number twelve, not in the courtroom.",
+        "Correct answer. Harry sees the Lestrange family being sentenced to imprisonment in the same courtroom.",
+        "Wrong answer. The Wizengamot is the group of wizards and witches deciding Harry's fate.",
+        "Wrong answer. The Black House Elf, Kreacher, is seen at number twelve, not in the courtroom."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who does Dumbledore bring as a witness to Harry's hearing?",
+      "options": ["Sirius", "Tonks", "Mrs. Figg", "Lupin"],
+      "explanations": [
+        "Wrong answer. Sirius is not brought as a witness to Harry's hearing.",
+        "Wrong answer. Tonks is not brought as a witness to Harry's hearing.",
+        "Correct answer. Mrs. Figg is brought as a witness to corroborate Harry's story.",
+        "Wrong answer. Lupin is not brought as a witness to Harry's hearing."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the outcome of Harry's hearing?",
+      "options": [
+        "He is expelled",
+        "He is cleared of all charges",
+        "He is sentenced to Azkaban",
+        "He is put on probation"
+      ],
+      "explanations": [
+        "Wrong answer. Harry is not expelled.",
+        "Correct answer. Harry is cleared of all charges.",
+        "Wrong answer. Harry is not sentenced to Azkaban.",
+        "Wrong answer. Harry is not put on probation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is number twelve, Grimmauld Place, an unpleasant place for Sirius?",
+      "options": [
+        "It reminds him of his family's bad decisions",
+        "He is the only Black remaining",
+        "Kreacher disrespects him",
+        "All of the above"
+      ],
+      "explanations": [
+        "Correct answer. Number twelve reminds Sirius of his family's support for Lord Voldemort and is filled with memories of his painful past.",
+        "Wrong answer. Being the only Black remaining does not make number twelve unpleasant for Sirius.",
+        "Wrong answer. Kreacher's disrespect is a part of why number twelve is unpleasant for Sirius, but not the only reason.",
+        "Wrong answer. All of the above statements are correct."
+      ],
+      "answer": 3
+    }
+  ]
+}

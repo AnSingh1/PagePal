@@ -13,6 +13,15 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/test" element={<Test />} />
+          <Route
+            path="*"
+            element={
+              <img
+                className="m-auto"
+                src="https://media.tenor.com/Oj5ZvMbnFRQAAAAC/dog.gif"
+              />
+            }
+          />
         </Routes>
       </Router>
     </div>
