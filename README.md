@@ -22,7 +22,7 @@ We, developers of PagePal, share a passion for reading and yet feel as though sc
 <br>
 
 ## PagePal local setup
-1. Clone the repository using `git clone https://github.com/AnSingh1/Lexily.git`
+1. Clone the repository using `git clone https://github.com/AnSingh1/PagePal.git`
 2. CD to the directory
 3. Have python installed
 4. Run `pip install -r requirements.txt` to install all of the necessary packages
