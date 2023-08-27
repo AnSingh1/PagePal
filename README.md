@@ -1,4 +1,4 @@
-# PagePal ![](/client/public/logo-small.svg)
+# PagePal ![](/client/public/logo.svg)
 
 PagePal is a web app that aims to to help people understand what they are reading by quizzing them on it. No student wants read something they will instantly forget, so PagePal gives the power of using AI to quiz the user. PagePal is simple to use. Just go to the website, search for your book and chapter, and boom! A quiz is generated! Using the power of GPT-3, PagePal will generate questions relating to a book and its respective chapter. It uses a custom webscraper to get summaries on the book so even new books are automatically entered into the PagePal database.
 
