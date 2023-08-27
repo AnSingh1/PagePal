@@ -131,15 +131,18 @@ def generate():
     
 
     soup = BeautifulSoup(html_content, 'html.parser')
-    summarydiv = soup.find(class_='mainTextContent main-container')
 
-    paragraphs = summarydiv.find_all('p')
+    try:
+        summarydiv = soup.find(class_='mainTextContent main-container')
 
-    content = ""
-    for paragraph in paragraphs:
-        content += re.sub(r'\s+', ' ', paragraph.text) + '\n'
-    print('content formatted')
+        paragraphs = summarydiv.find_all('p')
 
+        content = ""
+        for paragraph in paragraphs:
+            content += re.sub(r'\s+', ' ', paragraph.text) + '\n'
+        print('content formatted')
+    except: 
+        return jsonify({"error": "no summary found"})
 
     with open('instruction.txt', 'r') as file:
         instruction = file.read()
@@ -166,6 +169,7 @@ Summary:
         return jsonify(questions_data)
     except Exception as e:
         print(e)
+        print(questions_data)
     print('responses generated')
 
 
