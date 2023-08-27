@@ -2,8 +2,13 @@
   {
     "question": "What is nine plus ten?",
     "options": ["19", "21", "32", "105"],
-    "correct": 0,
-    "explanation": "Just do the math 4Head"
+    "answer": 0,
+    "explanations": [
+      "You're funny",
+      "Just do the math 4Head",
+      "Literally how",
+      "You need help"
+    ]
   },
   {
     "question": "Who is the president?",
@@ -13,8 +18,13 @@
       "Donald J. Trump",
       "Barack Obama"
     ],
-    "correct": 1,
-    "explanation": "I forget"
+    "answer": 1,
+    "explanations": [
+      "He was first",
+      "Wow you checked the news",
+      "No longer",
+      "Hasta luego"
+    ]
   },
   {
     "question": "Who is the best programmer to ever live?",
@@ -24,7 +34,12 @@
       "Elon Musk",
       "Michael Beck"
     ],
-    "correct": 3,
-    "explanation": "No explanation needed"
+    "answer": 3,
+    "explanations": [
+      "I wish",
+      "What's his name again",
+      "Can he even code",
+      "No explanation needed"
+    ]
   }
 ]

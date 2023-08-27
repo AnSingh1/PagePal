@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 export default function Question({ data, index, showResults }) {
   const [selected, setSelected] = useState();
 
-  const { question, options, correct, explanation } = data;
+  const { question, options, answer, explanations } = data;
 
   return (
     <div
@@ -25,16 +25,19 @@ export default function Question({ data, index, showResults }) {
                 onClick={(_) => setSelected(i)}
                 className={`${
                   showResults && selected === i
-                    ? selected === correct
+                    ? selected === answer
                       ? "correct"
                       : "error"
-                    : showResults && i === correct
+                    : showResults && i === answer
                     ? "correct"
                     : ""
                 } mr-3`}
                 disabled={showResults}
               />
               <label htmlFor={`${index}_${i}`}>{o}</label>
+              {showResults && (
+                <p className="text-text-light/75 italic">{explanations[i]}</p>
+              )}
             </li>
           );
         })}

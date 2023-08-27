@@ -62,7 +62,8 @@
     border-color: currentColor;
   }
 
-  input[type="radio"]:checked::before {
+  input[type="radio"]:checked::before,
+  input[type="radio"].correct:not(:checked)::before {
     scale: 1;
   }
 
@@ -70,11 +71,16 @@
     color: rgba(0, 0, 0, 0.25);
   }
 
-  input[type="radio"].correct:checked {
+  input[type="radio"].correct {
     color: theme("colors.green.600");
   }
 
-  input[type="radio"].error:checked {
+  ul:has(input[type="radio"].correct):has(input[type="radio"].error)
+    input[type="radio"].correct {
+    color: rgba(22, 163, 74, 0.25);
+  }
+
+  input[type="radio"].error {
     color: theme("colors.red.600");
   }
 

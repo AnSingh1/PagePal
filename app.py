@@ -119,7 +119,7 @@ def generate():
     name = data['name']
     link = data['link']
     chapter = data['chapter']
-    chapterlink = data['chapterlink']
+    chapterlink = data['chapterLink']
     print(f'data received for {name}, {chapter}:)')
 
     #get the chapter text
@@ -162,12 +162,12 @@ Summary:
         result = response["choices"][0]["message"]["content"]
 
         questions_data = json.loads(result, strict=False)
+
+        return jsonify(questions_data)
     except Exception as e:
         print(e)
     print('responses generated')
 
-
-    return jsonify(questions_data)
 
 if __name__ == "__main__":
     app.run(debug=True)

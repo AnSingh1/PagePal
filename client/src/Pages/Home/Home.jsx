@@ -71,7 +71,11 @@ export default function Home() {
       <Card>
         {loading && <Loading />}
         <h2 className="text-text-dark font-display text-2xl">
-          Welcome to <span className="text-brand">PagePal</span>!
+          {(responseData && responseData.name) || (
+            <span>
+              Welcome to <span className="text-brand">PagePal</span>!
+            </span>
+          )}
         </h2>
         {sections[section]}
       </Card>

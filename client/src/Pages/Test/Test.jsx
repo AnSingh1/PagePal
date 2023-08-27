@@ -1,10 +1,10 @@
 import React, { useRef, useState, useEffect } from "react";
-import { useSearchParams } from "react-router-dom";
+import { useSearchParams, useNavigate } from "react-router-dom";
 
 import Loading from "../../Components/Loading";
 import Question from "./Components/Question";
 
-import tempData from "./tempQuestions.json" assert { type: "json" }; // TEMP UNTIL GENERATION
+// import tempData from "./tempQuestions.json" assert { type: "json" }; // TEMP UNTIL GENERATION
 
 export default function Test() {
   const formRef = useRef();
@@ -16,21 +16,25 @@ export default function Test() {
 
   const [searchParams] = useSearchParams();
 
-  const generateQuestions = async (data) => {
+  const navigate = useNavigate();
+
+  const generateQuestions = async (form) => {
     // GENERATE QUESTIONS
 
-    // const response = await fetch("/generate", {
-    //   method: "POST",
-    //   body: data
-    // })
+    const response = await fetch("/generate", {
+      method: "POST",
+      body: form,
+    });
 
-    // const data = await response.data();
+    const data = await response.data();
 
-    setQuestions(tempData);
+    setQuestions(data);
     setLoading(false);
   };
 
-  const onSubmit = (_) => {
+  const onSubmit = async (_) => {
+    if (finished) return navigate("/");
+
     setError("");
 
     const questions = formRef.current.querySelectorAll("#QUESTION");
@@ -44,7 +48,11 @@ export default function Test() {
     if (answers.length !== questions.length)
       return setError("Please answer every question.");
 
-    // setLoading(true);
+    setLoading(true);
+
+    await new Promise((r) => setTimeout(r, 2000));
+
+    setLoading(false);
     setFinished(true);
   };
 
@@ -69,7 +77,7 @@ export default function Test() {
           onClick={onSubmit}
           className="bg-brand/80 hover:bg-brand my-6 rounded-md px-4 py-2 font-sans text-white transition-colors"
         >
-          Submit
+          {!finished ? "Submit" : "Return Home"}
         </button>
       )}
       {error && (
