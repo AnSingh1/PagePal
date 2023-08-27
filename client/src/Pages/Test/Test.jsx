@@ -28,7 +28,7 @@ export default function Test() {
 
     const data = await response.data();
 
-    setQuestions(data);
+    setQuestions(data["questions"]);
     setLoading(false);
   };
 

@@ -36,7 +36,6 @@ export default function Home() {
     }
 
     setResponseData(data);
-    console.log(data);
 
     setSection(1);
     setLoading(false);

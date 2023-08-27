@@ -3,6 +3,11 @@ import React, { useRef } from "react";
 export default function Dropdown({ options, onSubmit }) {
   const selectRef = useRef();
 
+  if (options.includes("Entire book")) {
+    options.splice(options.indexOf("Entire book"), 1);
+    options.unshift("Entire book");
+  }
+
   return (
     <div className="flex gap-3">
       <select
