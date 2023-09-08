@@ -29,6 +29,7 @@ We, developers of PagePal, share a passion for reading and yet feel as though sc
 5. Put your OpenAI API in the .env file
 6. Run app.py
 
-PagePal was developed in 3 days for [TechOptimum Hacks 2023](https://hacks.techoptimum.org/).
+PagePal was developed in 3 days for [TechOptimum Hacks 2023](https://hacks.techoptimum.org/).<br>
+Result: 4th place Advanced
 <br>
 View our submission on [Devpost](https://devpost.com/software/PagePal).
